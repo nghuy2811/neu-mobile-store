@@ -2,42 +2,26 @@
 001DL,1,1,Qualcomm Snapdragon QSD8250,800,5,480,dl,DELL,512,2560,DELL Streak,android,2.2,0,0
 001HT,1,1,Qualcomm Snapdragon MSM8255,800,4.3,480,ht,HTC,768,1536,HTC Desire HD,android,2.3,0,0
 003P,1,1,Texas Instruments OMAP3630,854,4.3,480,p,Panasonic,512,1024,Sweety,android,2.3,0,0
-003SH,1,1,Qualcomm Snapdragon MSM8255,800,3.8,480,sh,SHARP,512,1024,GALAPAGOS,android,2.3,0,0
-003Z,1,0.6,Qualcomm MSM7227-1,800,3.5,480,z,ZTE,512,512,Libero,android,2.2,0,0
-005SH,1,1,Qualcomm Snapdragon MSM8255,800,3.8,480,sh,SHARP,512,1024,GALAPAGOS,android,2.3,0,0
 006SH,1,1.4,Qualcomm Snapdragon MSM8255T,960,4.2,540,sh,SHARP,512,1536,AQUOS PHONE,android,2.3,0,0
-007HW,1,1,Qualcomm Snapdragon MSM8255,800,3.7,480,hw,Huawei,512,2048,Vision,android,2.3,0,0
-007SH,1,1,Qualcomm Snapdragon MSM8255,854,3.4,480,sh,SHARP,512,1024,AQUOS PHONE THE HYBRID,android,2.3,0,0
-007SH_J,1,1,Qualcomm Snapdragon MSM8255,854,3.4,480,sh,SHARP,512,1024,AQUOS PHONE THE HYBRID,android,2.3,0,0
-007SH_KT,1,1,Qualcomm Snapdragon MSM8255,854,3.4,480,sh,SHARP,512,1024,007SH KT,android,2.3,0,0
-008Z,1,1,Qualcomm Snapdragon MSM8255,800,3.8,480,z,ZTE,512,4096,ｼﾝﾌﾟﾙｽﾏｰﾄﾌｫﾝ,android,2.3,0,0
 009SH,1,1,Qualcomm Snapdragon MSM8255,960,4,540,sh,SHARP,512,2048,AQUOS PHONE THE PREMIUM,android,2.3,0,0
 009SH_Y,1,1,Qualcomm Snapdragon MSM8255,960,4,540,sh,SHARP,512,2048,Yahoo! Phone,android,2.3,0,0
-009Z,1,1,Qualcomm Snapdragon MSM8255,800,3.8,480,z,ZTE,512,4096,STAR 7,android,2.3,0,0
 101DL,2,1.5,Qualcomm Snapdragon MSM8260,960,4.3,540,dl,DELL,1024,8192,DELL Streak Pro,android,2.3,0,0
 101F,2,1.5,Qualcomm Snapdragon MSM8960,960,4.3,540,f,Fujitsu,1024,8192,ARROWS A,android,4.1,0,0
-101K,2,1.2,ルネサス R-Mobile APE5R,800,3.5,480,k,KYOCERA,512,2048,HONEY BEE,android,2.3,0,0
 101N,1,1.4,Qualcomm Snapdragon MSM8255,800,4,480,n,NEC,512,2048,MEDIAS CH,android,2.3,0,0
 101P,2,1,Texas Instruments OMAP4430,960,4,540,p,Panasonic,1024,2048,LUMIX Phone,android,2.3,0,0
-101SH,1,1,Qualcomm Snapdragon MSM8255,854,3.4,480,sh,SHARP,512,1229,AQUOS PHONE THE HYBRID,android,2.3,0,0
-102P,2,1,Texas Instruments OMAP4430,960,4.3,540,p,Panasonic,1024,16384,102P,android,2.3,0,0
 102SH,2,1,Texas Instruments OMAP4430,1280,4.5,720,sh,SHARP,1024,4096,AQUOS PHONE,android,4,0,0
 102SHII,2,1,Texas Instruments OMAP4430,1280,4.5,720,sh,SHARP,1024,4096,AQUOS PHONE,android,4,0,0
 103SH,1,1.4,Qualcomm Snapdragon MSM8255,960,4,540,sh,SHARP,512,2253,AQUOS PHONE,android,2.3,0,0
 104SH,2,1.5,Texas Instruments OMAP4460,1280,4.5,720,sh,SHARP,1024,16384,AQUOS PHONE,android,4,0,0
 106SH,2,1.5,Qualcomm Snapdragon MSM8260A,1280,4.7,720,sh,SHARP,1024,32768,AQUOS PHONE Xx,android,4,0,0
-107SH,1,1.4,Qualcomm Snapdragon MSM8255,854,3.7,480,sh,SHARP,1024,4096,PANTONE® 5,android,4,0,0
-107SH_B,1,1.4,Qualcomm Snapdragon MSM8255,854,3.7,480,sh,SHARP,1024,4096,ボス電,android,4,0,0
 200SH,2,1.5,Qualcomm Snapdragon MSM8960,1280,4.5,720,sh,SHARP,1024,8192,PANTONE® 6,android,4.1,0,0
 201F,4,1.5,Qualcomm Snapdragon APQ8064,1280,4.7,720,f,Fujitsu,2048,32768,ARROWS A,android,4.1,0,0
 201HW,2,1.5,Qualcomm Snapdragon MSM8960,960,4.3,540,hw,Huawei,1024,4096,STREAM,android,4,0,0
 201HW_,2,1.5,Qualcomm Snapdragon MSM8960,960,4.3,540,hw,Huawei,1024,4096,STREAM,android,4,0,0
-201K,2,1.5,Qualcomm Snapdragon MSM8960,800,3.7,480,k,KYOCERA,1024,4096,HONEY BEE,android,4.1,0,0
 201M,2,1.5,Qualcomm Snapdragon MSM8960,960,4.3,540,m,Motorola,1024,8192,RAZR M,android,4.1,0,0
 202F,4,1.7,Qualcomm Snapdragon 600 APQ8064T,1920,5,1080,f,Fujitsu,2048,65536,ARROWS A,android,4.2,1,1
 202K,2,1.5,Qualcomm Snapdragon MSM8960,1280,4.3,720,k,KYOCERA,1536,16384,DIGNO R,android,4.2,0,0
 203SH,4,1.5,Qualcomm Snapdragon APQ8064,1280,4.9,720,sh,SHARP,2048,32768,AQUOS PHONE Xx,android,4.1,0,0
-204SH,1,1.4,Qualcomm Snapdragon MSM8255,800,4,480,sh,SHARP,1024,4096,シンプルスマホ,android,4,0,0
 205SH,2,1.5,Qualcomm Snapdragon MSM8960,854,4,480,sh,SHARP,1024,8192,AQUOS PHONE ss,android,4.1,0,0
 206SH,4,1.7,Qualcomm Snapdragon 600 APQ8064T,1920,5,1080,sh,SHARP,2048,32768,AQUOS PHONE Xx,android,4.2,1,1
 301F,4,2.2,Qualcomm Snapdragon 800 MSM8974,1920,5,1080,f,Fujitsu,2048,65536,ARROWS A,android,4.2,1,1
@@ -47,7 +31,6 @@
 303SH,4,2.2,Qualcomm Snapdragon 800 MSM8974,1920,4.5,1080,sh,SHARP,2048,16384,AQUOS PHONE Xx mini,android,4.2,0,0
 304SH,4,2.3,Qualcomm Snapdragon 801 MSM8974AB,1920,5.2,1080,sh,SHARP,2048,32768,AQUOS Xx,android,4.4,1,1
 305SH,4,1.2,Qualcomm、Snapdragon 400 MSM8926,1280,5,720,sh,SHARP,1536,8192,AQUOS CRYSTAL,android,4.4,0,0
-401SH,4,1.2,Qualcomm Snapdragon 400 MSM8926,1280,4.5,720,sh,SHARP,1536,8192,シンプルスマホ2,android,4.4,0,0
 401SO,4,2.5,Qualcomm Snapdragon 801 MSM8974AC,1920,5.2,1080,so,Sony mobile,3072,32768,Xperia Z3,android,5,1,1
 402SH,4,2.3,Qualcomm、Snapdragon 801 MSM8974AB,1920,5.5,1080,sh,SHARP,2048,16384,AQUOS CRYSTAL X,android,4.4,1,1
 402SO,8,2,Qualcomm Snapdragon 810 MSM8994,1920,5.2,1080,so,Sony mobile,3072,32768,Xperia Z4,android,5,1,1
@@ -63,45 +46,29 @@ ARROWS_M01,4,1.2,Qualcomm Snapdragon 400 MSM8926,1280,4.5,720,f,Fujitsu,1024,819
 AST21,4,2.3,Intel Atom Z3580,1200,8,1920,as,ASUS,2048,16384,ASUS MeMO Pad 8,android,4.4.2,1,1
 ASUS_T00J,2,1.6,Intel Atom Z2560,1280,5,720,as,ASUS,1024,8192,ASUS Zenfone 5,android,4.3,0,0
 AXON_mini,8,1.7,Qualcomm Snapdragon 616 MSM8939,1920,5.2,1080,z,ZTE,3072,32768,AXON mini,android,5.1,1,1
-Alcatel_OneTouch_Idol_3,8,1,Qualcom Snapdragon 615 MSM8939,1920,5.5,1080,_,,2048,16384,Alcatel OneTouch　Idol 3,android,5,0,0
 Ascend_G6,4,1.2,Qualcomm Snapdragon 400 MSM8926,960,4.5,540,hw,Huawei,1024,8192,Ascend G6,android,4.3,0,0
 Ascend_G620S,4,1.2,Qualcomm Snapdragon 410 MSM8916,1280,5,720,hw,Huawei,1024,8192,Ascend G620S,android,4.4,0,0
 Ascend_Mate7,8,1.8,Hisilicon Kirin925,1920,6,1080,hw,Huawei,2048,16384,Ascend Mate7,android,4.4,1,1
 Ascend_P7,4,1.8,Hisilicon Krin910T,1920,5,1080,hw,Huawei,2048,16384,Ascend P7,android,4.4,1,1
-AuBee_smartphone_elm,4,1.3,,800,4,480,_,,1024,8192,AuBee smartphone elm.,android,5.1,0,0
 BLADE_Q_PLUS,4,1.2,Qualcomm Snapdragon 410 MSM8916,854,4.5,480,z,ZTE,1024,8192,BLADE Q+,android,4.4,0,0
-BlackBerry_Bold,1,0.6,Marvell PXA930,320,2.7,480,rim,BlackBerry,128,1024,BlackBerry Bold,blackberry,5,0,0
-BlackBerry_Bold_9700,1,0.6,Marvell PXA930,360,2.4,480,rim,BlackBerry,256,256,BlackBerry Bold,blackberry,5,0,0
-BlackBerry_Bold_9780,1,0.6,Marvell PXA930,360,2.4,480,rim,BlackBerry,512,512,BlackBerry Bold,blackberry,6,0,0
-BlackBerry_Bold_9900,1,1.2,Qualcomm Snapdragon MSM8655,480,2.8,640,rim,BlackBerry,768,8192,BlackBerry Bold,blackberry,7.1,0,0
-BlackBerry_Curve,1,0.6,Marvell PXA930,240,2.4,320,rim,BlackBerry,256,256,BlackBerry,blackberry,5,0,0
 Blade_V6,4,1.3,Mediatek MT6735,1280,5,720,z,ZTE,2048,16384,Blade V6,android,5,0,0
 Blade_Vec_4G,4,1.2,Qualcomm Snapdragon 400 MSM8926,1280,5,720,z,ZTE,1024,16384,Blade Vec 4G,android,4.4,0,0
 CAL21,2,1.5,Qualcomm Snapdragon MSM8960,800,4,480,ca,CASIO,1024,8192,G'zOne TYPE-L,android,4,0,0
-DG-W10M,4,1.1,Qualcomm Snapdragon 210 MSM8909,1280,5,720,_,,1024,16384,Diginnos Mobile,,10 Mobile,0,0
 DIGNO_C_404KC,4,1.2,Qualcomm Snapdragon 410 MSM8916,960,5,540,k,KYOCERA,1024,8192,DIGNO C,android,4.4,0,0
 DIGNO_U,4,1.2,Qualcomm Snapdragon 410 MSM8916,960,5,540,k,KYOCERA,1024,8192,DIGNO U,android,4.4,0,0
 DM-01G,4,2.5,Qualcomm Snapdragon 801 MSM8974AC,1920,5.2,1080,l,LG,2048,16384,Disney Mobile on docomo,android,5,1,1
 DM-01H,6,1.8,Qualcomm Snapdragon 808 MSM8992,1920,4.7,1080,sh,SHARP,3072,16384,Disney Mobile on docomo ,android,5.1,0,0
-DM009SH,1,1,Qualcomm Snapdragon MSM8255,800,3.8,480,sh,SHARP,512,1024,DM009SH,android,2.3,0,0
 DM010SH,1,1,Qualcomm Snapdragon MSM8255,960,4,540,sh,SHARP,512,2048,DM010SH,android,2.3,0,0
-DM011SH,1,1,Qualcomm Snapdragon MSM8255,854,3.4,480,sh,SHARP,512,1229,DM011SH,android,2.3,0,0
 DM012SH,1,1.4,Qualcomm Snapdragon MSM8255,960,4,540,sh,SHARP,512,4096,DM012SH,android,2.3,0,0
-DM013SH,1,1.4,Qualcomm Snapdragon MSM8255,854,3.7,480,sh,SHARP,1024,4096,DM013SH,android,4,0,0
 DM014SH,2,1.5,Qualcomm Snapdragon MSM8960,1280,4.5,720,sh,SHARP,1024,8192,DM014SH,android,4.1,0,0
 DM015K,2,1.5,Qualcomm MSM8960,1280,4.3,720,k,KYOCERA,1536,16384,DM015K,android,4.2,0,0
 DM016SH,4,2.2,Qualcomm Snapdragon 800 MSM8974,1920,5.2,1080,sh,SHARP,2048,32768,DM016SH,android,4.2,1,1
-E30HT,1,0.4,ARM ARM11E,640,2.8,480,ht,HTC,256,512,E30HT,windowsmobile,6.1,0,0
-EIS01PT,1,1,Qualcomm Snapdragon MSM8655,800,3.7,480,pt,Pantech,512,1024,EIS01PT,android,2.3,0,0
 EM01F,4,1.5,Qualcomm Snapdragon S4 Pro APQ8064,1280,4.7,720,f,Fujitsu,2048,32768,ARROWS S,android,4.1,0,0
-Every_Phone,4,1.2,Qualcomm Snapdragon 410 MSM8916,1280,5.5,720,_,,2048,32768,Every Phone,,10 Mobile,0,0
 F-01F,4,2.2,Qualcomm Snapdragon 800 MSM8974,1920,5,1080,f,Fujitsu,2048,32768,ARROWS NX,android,4.4,1,1
 F-01H,4,1.2,Qualcomm Snapdragon 410 MSM8916,1280,5,720,f,Fujitsu,2048,16384,arrows Fit,android,5.1,0,0
 F-02E,4,1.7,NVIDIA Tegra3,1920,5,1080,f,Fujitsu,2048,32768,ARROWS X,android,4.1,1,1
 F-02G,4,2.3,Qualcomm、Snapdragon 801 MSM8974AB,2560,5.2,1440,f,Fujitsu,3072,32768,ARROWS NX,android,5,1,1
 F-02H,6,1.8,Qualcomm Snapdragon 808 MSM8992,2560,5.4,1440,f,Fujitsu,3072,32768,arrows NX ,android,5.1,1,1
-F-03D,1,1.4,Qualcomm Snapdragon MSM8255,800,3.7,480,f,Fujitsu,512,1024,ARROWS kiss ,android,2.3,0,0
-F-03D_Girls,1,1.4,Qualcomm Snapdragon MSM8255,800,3.7,480,f,Fujitsu,512,1024,F-03D Girls,android,2.3,0,0
 F-03E,2,1.5,Qualcomm Snapdragon MSM8960,960,4,540,f,Fujitsu,1024,8192,ARROWS Kiss,android,4.1,0,0
 F-03F,4,2.2,Qualcomm Snapdragon 800 MSM8974,1280,4.7,720,f,Fujitsu,2048,32768,Disney Mobile on docomo,android,4.2,0,0
 F-03G,4,2.3,MSM8974AB,1600,10.5,2560,,Fujitsu,2048,16384,ARROWS Tab F-03G,android,4.4.4,1,1
@@ -110,40 +77,18 @@ F-04G,8,2,Qualcomm Snapdragon 810 MSM8994,2560,5.2,1440,f,Fujitsu,3072,32768,ARR
 F-05D,2,1.2,Texas Instruments OMAP4430,1280,4.3,720,f,Fujitsu,1024,8192,ARROWS X LTE,android,4,0,0
 F-05F,4,2.3,Qualcomm Snapdragon 801 MSM8974AB,1920,5,1080,f,Fujitsu,2048,32768,ARROWS NX,android,4.4,1,1
 F-06E,4,1.7,Qualcomm Snapdragon 600 APQ8064T,1920,5.2,1080,f,Fujitsu,2048,65536,ARROWS NX,android,4.2,1,1
-F-06F,4,1.2,Qualcomm Snapdragon 400 MSM8926,1280,4.5,720,f,Fujitsu,2048,8192,らくらくスマートフォン3,android,4.4,0,0
 F-07D,1,1.4,Qualcomm Snapdragon MSM8255,800,4,480,f,Fujitsu,512,1024,ARROWS μ,android,2.3,0,0
 F-07E,4,1.7,Qualcomm Snapdragon 600 APQ8064T,1280,4.7,720,f,Fujitsu,2048,65536,Disney Mobile on docomo,android,4.2,0,0
 F-08D,2,1.2,Texas Instruments OMAP4430,1280,4.3,720,f,Fujitsu,1024,4096,Disney Mobile on docomo,android,4,0,0
-F-08E,4,1.7,Qualcomm Snapdragon 600 APQ8064T,960,4.3,540,f,Fujitsu,2048,8192,らくらくスマートフォン2,android,4.2,0,0
-F-09D,1,1.4,Qualcomm Snapdragon MSM8255,800,3.7,480,f,Fujitsu,1024,2048,F-09D,android,4,0,0
-F-09E,4,1.7,Qualcomm Snapdragon 600 APQ8064T,960,4.3,540,f,Fujitsu,2048,16384,らくらくスマートフォン プレミアム,android,4.2,0,0
 F-10D,4,1.5,NVIDIA Tegra 3 AP33,1280,4.6,720,f,Fujitsu,1024,16384,ARROWS X,android,4.2,0,0
-F-11D,1,1,Qualcomm Snapdragon MSM8255,800,3.7,480,f,Fujitsu,1024,2048,ARROWS Me,android,4,0,0
-F-12C,1,1,Qualcomm Snapdragon MSM8255,800,3.7,480,f,Fujitsu,512,1024,F-12C,android,2.3,0,0
-F-12D,1,1.4,Qualcomm Snapdragon MSM8255,800,4,480,f,Fujitsu,1024,4096,らくらく,android,4,0,0
 FJL21,2,1.5,Qualcomm Snapdragon MSM8960,1280,4.3,720,f,Fujitsu,1024,8192,ARROWS ef,android,4.1,0,0
 FJL22,4,2.2,Qualcomm Snapdragon 800 MSM8974,1920,5,1080,f,Fujitsu,2048,32768,ARROWS Z,android,4.2,1,1
-FLEAZ_F4,4,1.2,,960,4.5,540,co,Covia,1024,8192,FLEAZ F4,android,4.4,0,0
-FLEAZ_F4s,4,1.2,,800,4,480,co,Covia,512,4096,FLEAZ F4s,android,4.4,0,0
-FLEAZ_F5,4,1.2,,960,5,540,co,Covia,1024,8192,FLEAZ F5,android,4.4,0,0
-FLEAZ_NEO,4,1.3,,800,4,480,co,Covia,1024,8192,FLEAZ NEO,android,5.1,0,0
-FLEAZ_POP,4,1.2,,800,4,480,co,Covia,1024,8192,FLEAZ POP,android,5.1,0,0
-FXC-35,2,1,MediaTek MT6572M,480,3.5,320,_,,512,4096,geanee,android,4.4,0,0
-FXC-5A,4,1.3,Mediatek MT6582M,960,5,540,_,,512,4096,geanee,android,4.4,0,0
-Flame,2,1.2,Qualcomm Snapdragon MSM8610,480,4.5,854,m,Mozilla,1024,32768,Firefox Flame,firefox,1.3,0,0
-FleaPhone_CP-D02,2,1,MediaTek MTK6577 Cortex-A9,854,4.63,480,co,Covia,512,4096,FleaPhone,android,4,0,0
-FleaPhone_CP-F03a,4,1.2,,960,4.5,540,co,Covia,512,4096,FleaPhone,android,4.2,0,0
 GL07S,4,1.5,HiSilicon K3V2,1280,4.7,720,hw,Huawei,1024,32768,STREAM X,android,4.1,0,0
-GM-01A,4,1.2,Qualcomm Snapdragon 410 MSM8916,960,4.5,540,_,,1024,8192,GM-01A,android,5.1,0,0
 GS01,2,1.5,Qualcomm Snapdragon MSM8260,960,4.3,540,dl,DELL,1024,8192,Dell Streak Pro,android,2.3,0,0
 GS02,1,1.4,Qualcomm Snapdragon MSM8255T,854,4,480,hw,Huawei,512,4096,GS02,android,2.3,0,0
 GS03,2,1.5,Texas Instruments OMAP4460,960,4.3,540,hw,Huawei,1024,4096,GS03,android,4,0,0
-G_Watch_R,4,1.2,Qualcomm Snapdragon 400,320,1.3,320,,LG,512,4096,G Watch R,Android Wear,5.0.1,0,0
 HM_1S,4,1.6,Qualcomm MSM8228 Snapdragon,1280,4.7,720,,Xiaomi,1024,8192,Xiaomi Hongmi 1S,android,4.3,0,0
 HM_NOTE_1W,8,1.4,Mediatek MT6592,1280,5.5,720,,Xiaomi,1024,16384,Redmi Note 1W,android,4.2.2,0,0
-HT-01A,1,0.5,Qualcomm MSM7201A,640,2.8,480,ht,HTC,288,512,HT-01A,windowsmobile,6.1,0,0
-HT-02A,1,0.5,Qualcomm MSM7201A,640,2.8,480,ht,HTC,192,256,HT-02A,windowsmobile,6.1,0,0
-HT-03A,1,0.5,Qualcomm MSM7201A,480,3.2,320,ht,HTC,192,512,HT-03A,android,1.6,0,0
 HTC_Desire_626,4,1.2,Qualcomm Snapdragon 410 MSM8916,1280,5,720,ht,HTC,2048,16384,HTC Desire 626,android,5.1,0,0
 HTC_Desire_EYE,4,2.3,Qualcomm Snapdragon 800 MSM8974,1920,5.2,1080,ht,HTC,2048,16384,HTC Desire EYE,android,5.1,1,1
 HTL21,4,1.5,Qualcomm Snapdragon APQ8064,1920,5,1080,ht,HTC,2048,16384,HTC J butterfly,android,4.1,1,0
@@ -152,31 +97,16 @@ HTL23,4,2.5,Qualcomm Snapdragon 801 MSM8974AC,1920,5,1080,ht,HTC,2048,32768,HTC 
 HTV31,8,2,Qualcomm Snapdragon 810 MSM8994,2560,5.2,1440,ht,HTC,3072,32768,HTC J butterfly,android,5,1,1
 HW-01E,2,1.5,Qualcomm Snapdragon MSM8960,1280,4.5,720,hw,Huawei,1024,8192,Ascend,android,4,0,0
 HW-03E,4,1.5,Hisilicom K3V2,1280,4.7,720,hw,Huawei,2048,32768,Ascend D2,android,4.1,0,0
-IDEOS,1,0.528,Qualcomm MSM7225,320,2.8,240,hw,Huawei,256,512,IDEOS,android,2.2,0,0
-INFOBAR_A01,1,1.4,Qualcomm Snapdragon MSM8655T,960,3.7,540,sh,SHARP,512,2048,INFOBAR A01,android,2.3,0,0
 INFOBAR_A02,4,1.5,Qualcomm Snapdragon S4 Pro APQ8064,1280,4.7,720,ht,HTC,1024,16384,INFOBAR A02,android,4.1,0,0
-INFOBAR_C01,1,1.4,Qualcomm Snapdragon MSM8655T,854,3.2,480,sh,SHARP,512,2048,INFOBAR C01,android,2.3,0,0
-IS01,1,1,Qualcomm Snapdragon QSD8650,960,5,480,sh,SHARP,256,4096,IS01,android,1.6,0,0
-IS02,1,1,Qualcomm Snapdragon QSD8650,800,4.1,480,to,Toshiba,384,512,IS02,windowsmobile,6.5.3,0,0
-IS03,1,1,Qualcomm Snapdragon QSD8650,960,3.5,640,sh,SHARP,512,512,IS03,android,2.2,0,0
 IS04,1,1,Qualcomm Snapdragon QSD8650,854,4,480,t,Fujitsu Toshiba,512,1024,REGZA Phone,android,2.1,0,0
-IS05,1,1,Qualcomm Snapdragon MSM8655,854,3.4,480,sh,SHARP,512,1024,IS05,android,2.3,0,0
-IS06,1,1,Qualcomm Snapdragon QSD8650,800,3.7,480,pt,Pantech,512,1024,SIRIUS α,android,2.2,0,0
-IS11CA,1,1,Qualcomm Snapdragon MSM8655,800,3.6,480,ca,CASIO,512,1024,G'zOne,android,2.3,0,0
 IS11LG,2,1.2,NVIDIA Tegra 2 AP25H,800,4,480,l,LG,1024,4096,optimus X,android,4,0,0
-IS11N,1,1.4,Qualcomm Snapdragon MSM8655,800,3.6,480,n,NEC,512,2048,MEDIAS BR,android,2.3,0,0
-IS11PT,1,1,Qualcomm Snapdragon MSM8655,800,3.7,480,pt,Pantech,512,1024,MIRACH,android,2.3,0,0
 IS11S,1,1,Qualcomm Snapdragon MSM8655,854,4.2,480,so,Sony mobile,512,1024,Xperia acro,android,2.3,0,0
-IS11SH,1,1.4,Qualcomm Snapdragon MSM8655T,960,3.7,540,sh,SHARP,512,2048,AQUOS PHONE,android,2.3,0,0
 IS11T,1,1.4,Qualcomm Snapdragon MSM8655T,854,4,480,t,Fujitsu Toshiba,512,1024,REGZA Phone,android,2.3,0,0
 IS12F,1,1.4,Qualcomm Snapdragon MSM8655,800,4,480,t,Fujitsu Toshiba,512,1024,ARROWS ES,android,2.3,0,0
 IS12M,2,1.2,Texas Instruments OMAP4430,960,4.3,540,m,Motorola,1024,16384,MOTOROLA RAZR,android,4,0,0
 IS12S,2,1.5,Qualcomm Snapdragon MSM8660,1280,4.3,720,so,Sony mobile,1024,16384,Xperia acro HD,android,4,0,0
 IS12SH,1,1.4,Qualcomm Snapdragon MSM8655T,960,4.2,540,sh,SHARP,512,2048,AQUOS PHONE,android,2.3,0,0
-IS12T,1,1,Qualcomm Snapdragon MSM8655,800,3.7,480,t,Fujitsu Toshiba,512,32768,Windows® Phone,windowsphone,7.8,0,0
 IS13SH,1,1.4,Qualcomm Snapdragon MSM8655,960,4.2,540,sh,SHARP,512,4096,AQUOS PHONE,android,2.3,0,0
-IS14SH,1,1.4,Qualcomm Snapdragon MSM8655T,960,3.7,540,sh,SHARP,512,2048,AQUOS PHONE,android,2.3,0,0
-IS15SH,1,1.4,Qualcomm Snapdragon MSM8655,960,3.7,540,sh,SHARP,1024,4096,AQUOS PHONE SL,android,4,0,0
 IS17SH,1,1.4,Qualcomm Snapdragon MSM8655,960,4.2,540,sh,SHARP,1024,8192,AQUOS PHONE CL,android,4,0,0
 ISW11F,2,1.2,Texas Instruments OMAP4430,1280,4.3,720,t,Fujitsu Toshiba,1024,8192,ARROWS Z,android,4,0,0
 ISW11HT,1,1,Qualcomm Snapdragon QSD8650,800,4.3,480,ht,HTC,512,1024,htc EVO WiMAX,android,2.3,0,0
@@ -188,7 +118,6 @@ ISW13F,4,1.5,NVIDIA Tegra 3 AP33,1280,4.6,720,f,Fujitsu,1024,16384,ARROWS Z,andr
 ISW13HT,2,1.5,Qualcomm Snapdragon MSM8660A,960,4.3,540,ht,HTC,1024,16384,HTC J,android,4,0,0
 ISW16SH,2,1.5,Qualcomm Snapdragon MSM8660A,1280,4.6,720,sh,SHARP,1024,16384,AQUOS PHONE SERIE,android,4,0,0
 K013,4,1.33,Intel Atom Z3745,800,7,1280,as,ASUS,1024,16384,ASUS MeMO Pad 7,android,4.4.2,0,0
-KATANA_01,4,1.1,,854,4.5,480,_,,1024,8192,KATANA 01,,10 Mobile,0,0
 KC-01,4,1.2,Qualcomm Snapdragon 400 MSM8926,960,4.5,540,k,KYOCERA,1536,8192,KC-01,android,4.4,0,0
 KFTHWI,4,2.2,Qualcomm Snapdragon 800,1200,7,1920,,Amazon,2048,16384,Kindle Fire HDX 7,android,4.2.2,1,1
 KYL21,2,1.5,Qualcomm Snapdragon MSM8960,1280,4.7,720,k,KYOCERA,1024,16384,DIGNO S,android,4,0,0
@@ -207,7 +136,6 @@ L-01E,4,1.5,Qualcomm Snapdragon APQ8064,1280,4.7,720,l,LG,2048,16384,Optimus G,a
 L-01F,4,2.3,Qualcomm Snapdragon 800 MSM8974,1920,5.2,1080,l,LG,2048,32768,G2,android,4.2,1,1
 L-02D,2,1,Texas Instruments OMAP4430,800,4.3,480,l,LG,1024,16384,PRADA phone,android,4,0,0
 L-02E,2,1.5,Qualcomm Snapdragon MSM8960,1280,4.5,720,l,LG,1024,8192,Optimus LIFE,android,4.1,0,0
-L-04C,1,0.6,Qualcomm MSM7227,480,3.2,320,l,LG,512,256,Optimus chat,android,2.2,0,0
 L-04E,4,1.7,Qualcomm Snapdragon S4 Pro APQ8064,1920,5,1080,l,LG,2048,32768,Optimus G pro,android,4.1,1,1
 L-05D,2,1.5,Qualcomm Snapdragon MSM8960,800,4,480,l,LG,1024,8192,Optimus it,android,4.1,0,0
 L-05E,4,1.7,Qualcomm Snapdragon 600 APQ8064T,1280,4.5,720,l,LG,2048,32768,Optimus it,android,4.2,0,0
@@ -222,7 +150,6 @@ LGL22,4,2.3,Qualcomm Snapdragon 800 MSM8974,1920,5.2,1080,l,LG,2048,32768,isai,a
 LGL23,4,2.3,Qualcomm Snapdragon 800 MSM8974,1280,6,720,l,LG,2048,32768,G Flex,android,4.2,1,1
 LGL24,4,2.4,Qualcomm Snapdragon 801 MSM8974AC,2560,5.5,1440,l,LG,2048,32768,isai FL,android,5,1,1
 LGL25,4,1.2,Qualcomm Snapdragon 400 MSM8926,1280,4.7,720,l,LG,1536,16384,Fx0,,2,0,0
-LGS01,4,1.1,Qualcomm Snapdragon 210 MSM8909,480,3.2,320,l,LG,1024,4096,LG Wine Smart,android,5.1,0,0
 LGV31,4,2.5,Qualcomm Snapdragon 801 MSM8974AC,2560,5.5,1440,l,LG,3072,32768,isai VL,android,5,1,1
 LGV32,6,1.8,Qualcomm Snapdragon 808 MSM8992,2560,5.5,1440,l,LG,3072,32768,isai vivid,android,5.1,1,1
 LG_G2_mini,4,1.2,Qualcomm Snapdragon 400 MSM8226,960,4.7,540,l,LG,1024,8192,LG G2 mini,android,4.4,0,0
@@ -231,8 +158,6 @@ LINEAGE,4,1.3,ARM Cortex-A7,960,5,540,po,Polaroid,1024,4096,LINEAGE,android,4.2,
 Liquid_Z200,2,1,MediaTek MT6572M,800,4,480,ac,Acer,512,4096,Liquid Z200,android,4.4,0,0
 Liquid_Z330,4,1.1,Qualcomm Snapdragon 210 MSM8909,854,4.5,480,ac,Acer,1024,8192,Liquid Z330,android,5.1,0,0
 Liquid_Z530,4,1.3,Mediatek MT6735,1280,5,720,ac,Acer,2048,16384,Liquid Z530,android,5.1,0,0
-MADOSMA_Q501,4,1.2,Qualcomm Snapdragon 410 MSM8916,1280,5,720,_,,1024,8192,MADOSMA Q501,windowsphone,8.1,0,0
-MADOSMA_Q501A,4,1.2,Qualcomm Snapdragon 410 MSM8916,1280,5,720,_,,1024,8196,MADOSMA Q501A,,10 Mobile,0,0
 MI_3W,4,2.3,Qualcomm MSM8274AB Snapdragon 801,1080,5,1920,,Xiaomi,2048,16384,Xiaomi Mi 3,android,4.4.2,1,1
 MI_4W,4,2.5,Qualcomm Snapdragon 801,1920,5,1080,,Xiaomi,3072,16384,Xiaomi Mi 4,android,4.4.4,1,1
 Mate_S,8,2.2,Hisilicon Kirin935,1920,5.5,1080,hw,Huawei,3072,131072,Mate S,android,5.1,1,1
@@ -240,7 +165,6 @@ N-01D,1,1.4,Qualcomm Snapdragon MSM8255,800,4,480,n,NEC,512,2048,MEDIAS PP,andro
 N-02E,2,1.5,Qualcomm Snapdragon MSM8960,800,4,480,n,NEC,1024,8192,MEDIAS U,android,4.1,0,0
 N-02E_ONE_PIECE,2,1.5,Qualcomm Snapdragon MSM8960,800,4,480,n,NEC,1024,8192,N-02E,android,4.1,0,0
 N-03E,4,1.5,Qualcomm Snapdragon APQ8064,1280,4.7,720,n,NEC,2048,32768,Disney Mobile on docomo,android,4.1,0,0
-N-04C,1,0.8,Qualcomm Snapdragon MSM7230,854,4,480,n,NEC,512,1024,MEDIAS,android,2.3,0,0
 N-04D,2,1.2,Qualcomm Snapdragon APQ8060,1280,4.3,720,n,NEC,1024,16384,MEDIAS LTE,android,4,0,0
 N-04E,4,1.5,Qualcomm Snapdragon S4 Pro APQ8064,1280,4.7,720,n,NEC,2048,32768,MEDIAS X,android,4.1,0,0
 N-05D,2,1.5,Qualcomm Snapdragon MSM8260,1280,4.3,720,n,NEC,1024,4096,MEDIAS ES,android,4,0,0
@@ -258,11 +182,6 @@ Nexus_6P,8,2,Qualcomm Snapdragon 810 MSM8994,2560,5.7,1440,hw,Huawei,3072,65536,
 Nexus_7_2012,4,1.2,Qualcomm Snapdragon 400 MSM8926,1280,7,800,as,ASUS,1024,8192,Nexus 7 (2012),android,4.3,0,0
 Nexus_7_2013,4,1.51,Krait 300,1920,7.02,1200,as,ASUS,2048,16384,Nexus 7 (2013),android,4.3,1,1
 Nexus_9,2,2.3,Nvidia Tegra K1 64 bits,2048,8.9,1536,,HTC,2048,16384,Nexus 9,android,5,1,0
-ONE-FIVE_C1,4,1,MediaTek MT6735,1280,5,720,_,,1024,8192,ONE-FIVE C1,android,5.1,0,0
-ONE-FIVE_F1,8,1.5,MediaTek MT6753,1920,5,1080,_,,2048,16384,ONE-FIVE F1,android,5.1,1,0
-ONE-FIVE_F1L,8,1.5,MediaTek MT6753,1920,5.5,1080,_,,2048,16384,ONE-FIVE F1L,android,5.1,1,0
-ONETOUCH_IDOL_2_S,4,1.2,Qualcomm Snapdragon 400 MSM8926,1280,5,720,_,,1024,8192,ONETOUCH IDOL 2 S,android,4.3,0,0
-P-01D,1,1,Qualcomm Snapdragon MSM8255,800,3.2,480,p,Panasonic,512,1024,P-01D,android,2.3,0,0
 P-02D,2,1,Texas Instruments OMAP4430,960,4,540,p,Panasonic,1024,2048,LUMIX Phone,android,4,0,0
 P-02E,4,1.5,Qualcomm Snapdragon S4 Pro APQ8064,1920,5,1080,p,Panasonic,2048,32768,ELUGA X,android,4.1,1,0
 P-03E,4,1.7,Qualcomm Snapdragon 600 APQ8064T,1920,4.7,1080,p,Panasonic,2048,32768,ELUGA P,android,4.2,0,0
@@ -275,20 +194,7 @@ P8lite,8,1.2,Hisilicon Kirin620,1280,5,720,hw,Huawei,2048,16384,P8lite,android,5
 P8max,8,2.2,Hisilicon Kirin935,1920,6.8,1080,hw,Huawei,3072,32768,P8max,android,5.1,1,1
 PTL21,2,1.5,Qualcomm Snapdragon MSM8960,1280,4.3,720,pt,Pantech,1024,16384,VEGA,android,4.1,0,0
 PolaSma,4,1.3,Cortex-A7,960,5,540,po,Polaroid,1024,4096,PolaSma,android,4.2,0,0
-Priori_3_LTE,4,1,,854,4.5,480,_,,1024,8096,Priori 3 LTE,android,5.1,0,0
-S11HT,1,0.4,Qualcomm MSM7200,320,2.8,240,ht,HTC,128,256,EMONSTER,windowsmobile,6,0,0
-S12HT,1,0.4,Qualcomm MSM7200,320,2.6,240,ht,HTC,128,256,EMONSTER lite,windowsmobile,6,0,0
-S21HT,1,0.4,Qualcomm MSM7200,640,2.8,480,ht,HTC,192,256,Touch Diamond,windowsmobile,6,0,0
-S22HT,1,0.5,Qualcomm MSM7225,320,2.4,240,ht,HTC,256,256,Dual Diamond,windowsmobile,6.1,0,0
 S301,4,1.2,Qualcomm Snapdragon 410 MSM8916,960,5,540,k,KYOCERA,1024,8192,S301,android,4.4,0,0
-S31HT,1,0.6,Qualcomm MSM7227,480,3.2,320,ht,HTC,384,512,Aria,android,2.2,0,0
-S31HW,1,0.5,Qualcomm MSM7200A,320,2.8,240,hw,Huawei,256,512,Pocket WiFi S,android,2.2,0,0
-S41HW,1,0.6,Qualcomm MSM7227,480,3.2,320,hw,Huawei,256,512,Pocket WiFi S II,android,2.3,0,0
-S42HW,1,0.8,Qualcomm MSM7227T,800,3,480,hw,Huawei,512,512,smart bar,android,2.3,0,0
-S51SE,1,1,Qualcomm Snapdragon MSM8255,480,3,320,so,Sony mobile,512,1024,Sony Ericsson mini,android,2.3,0,0
-SAMURAI_KIWAMI,8,2,MediaTek helio X10,2560,6,1440,_,,3072,32768,SAMURAI KIWAMI,android,5,1,1
-SAMURAI_MIYABI,4,1.3,MediaTek MT6735,1280,5,720,_,,2048,32768,SAMURAI MIYABI,android,5.1,0,0
-SC-01B,1,0.8,Samsung S3C6410,320,2.6,320,sc,SAMSUNG,256,512,SC-01B,windowsmobile,6.5,0,0
 SC-01F,4,2.3,Qualcomm Snapdragon 800 MSM8974,1920,5.7,1080,sc,SAMSUNG,3072,32768,GALAXY Note 3,android,5,1,1
 SC-01G,4,2.7,Qualcomm Snapdragon 805 APQ8084,2560,5.6,1600,sc,SAMSUNG,3072,32768,GALAXY Note Edge,android,5,1,1
 SC-01H,4,1.2,Qualcomm Snapdragon 410 MSM8916,800,4.5,480,sc,SAMSUNG,2048,16384,Galaxy Active neo ,android,5.1,0,0
@@ -322,34 +228,25 @@ SH-01F,4,2.2,Qualcomm Snapdragon 800 MSM8974,1920,5,1080,sh,SHARP,2048,32768,AQU
 SH-01F_DRAGON_QUEST,4,2.2,Qualcomm Snapdragon 800 MSM8974,1920,5,1080,sh,SHARP,2048,32768,SH-01F,android,4.2,1,1
 SH-01G,4,2.3,Qualcomm、Snapdragon 801 MSM8974AB,1920,5.5,1080,sh,SHARP,2048,32768,AQUOS ZETA,android,5,1,1
 SH-01H,6,1.8,Qualcomm Snapdragon 808 MSM8992,1920,5.3,1080,sh,SHARP,3072,32768,AQUOS ZETA,android,5.1,1,1
-SH-02D,1,1,Qualcomm Snapdragon MSM8255,960,3.7,540,sh,SHARP,512,2048,AQUOS Phone Slider,android,2.3,0,0
 SH-02E,4,1.5,Qualcomm Snapdragon APQ8064,1280,4.9,720,sh,SHARP,2048,32768,AQUOS PHONE ZETA,android,4.1,0,0
 SH-02F,4,2.2,Qualcomm Snapdragon 800 MSM8974,1920,4.5,1080,sh,SHARP,2048,16384,AQUOS PHONE EX,android,4.2,0,0
 SH-02G,4,2.3,Qualcomm、Snapdragon 801 MSM8974AB,1920,5.5,1080,sh,SHARP,2048,32768,Disney Mobile on docomo,android,4.4,1,1
 SH-02H,6,1.8,Qualcomm Snapdragon 808 MSM8992,1920,4.7,1080,sh,SHARP,3072,16384,AQUOS Compact,android,5.1,0,0
-SH-03C,1,1,Qualcomm Snapdragon QSD8250,800,3.8,480,sh,SHARP,512,1024,LYNX 3D,android,2.2,0,0
-SH-03F,2,1.5,Qualcomm Snapdragon S4 Plus MSM8960,960,4.1,540,sh,SHARP,1024,8192,スマートフォン for ジュニア2,android,4,0,0
 SH-03G,8,2,Qualcomm Snapdragon 810 MSM8994,1920,5.5,1080,sh,SHARP,3072,32768,AQUOS ZETA,android,5,1,1
-SH-04D,1,1,Qualcomm Snapdragon MSM8255,960,3.7,540,sh,SHARP,512,2048,Q-pot. Phone,android,2.3,0,0
 SH-04E,4,1.5,Qualcomm Snapdragon S4 Pro APQ8064,1280,4.5,720,sh,SHARP,2048,16384,AQUOS PHONE EX,android,4.1,0,0
 SH-04F,4,2.3,Qualcomm Snapdragon 801 MSM8974AB,1920,5.4,1080,sh,SHARP,2048,32768,AQUOS ZETA,android,5,1,1
 SH-04G,4,1.2,Qualcomm Snapdragon 400 MSM8926,1280,5,720,sh,SHARP,2048,16384,AQUOS EVER,android,5,0,0
-SH-05E,2,1.5,Qualcomm Snapdragon MSM8960,960,4.1,540,sh,SHARP,1024,8192,スマートフォン for ジュニア,android,4,0,0
 SH-05F,4,2.2,Qualcomm Snapdragon 800 MSM8974,1920,5,1080,sh,SHARP,2048,32768,Disney Mobile on docomo,android,4.2,1,1
 SH-05G,8,1.5,Qualcomm MSM8994,1200,7,1920,,SHARP,2048,32768,AQUOS PAD,android,5.0.2,1,0
 SH-06D,2,1.2,Texas Instruments OMAP4460,1280,4.5,720,sh,SHARP,1024,8192,AQUOS PHONE,android,4,0,0
 SH-06DNERV,2,1.2,Texas Instruments OMAP4460,1280,4.5,720,sh,SHARP,1024,8192,SH-06D NERV,android,4,0,0
 SH-06E,4,1.7,Qualcomm Snapdragon 600 APQ8064T,1920,4.8,1080,sh,SHARP,2048,32768,AQUOS PHONE ZETA,android,4.2,0,0
-SH-07D,1,1,Qualcomm Snapdragon MSM8255,854,3.4,480,sh,SHARP,1024,4096,AQUOS PHONE st,android,4,0,0
 SH-07E,4,1.7,Qualcomm Snapdragon 600 APQ8064T,1280,4.3,720,sh,SHARP,2048,32768,AQUOS PHONE si,android,4.2,0,0
 SH-09D,2,1.5,Qualcomm Snapdragon MSM8960,1280,4.7,720,sh,SHARP,1024,16384,AQUOS PHONE ZETA,android,4.1,0,0
-SH-10B,1,1,Qualcomm Snapdragon QSD8250,960,5,480,sh,SHARP,256,4608,LYNX,android,1.6,0,0
 SH-10D,2,1.5,Qualcomm Snapdragon MSM8960,1280,4.5,720,sh,SHARP,1024,8192,AQUOS PHONE sv,android,4.1,0,0
 SH-12C,1,1.4,Qualcomm Snapdragon MSM8255T,960,4.2,540,sh,SHARP,512,2048,AQUOS PHONE,android,2.3,0,0
-SH-13C,1,1,Qualcomm Snapdragon MSM8255,960,3.7,540,sh,SHARP,512,2048,AQUOS PHONE f,android,2.3,0,0
 SH-M01,4,2.2,Qualcomm Snapdragon 800 MSM8974,1920,4.5,1080,sh,SHARP,2048,16384,AQUOS SH-M01,android,4.4,0,0
 SH-M02,4,1.2,Qualcomm Snapdragon 400 MSM8926,1280,5,720,sh,SHARP,2048,16384,AQUOS SH-M02,android,5,0,0
-SH-M02-EVA20,4,1.2,Qualcomm Snapdragon 400 MSM8926,1280,5,720,sh,SHARP,2048,16384,エヴァンゲリオン スマートフォン,android,5,0,0
 SHIELD_Tablet,4,2.2,Cortex-A15,1200,8,1920,,Nvidia,2048,16384,SHIELD Tablet,android,4.4.2,1,1
 SHL21,2,1.5,Qualcomm Snapdragon MSM8960,1280,4.7,720,sh,SHARP,1024,16384,AQUOS PHONE SERIE,android,4.1,0,0
 SHL22,4,1.7,Qualcomm Snapdragon 600 APQ8064T,1280,4.9,720,sh,SHARP,2048,16384,AQUOS PHONE SERIE,android,4.2,0,0
@@ -360,7 +257,6 @@ SHV31,4,2.3,Qualcomm Snapdragon 800 MSM8974AB,1920,4.5,1080,sh,SHARP,2048,16384,
 SHV32,8,2,Qualcomm Snapdragon 810 MSM8994,1920,5,1080,sh,SHARP,3072,32768,AQUOS SERIE,android,5,1,1
 SKT01,2,1.2,Qualcomm Snapdragon S4 MSM8960,800,4,480,k,KYOCERA,1536,8192,TORQUE,android,4.2,0,0
 SM-P905,4,2.3,Qualcomm Snapdragon 800,1600,12.2,2560,,Samsung,3072,32768,Galaxy Note Pro 12.2 LTE,android,4.4.2,1,1
-SO-01B,1,1,Qualcomm Snapdragon QSD8250,854,4,480,so,Sony mobile,256,1024,Xperia,android,2.1,0,0
 SO-01C,1,1,Qualcomm Snapdragon MSM8255,854,4.2,480,so,Sony mobile,512,1024,Xperia arc,android,2.3,0,0
 SO-01D,1,1,Qualcomm Snapdragon MSM8655,854,4,480,so,Sony mobile,512,16384,Xperia PLAY,android,2.3,0,0
 SO-01E,2,1.5,Qualcomm Snapdragon MSM8960,1280,4.3,720,so,Sony mobile,1024,16384,Xperia AX,android,4.1,0,0
@@ -373,7 +269,6 @@ SO-02E,4,1.5,Qualcomm Snapdragon S4 Pro APQ8064,1920,5,1080,so,Sony mobile,2048,
 SO-02F,4,2.2,Qualcomm Snapdragon 800 MSM8974,1280,4.3,720,so,Sony mobile,2048,16384,Xperia Z1 f,android,4.4,0,0
 SO-02G,4,2.5,Qualcomm Snapdragon 801 MSM8974AC,1280,4.6,720,so,Sony mobile,2048,16384,Xperia Z3 Compact,android,5,0,0
 SO-02H,8,2,Qualcomm Snapdragon 810 MSM8994,1280,4.6,720,so,Sony mobile,2048,32768,Xperia Z5 Compact,android,5.1,0,0
-SO-03C,1,1,Qualcomm MSM8255,854,3.3,480,so,Sony mobile,512,1024,Xperia ray,android,2.3,0,0
 SO-03D,2,1.5,Qualcomm Snapdragon MSM8260,1280,4.3,720,so,Sony mobile,1024,16384,Xperia acro HD,android,4,0,0
 SO-03F,4,2.3,Qualcomm Snapdragon 801 MSM8974AB,1920,5.2,1080,so,Sony mobile,3072,32768,Xperia Z2,android,5,1,1
 SO-03G,8,2,Qualcomm Snapdragon 810 MSM8994,1920,5.2,1080,so,Sony mobile,3072,32768,Xperia Z4,android,5,1,1
@@ -383,7 +278,6 @@ SO-04E,4,1.5,Qualcomm Snapdragon S4 Pro APQ8064,1280,4.6,720,so,Sony mobile,2048
 SO-04E_MIKU,4,1.5,Qualcomm Snapdragon S4 Pro APQ8064,1280,4.6,720,so,Sony mobile,2048,32768,Xperia feat. HATSUNE MIKU,android,4.2,0,0
 SO-04F,4,2.2,Qualcomm Snapdragon 800 MSM8974,1280,4.3,720,so,Sony mobile,2048,16384,Xperia A2,android,4.4,0,0
 SO-04G,4,2.5,Qualcomm Snapdragon 801 MSM8974AC,1280,4.6,720,so,Sony mobile,2048,16384,Xperia A4,android,5,0,0
-SO-05D,2,1.5,Qualcomm Snapdragon MSM8960,960,3.7,540,so,Sony mobile,1024,8192,Xperia SX,android,4.1,0,0
 SO-05G,8,1.5,Qualcomm MSM8994,1600,10.1,2560,,SONY,3072,32768,Xperia Z4 Tablet,android,5.0.2,1,0
 SOL21,2,1.5,Qualcomm Snapdragon MSM8960,1280,4.3,720,so,Sony mobile,1024,16384,Xperia VL,android,4.1,0,0
 SOL22,4,1.5,Qualcomm Snapdragon S4 Pro APQ8064,1920,5,1080,so,Sony mobile,2048,16384,Xperia UL,android,4.2,1,0
@@ -394,28 +288,16 @@ SOL26,4,2.5,Qualcomm Snapdragon 801 MSM8974AC,1920,5.2,1080,so,Sony mobile,3072,
 SOV31,8,2,Qualcomm Snapdragon 810 MSM8994,1920,5.2,1080,so,Sony mobile,3072,32768,Xperia Z4,android,5,1,1
 SOV32,8,2,Qualcomm Snapdragon 810 MSM8994,1920,5.2,1080,so,Sony mobile,3072,32768,Xperia Z5,android,5.1,1,1
 Spray_402LG,4,1.2,Qualcomm Snapdragon 400 MSM8926,1280,4.5,720,l,LG,1536,8192,Spray 402LG,android,4.4,0,0
-T-01A,1,1,Qualcomm Snapdragon QSD8250,800,4.1,480,to,Toshiba,256,512,T-01A,windowsmobile,6.5,0,0
-T-01B,1,1,Qualcomm Snapdragon QSD8250,800,4.1,480,to,Toshiba,384,512,dynapocket,windowsmobile,6.5.3,0,0
 T-01C,1,1,Qualcomm Snapdragon QSD8250,854,4,480,t,Fujitsu Toshiba,512,1024,REGZA Phone,android,2.2,0,0
 T-01D,2,1.2,Texas Instruments OMAP4430,1280,4.3,720,t,Fujitsu Toshiba,1024,4096,REGZA Phone,android,4,0,0
 T-02D,2,1.5,Qualcomm Snapdragon MSM8960,960,4.3,540,t,Fujitsu Toshiba,1024,8192,REGZA Phone,android,4.1,0,0
-TONE,4,1.3,,960,5.5,540,_,,1024,4096,TONE,android,4.2,0,0
-TONE_m15,4,1.3,MediaTek MT6735,1280,5.5,720,_,,2048,16384,TONE(m15),android,5.1,0,0
-UPQ_Phone_A01,4,1.3,MT6735 Cortex-A53,854,4.5,480,_,,1024,8192,UPQ Phone A01,android,5.1,0,0
 URBANO_PROGRESSO,1,1.4,Qualcomm Snapdragon MSM8655,800,4,480,k,KYOCERA,1024,4096,URBANO PROGRESSO,android,4,0,0
 V02,4,1.4,Qualcomm Snapdragon 400 MSM8928,1280,5,720,k,KYOCERA,2048,16384,URBANO,android,5.1,1,0
 VAIO_Phone,4,1.2,Qualcomm Snapdragon 410 MSM8916,1280,5,720,v,VAIO,2048,16384,VAIO Phone,android,5,0,0
 WX04K,2,1.2,ルネサス R-Mobile APE5R,800,4,480,k,KYOCERA,1024,2048,DIGNO DUAL,android,4.1,0,0
 WX04SH,2,1.5,Qualcomm Snapdragon S4 Plus MSM8260A,854,4,480,sh,SHARP,1024,8192,AQUOS PHONE es,android,4.1,0,0
 WX05SH,2,1.5,Qualcomm Snapdragon S4 Plus MSM8260A,854,4,480,sh,SHARP,1024,8192,AQUOS PHONE ef,android,4.1,0,0
-WX06K,2,1.2,ルネサス R-Mobile APE5R,800,3.5,480,k,KYOCERA,512,2048,HONEY BEE,android,2.3,0,0
 WX10K,2,1.5,Qualcomm Snapdragon MSM8960,1280,4.7,720,k,KYOCERA,1536,16384,DIGNO DUAL 2,android,4.2,0,0
-X01SC,1,0.5,Qualcomm MSM7225,240,2.4,320,sc,SAMSUNG,256,256,X01SC,windowsmobile,6.5,0,0
-X02T,1,1,Qualcomm Snapdragon QSD8250,800,4.1,480,to,Toshiba,256,512,dynapocket,windowsmobile,6.5,0,0
-X04HT,1,0.5,Qualcomm MSM7201A,640,2.8,480,ht,HTC,192,256,X04HT,windowsmobile,6.1,0,0
-X05HT,1,0.5,Qualcomm MSM7201A,640,2.8,480,ht,HTC,288,512,X05HT,windowsmobile,6.1,0,0
-X06HT,1,1,Qualcomm Snapdragon QSD8250,800,3.7,480,ht,HTC,576,512,HTC Desire,android,2.2,0,0
-X06HTII,1,1,Qualcomm Snapdragon QSD8250,800,3.7,480,ht,HTC,576,512,HTC Desire,android,2.2,0,0
 X9077,4,2.5,Qualcomm MSM8974AC Snapdragon 801,2560,5.5,1440,,Oppo,3072,32768,Oppo Find 7,android,4.3,1,1
 XT1053,2,1.7,Qualcomm Snapdragon S4 MSM8960DT,1280,4.7,720,,Motorola,2048,16384,Moto X (1st gen.),android,4.4.4,0,0
 XT1092,4,2.5,Qualcomm Snapdragon 801,1920,5.2,1080,,Motorola,2048,16384,Moto X (2nd gen.),android,4.4.4,1,1
@@ -429,11 +311,7 @@ _B6000-F,4,1.2,MediaTek MT8125,1600,8,1280,,Lenovo,1024,16384,Yoga Tablet 8,andr
 _G750-U10,8,1.7,Mediatek MT6592,1280,5.5,720,,Huawei,2048,8192,Honor 3X,android,4.2.2,0,0
 _M8x,4,2.5,Qualcomm Snapdragon 801 MSM8974AC,1920,5,1080,,HTC,2048,16384,HTC One M8x LTE,android,4.4.2,1,1
 arrows_M02,4,1.2,Qualcomm Snapdragon 410 MSM8916,1280,5,720,f,Fujitsu,2048,16384,arrows M02,android,5.1,0,0
-freebit_PandA,4,1.3,,960,5.5,540,_,,1024,4096,freebit PandA,android,4.2,0,0
 freetel_XM,4,1.2,Qualcomm Snapdragon 400 MSM8926,1280,5,720,z,ZTE,1024,16384,freetel XM,android,4.4,0,0
-freetel_nico,4,1.3,,1280,5,720,_,,1024,8192,freetel nico,android,4.4,0,0
-freetel_priori,1,1,Spreadtrum SC7710,480,3.5,320,_,,512,512,freetel priori,android,4.1.2,0,0
-freetel_priori2,4,1.3,,854,4.5,480,_,,1024,8192,freetel priori 2,android,4.4,0,0
 g01,4,1.3,MediaTek MT6582M,854,5,480,z,ZTE,1024,8192,g01,android,5,0,0
 g02,4,1.2,Qualcomm Snapdragon 410 MSM8916,1280,5,720,z,ZTE,1024,8192,g02,android,5,0,0
 g03,8,1.5,Qualcomm Snapdragon 615 MSM8939,1280,5,720,z,ZTE,2048,16384,g03,android,5,1,0
@@ -465,4 +343,3 @@ iPhone_6s_Plus,2,1.8,Apple A9,1920,5.5,1080,a,Apple,2048,131072,iPhone 6s Plus,i
 iPhone_6s_Plus_,2,1.8,Apple A9,1920,5.5,1080,a,Apple,2048,131072,iPhone 6s Plus,ios,9,1,0
 iPhone_6s_Plus__,2,1.8,Apple A9,1920,5.5,1080,a,Apple,2048,131072,iPhone 6s Plus,ios,9,1,0
 iPhone_6s__,2,1.8,Apple A9,1334,4.7,750,a,Apple,2048,131072,iPhone 6s,ios,9,0,0
-pigu,2,1,,480,3.5,320,po,Polaroid,512,4096,Polaroid pigu,android,4.4,0,0

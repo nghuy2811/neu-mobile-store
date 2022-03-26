@@ -1,8 +1,8 @@
 import { useState, useEffect } from "react";
 import axios from "axios";
 
-import Header from "./Components/Header/Header";
-import SlideNav from "./Components/SlideNav/SlideNav";
+import Header from "./components/Header/Header";
+import SlideNav from "./components/SlideNav/SlideNav";
 
 function App() {
   const [data, setData] = useState();
