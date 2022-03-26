@@ -21,13 +21,23 @@
       <input type="text" name="Memory RAM" placeholder="Memory RAM" required="required" />
       <input type="text" name="Memory ROM" placeholder="Memory ROM" required="required" />
 
-      <button type="submit" class="btn btn-primary btn-block btn-large">Predict</button>
+      <button type="submit" class="btn btn-primary btn-block btn-large" id="predict-btn">Predict</button>
     </form>
 
     <br>
     <br>
     {{ prediction_type }}
 
+    <h2>Test run script</h2>
+    <form action="{{url_for('create_model')}}" method="post">
+      <button type="submit" class="bg-[#010101] text-white" id="run-script-btn">Run script</button>
+    </form>
+
+    <form action="{{url_for('visualize')}}" method="post">
+      <button type="submit" class="bg-[#a3a3a3]" id="visulize-tree-btn">Visualize tree</button>
+    </form>
+
+    <img src="/static/images/decision_tree.png" alt="Model visualization" class="w-[400px] h-auto">
   </div>
 </body>
 

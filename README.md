@@ -1,4 +1,10 @@
 Run virtual environment:
 
-- Cd flask-server
+- Change directory to "flask-server"
+
+On Windows:
+
 - Run 'venv\Scripts\activate'
+- Run "python server.py"
+
+On MacOS:
