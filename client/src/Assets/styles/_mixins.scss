@@ -1,0 +1,120 @@
+//$breakpoint-3xl: 1680px;
+@mixin min-3xl {
+  @media (min-width: $breakpoint-3xl) {
+    @content;
+  }
+}
+
+@mixin max-3xl {
+  @media (max-width: #{$breakpoint-3xl - $dot}) {
+    @content;
+  }
+}
+
+// $breakpoint-xxl: 1440px;
+@mixin min-xxl {
+  @media (min-width: $breakpoint-xxl) {
+    @content;
+  }
+}
+
+@mixin max-xxl {
+  @media (max-width: #{$breakpoint-xxl - $dot}) {
+    @content;
+  }
+}
+
+// $breakpoint-xl: 1280px;
+@mixin min-xl {
+  @media (min-width: $breakpoint-xl) {
+    @content;
+  }
+}
+
+@mixin max-xl {
+  @media (max-width: #{$breakpoint-xl - $dot}) {
+    @content;
+  }
+}
+
+// $breakpoint-lg: 1024px;
+@mixin min-lg {
+  @media (min-width: $breakpoint-lg) {
+    @content;
+  }
+}
+
+@mixin max-lg {
+  @media (max-width: #{$breakpoint-lg - $dot}) {
+    @content;
+  }
+}
+
+// $breakpoint-md: 768px;
+@mixin min-md {
+  @media (min-width: $breakpoint-md) {
+    @content;
+  }
+}
+
+@mixin max-md {
+  @media (max-width: #{$breakpoint-md - $dot}) {
+    @content;
+  }
+}
+
+// $breakpoint-sm: 576px;
+@mixin min-sm {
+  @media (min-width: $breakpoint-sm) {
+    @content;
+  }
+}
+
+@mixin max-sm {
+  @media (max-width: #{$breakpoint-sm - $dot}) {
+    @content;
+  }
+}
+
+// $break-xs: 375px;
+@mixin min-xs {
+  @media (min-width: $breakpoint-xs) {
+    @content;
+  }
+}
+
+@mixin max-xs {
+  @media (max-width: #{$breakpoint-xs - $dot}) {
+    @content;
+  }
+}
+
+//min for custom break-point
+@mixin min-custom-breakpoint($custom-breakpoint) {
+  @media (min-width: #{$custom-breakpoint - $dot}) {
+    @content;
+  }
+}
+
+//max for custom break-point
+@mixin max-custom-breakpoint($custom-breakpoint) {
+  @media (max-width: #{$custom-breakpoint - $dot}) {
+    @content;
+  }
+}
+
+// custom range breakpoint
+@mixin custom-range-breakpoint($min, $max) {
+  @media (min-width: $min) and (max-width: $max) {
+    @content;
+  }
+}
+
+// mixin wrapper width
+@mixin wrapper-width {
+  width: calc(100% - 340px);
+
+  @include max-lg {
+    width: 100%;
+  }
+}

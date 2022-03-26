@@ -1,15 +1,14 @@
-import React, { useState, useEffect } from "react";
+import Header from "./components/Header/Header";
+import SlideNav from "./components/SlideNav/SlideNav";
 
 function App() {
-  const [data, setData] = useState();
-
-  useEffect(() => {
-    fetch("/home")
-      .then((res) => res.json())
-      .then((data) => setData(data));
-  }, []);
-
-  return <div>{data.Name}</div>;
+  return (
+    <>
+      <Header />
+      <SlideNav />
+      <div className="">Hello world</div>
+    </>
+  );
 }
 
 export default App;

@@ -1,0 +1,9 @@
+.search-bar-btn {
+  position: absolute;
+  top: 50%;
+  right: 4px;
+  transform: translateY(-50%);
+  height: calc(100% - 10px);
+  border-top-right-radius: 12px;
+  border-bottom-right-radius: 12px;
+}
