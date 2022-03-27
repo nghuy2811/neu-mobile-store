@@ -19,3 +19,27 @@ code {
   padding-right: 120px;
   margin: 0 auto;
 }
+
+.swiper-slide {
+  width: auto !important;
+
+  span {
+    cursor: pointer;
+    font-size: 16px;
+    line-height: 21px;
+    padding: 2px 20px;
+    color: #fff;
+
+    &:hover {
+      color: #54595f;
+    }
+  }
+
+  &.selected {
+    background: #fc4c4b;
+    border-radius: 999px;
+    span {
+      color: #fff !important;
+    }
+  }
+}

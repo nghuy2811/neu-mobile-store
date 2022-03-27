@@ -1,9 +1,9 @@
+from email.policy import default
 from flask import Flask, render_template, request, json, Response
 import pickle
 import numpy as np
 from sklearn import tree
 from matplotlib import pyplot as plt
-
 from model_script import run_script
 from convert import make_json
 
@@ -49,9 +49,6 @@ def database():
   json_data = open("static/data/data.json")
   data = json.load(json_data)
   return Response(json.dumps(data),  mimetype='application/json')
-  # return {"name": ["Huy Nguyen", "Tra My"]}
-
-
 
 if __name__ == "__main__":
   app.run(debug=True)

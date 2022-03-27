@@ -1,7 +1,7 @@
 import React from "react";
 import { AiOutlineSearch } from "react-icons/ai";
 
-import "./style.scss";
+import styles from "./style.module.scss";
 
 const SearchBar = () => {
   return (
@@ -10,7 +10,7 @@ const SearchBar = () => {
         placeholder="Bạn muốn mua gì?"
         className="py-2 pl-3 pr-8 w-full rounded-[12px] outline-none"
       />
-      <button className="search-bar-btn bg-[#e3e3e3] px-2">
+      <button className={styles["search-bar-btn"]}>
         <span className="text-[24px] h-full flex items-center">
           <AiOutlineSearch />
         </span>

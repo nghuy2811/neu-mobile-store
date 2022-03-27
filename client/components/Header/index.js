@@ -14,7 +14,7 @@ const Header = () => {
           <div className="flex items-center">
             <div className="text-sm">
               <div className="mb-2">
-                Authorizes by National Economics University
+                Authorized by National Economics University
               </div>
               <div className="mb-2">
                 <span className="inline-block pr-3">

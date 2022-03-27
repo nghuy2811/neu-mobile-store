@@ -27,6 +27,6 @@ _ = tree.plot_tree(clf,
                   feature_names=feature_cols,
                   class_names=["0", "1"],
                   filled=True)
-fig.savefig("./images/decision_tree.png", bbox_inches='tight')
+fig.savefig("./static/images/decision_tree.png", bbox_inches='tight')
 
 pickle.dump(clf, open("model.pkl", "wb"))
