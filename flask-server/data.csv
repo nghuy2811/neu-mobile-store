@@ -1,4 +1,4 @@
-﻿Product code,CPU cores,CPU freq,CPU name,Display height,Display screen,Display witdh,Maker code,Maker name,Memory RAM,Memory ROM,Name ID,OS type,OS version,url_icon,url_photo,Study or work,Entertaiment
+﻿product_code,cpu_cores,cpu_freq,cpu_name,height,screen,width,maker_code,maker_name,memory_ram,memory_rom,name_ID,os_type,os_version,url_icon,url_photo,study_work,entertainment
 001DL,1,1,Qualcomm Snapdragon QSD8250,800,5,480,dl,DELL,512,2560,DELL Streak,android,2.2,/static/images/icons/001DL.jpg,/static/images/phones/001DL.jpg,0,0
 001HT,1,1,Qualcomm Snapdragon MSM8255,800,4.3,480,ht,HTC,768,1536,HTC Desire HD,android,2.3,/static/images/icons/001HT.jpg,/static/images/phones/001HT.jpg,0,0
 003P,1,1,Texas Instruments OMAP3630,854,4.3,480,p,Panasonic,512,1024,Sweety,android,2.3,/static/images/icons/003P.jpg,/static/images/phones/003P.jpg,0,0

@@ -8,8 +8,8 @@ import pickle
 df = pd.read_csv("./data.csv")
 df.head()
 
-X = df[["CPU cores", "CPU freq", "Display height", "Display screen", "Display witdh", "Memory RAM", "Memory ROM"]]
-y = df["Study or work"]
+X = df[["cpu_cores", "cpu_freq", "height", "screen", "width", "memory_ram", "memory_rom"]]
+y = df["study_work"]
 
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.3, random_state=50)
 

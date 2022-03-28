@@ -7,7 +7,7 @@ import ProductSection from "../components/ProductSection";
 
 export default function Home({ data }) {
   const productsByBrand = data.reduce((acc, product) => {
-    (acc[product["Maker name"]] = acc[product["Maker name"]] || []).push(
+    (acc[product["maker_name"]] = acc[product["maker_name"]] || []).push(
       product
     );
     return acc;
