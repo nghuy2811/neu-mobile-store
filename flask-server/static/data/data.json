@@ -14,6 +14,8 @@
         "Name ID": "DELL Streak",
         "OS type": "android",
         "OS version": "2.2",
+        "url_icon": "/static/images/icons/001DL.jpg",
+        "url_photo": "/static/images/phones/001DL.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -32,6 +34,8 @@
         "Name ID": "HTC Desire HD",
         "OS type": "android",
         "OS version": "2.3",
+        "url_icon": "/static/images/icons/001HT.jpg",
+        "url_photo": "/static/images/phones/001HT.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -50,6 +54,8 @@
         "Name ID": "Sweety",
         "OS type": "android",
         "OS version": "2.3",
+        "url_icon": "/static/images/icons/003P.jpg",
+        "url_photo": "/static/images/phones/003P.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -68,6 +74,8 @@
         "Name ID": "AQUOS PHONE",
         "OS type": "android",
         "OS version": "2.3",
+        "url_icon": "/static/images/icons/006SH.jpg",
+        "url_photo": "/static/images/phones/006SH.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -86,6 +94,8 @@
         "Name ID": "AQUOS PHONE THE PREMIUM",
         "OS type": "android",
         "OS version": "2.3",
+        "url_icon": "/static/images/icons/009SH.jpg",
+        "url_photo": "/static/images/phones/009SH.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -104,6 +114,8 @@
         "Name ID": "Yahoo! Phone",
         "OS type": "android",
         "OS version": "2.3",
+        "url_icon": "/static/images/icons/009SH_Y.jpg",
+        "url_photo": "/static/images/phones/009SH_Y.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -122,6 +134,8 @@
         "Name ID": "DELL Streak Pro",
         "OS type": "android",
         "OS version": "2.3",
+        "url_icon": "/static/images/icons/101DL.jpg",
+        "url_photo": "/static/images/phones/101DL.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -140,6 +154,8 @@
         "Name ID": "ARROWS A",
         "OS type": "android",
         "OS version": "4.1",
+        "url_icon": "/static/images/icons/101F.jpg",
+        "url_photo": "/static/images/phones/101F.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -158,6 +174,8 @@
         "Name ID": "MEDIAS CH",
         "OS type": "android",
         "OS version": "2.3",
+        "url_icon": "/static/images/icons/101N.jpg",
+        "url_photo": "/static/images/phones/101N.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -176,6 +194,8 @@
         "Name ID": "LUMIX Phone",
         "OS type": "android",
         "OS version": "2.3",
+        "url_icon": "/static/images/icons/101P.jpg",
+        "url_photo": "/static/images/phones/101P.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -194,6 +214,8 @@
         "Name ID": "AQUOS PHONE",
         "OS type": "android",
         "OS version": "4",
+        "url_icon": "/static/images/icons/102SH.jpg",
+        "url_photo": "/static/images/phones/102SH.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -212,6 +234,8 @@
         "Name ID": "AQUOS PHONE",
         "OS type": "android",
         "OS version": "4",
+        "url_icon": "/static/images/icons/102SHII.jpg",
+        "url_photo": "/static/images/phones/102SHII.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -230,6 +254,8 @@
         "Name ID": "AQUOS PHONE",
         "OS type": "android",
         "OS version": "2.3",
+        "url_icon": "/static/images/icons/103SH.jpg",
+        "url_photo": "/static/images/phones/103SH.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -248,6 +274,8 @@
         "Name ID": "AQUOS PHONE",
         "OS type": "android",
         "OS version": "4",
+        "url_icon": "/static/images/icons/104SH.jpg",
+        "url_photo": "/static/images/phones/104SH.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -266,6 +294,8 @@
         "Name ID": "AQUOS PHONE Xx",
         "OS type": "android",
         "OS version": "4",
+        "url_icon": "/static/images/icons/106SH.jpg",
+        "url_photo": "/static/images/phones/106SH.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -284,6 +314,8 @@
         "Name ID": "PANTONE\u00ae 6",
         "OS type": "android",
         "OS version": "4.1",
+        "url_icon": "/static/images/icons/200SH.jpg",
+        "url_photo": "/static/images/phones/200SH.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -302,6 +334,8 @@
         "Name ID": "ARROWS A",
         "OS type": "android",
         "OS version": "4.1",
+        "url_icon": "/static/images/icons/201F.jpg",
+        "url_photo": "/static/images/phones/201F.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -320,6 +354,8 @@
         "Name ID": "STREAM",
         "OS type": "android",
         "OS version": "4",
+        "url_icon": "/static/images/icons/201HW.jpg",
+        "url_photo": "/static/images/phones/201HW.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -338,6 +374,8 @@
         "Name ID": "STREAM",
         "OS type": "android",
         "OS version": "4",
+        "url_icon": "/static/images/icons/201HW_.jpg",
+        "url_photo": "/static/images/phones/201HW_.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -356,6 +394,8 @@
         "Name ID": "RAZR M",
         "OS type": "android",
         "OS version": "4.1",
+        "url_icon": "/static/images/icons/201M.jpg",
+        "url_photo": "/static/images/phones/201M.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -374,6 +414,8 @@
         "Name ID": "ARROWS A",
         "OS type": "android",
         "OS version": "4.2",
+        "url_icon": "/static/images/icons/202F.jpg",
+        "url_photo": "/static/images/phones/202F.jpg",
         "Study or work": "1",
         "Entertaiment": "1"
     },
@@ -392,6 +434,8 @@
         "Name ID": "DIGNO R",
         "OS type": "android",
         "OS version": "4.2",
+        "url_icon": "/static/images/icons/202K.jpg",
+        "url_photo": "/static/images/phones/202K.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -410,6 +454,8 @@
         "Name ID": "AQUOS PHONE Xx",
         "OS type": "android",
         "OS version": "4.1",
+        "url_icon": "/static/images/icons/203SH.jpg",
+        "url_photo": "/static/images/phones/203SH.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -428,6 +474,8 @@
         "Name ID": "AQUOS PHONE ss",
         "OS type": "android",
         "OS version": "4.1",
+        "url_icon": "/static/images/icons/205SH.jpg",
+        "url_photo": "/static/images/phones/205SH.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -446,6 +494,8 @@
         "Name ID": "AQUOS PHONE Xx",
         "OS type": "android",
         "OS version": "4.2",
+        "url_icon": "/static/images/icons/206SH.jpg",
+        "url_photo": "/static/images/phones/206SH.jpg",
         "Study or work": "1",
         "Entertaiment": "1"
     },
@@ -464,6 +514,8 @@
         "Name ID": "ARROWS A",
         "OS type": "android",
         "OS version": "4.2",
+        "url_icon": "/static/images/icons/301F.jpg",
+        "url_photo": "/static/images/phones/301F.jpg",
         "Study or work": "1",
         "Entertaiment": "1"
     },
@@ -482,6 +534,8 @@
         "Name ID": "STREAM S",
         "OS type": "android",
         "OS version": "4.4",
+        "url_icon": "/static/images/icons/302HW.jpg",
+        "url_photo": "/static/images/phones/302HW.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -500,6 +554,8 @@
         "Name ID": "DIGNO T",
         "OS type": "android",
         "OS version": "4.4",
+        "url_icon": "/static/images/icons/302KC.jpg",
+        "url_photo": "/static/images/phones/302KC.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -518,6 +574,8 @@
         "Name ID": "AQUOS PHONE Xx",
         "OS type": "android",
         "OS version": "4.2",
+        "url_icon": "/static/images/icons/302SH.jpg",
+        "url_photo": "/static/images/phones/302SH.jpg",
         "Study or work": "1",
         "Entertaiment": "1"
     },
@@ -536,6 +594,8 @@
         "Name ID": "AQUOS PHONE Xx mini",
         "OS type": "android",
         "OS version": "4.2",
+        "url_icon": "/static/images/icons/303SH.jpg",
+        "url_photo": "/static/images/phones/303SH.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -554,6 +614,8 @@
         "Name ID": "AQUOS Xx",
         "OS type": "android",
         "OS version": "4.4",
+        "url_icon": "/static/images/icons/304SH.jpg",
+        "url_photo": "/static/images/phones/304SH.jpg",
         "Study or work": "1",
         "Entertaiment": "1"
     },
@@ -572,6 +634,8 @@
         "Name ID": "AQUOS CRYSTAL",
         "OS type": "android",
         "OS version": "4.4",
+        "url_icon": "/static/images/icons/305SH.jpg",
+        "url_photo": "/static/images/phones/305SH.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -590,6 +654,8 @@
         "Name ID": "Xperia Z3",
         "OS type": "android",
         "OS version": "5",
+        "url_icon": "/static/images/icons/401SO.jpg",
+        "url_photo": "/static/images/phones/401SO.jpg",
         "Study or work": "1",
         "Entertaiment": "1"
     },
@@ -608,6 +674,8 @@
         "Name ID": "AQUOS CRYSTAL X",
         "OS type": "android",
         "OS version": "4.4",
+        "url_icon": "/static/images/icons/402SH.jpg",
+        "url_photo": "/static/images/phones/402SH.jpg",
         "Study or work": "1",
         "Entertaiment": "1"
     },
@@ -626,6 +694,8 @@
         "Name ID": "Xperia Z4",
         "OS type": "android",
         "OS version": "5",
+        "url_icon": "/static/images/icons/402SO.jpg",
+        "url_photo": "/static/images/phones/402SO.jpg",
         "Study or work": "1",
         "Entertaiment": "1"
     },
@@ -644,6 +714,8 @@
         "Name ID": "GALAXY Tab 4 7.0",
         "OS type": "android",
         "OS version": "4.4.2",
+        "url_icon": "/static/images/icons/403SC.jpg",
+        "url_photo": "/static/images/phones/403SC.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -662,6 +734,8 @@
         "Name ID": "AQUOS CRYSTAL 2",
         "OS type": "android",
         "OS version": "5",
+        "url_icon": "/static/images/icons/403SH.jpg",
+        "url_photo": "/static/images/phones/403SH.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -680,6 +754,8 @@
         "Name ID": "Galaxy S6 edge",
         "OS type": "android",
         "OS version": "5",
+        "url_icon": "/static/images/icons/404SC.jpg",
+        "url_photo": "/static/images/phones/404SC.jpg",
         "Study or work": "1",
         "Entertaiment": "1"
     },
@@ -698,6 +774,8 @@
         "Name ID": "AQUOS Xx",
         "OS type": "android",
         "OS version": "5",
+        "url_icon": "/static/images/icons/404SH.jpg",
+        "url_photo": "/static/images/phones/404SH.jpg",
         "Study or work": "1",
         "Entertaiment": "1"
     },
@@ -716,6 +794,8 @@
         "Name ID": "LUMIERE",
         "OS type": "android",
         "OS version": "5",
+        "url_icon": "/static/images/icons/503hw.jpg",
+        "url_photo": "/static/images/phones/503hw.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -734,6 +814,8 @@
         "Name ID": "OnePlus One",
         "OS type": "android",
         "OS version": "4.4.4",
+        "url_icon": "/static/images/icons/A0001.jpg",
+        "url_photo": "/static/images/phones/A0001.jpg",
         "Study or work": "1",
         "Entertaiment": "1"
     },
@@ -752,6 +834,8 @@
         "Name ID": "AQUOS Xx2",
         "OS type": "android",
         "OS version": "5.1",
+        "url_icon": "/static/images/icons/AQUOS_Xx2.jpg",
+        "url_photo": "/static/images/phones/AQUOS_Xx2.jpg",
         "Study or work": "1",
         "Entertaiment": "1"
     },
@@ -770,6 +854,8 @@
         "Name ID": "AQUOS Xx2 mini",
         "OS type": "android",
         "OS version": "5.1",
+        "url_icon": "/static/images/icons/AQUOS_Xx2_mini.jpg",
+        "url_photo": "/static/images/phones/AQUOS_Xx2_mini.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -788,6 +874,8 @@
         "Name ID": "ARROWS M01",
         "OS type": "android",
         "OS version": "4.4",
+        "url_icon": "/static/images/icons/ARROWS_M01.jpg",
+        "url_photo": "/static/images/phones/ARROWS_M01.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -806,6 +894,8 @@
         "Name ID": "ASUS MeMO Pad 8",
         "OS type": "android",
         "OS version": "4.4.2",
+        "url_icon": "/static/images/icons/AST21.jpg",
+        "url_photo": "/static/images/phones/AST21.jpg",
         "Study or work": "1",
         "Entertaiment": "1"
     },
@@ -824,6 +914,8 @@
         "Name ID": "ASUS Zenfone 5",
         "OS type": "android",
         "OS version": "4.3",
+        "url_icon": "/static/images/icons/ASUS_T00J.jpg",
+        "url_photo": "/static/images/phones/ASUS_T00J.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -842,6 +934,8 @@
         "Name ID": "AXON mini",
         "OS type": "android",
         "OS version": "5.1",
+        "url_icon": "/static/images/icons/AXON_mini.jpg",
+        "url_photo": "/static/images/phones/AXON_mini.jpg",
         "Study or work": "1",
         "Entertaiment": "1"
     },
@@ -860,6 +954,8 @@
         "Name ID": "Ascend G6",
         "OS type": "android",
         "OS version": "4.3",
+        "url_icon": "/static/images/icons/Ascend_G6.jpg",
+        "url_photo": "/static/images/phones/Ascend_G6.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -878,6 +974,8 @@
         "Name ID": "Ascend G620S",
         "OS type": "android",
         "OS version": "4.4",
+        "url_icon": "/static/images/icons/Ascend_G620S.jpg",
+        "url_photo": "/static/images/phones/Ascend_G620S.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -896,6 +994,8 @@
         "Name ID": "Ascend Mate7",
         "OS type": "android",
         "OS version": "4.4",
+        "url_icon": "/static/images/icons/Ascend_Mate7.jpg",
+        "url_photo": "/static/images/phones/Ascend_Mate7.jpg",
         "Study or work": "1",
         "Entertaiment": "1"
     },
@@ -914,6 +1014,8 @@
         "Name ID": "Ascend P7",
         "OS type": "android",
         "OS version": "4.4",
+        "url_icon": "/static/images/icons/Ascend_P7.jpg",
+        "url_photo": "/static/images/phones/Ascend_P7.jpg",
         "Study or work": "1",
         "Entertaiment": "1"
     },
@@ -932,6 +1034,8 @@
         "Name ID": "BLADE Q+",
         "OS type": "android",
         "OS version": "4.4",
+        "url_icon": "/static/images/icons/BLADE_Q_PLUS.jpg",
+        "url_photo": "/static/images/phones/BLADE_Q_PLUS.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -950,6 +1054,8 @@
         "Name ID": "Blade V6",
         "OS type": "android",
         "OS version": "5",
+        "url_icon": "/static/images/icons/Blade_V6.jpg",
+        "url_photo": "/static/images/phones/Blade_V6.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -968,6 +1074,8 @@
         "Name ID": "Blade Vec 4G",
         "OS type": "android",
         "OS version": "4.4",
+        "url_icon": "/static/images/icons/Blade_Vec_4G.jpg",
+        "url_photo": "/static/images/phones/Blade_Vec_4G.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -986,6 +1094,8 @@
         "Name ID": "G'zOne TYPE-L",
         "OS type": "android",
         "OS version": "4",
+        "url_icon": "/static/images/icons/CAL21.jpg",
+        "url_photo": "/static/images/phones/CAL21.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -1004,6 +1114,8 @@
         "Name ID": "DIGNO C",
         "OS type": "android",
         "OS version": "4.4",
+        "url_icon": "/static/images/icons/DIGNO_C_404KC.jpg",
+        "url_photo": "/static/images/phones/DIGNO_C_404KC.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -1022,6 +1134,8 @@
         "Name ID": "DIGNO U",
         "OS type": "android",
         "OS version": "4.4",
+        "url_icon": "/static/images/icons/DIGNO_U.jpg",
+        "url_photo": "/static/images/phones/DIGNO_U.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -1040,6 +1154,8 @@
         "Name ID": "Disney Mobile on docomo",
         "OS type": "android",
         "OS version": "5",
+        "url_icon": "/static/images/icons/DM-01G.jpg",
+        "url_photo": "/static/images/phones/DM-01G.jpg",
         "Study or work": "1",
         "Entertaiment": "1"
     },
@@ -1058,6 +1174,8 @@
         "Name ID": "Disney Mobile on docomo ",
         "OS type": "android",
         "OS version": "5.1",
+        "url_icon": "/static/images/icons/DM-01H.jpg",
+        "url_photo": "/static/images/phones/DM-01H.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -1076,6 +1194,8 @@
         "Name ID": "DM010SH",
         "OS type": "android",
         "OS version": "2.3",
+        "url_icon": "/static/images/icons/DM010SH.jpg",
+        "url_photo": "/static/images/phones/DM010SH.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -1094,6 +1214,8 @@
         "Name ID": "DM012SH",
         "OS type": "android",
         "OS version": "2.3",
+        "url_icon": "/static/images/icons/DM012SH.jpg",
+        "url_photo": "/static/images/phones/DM012SH.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -1112,6 +1234,8 @@
         "Name ID": "DM014SH",
         "OS type": "android",
         "OS version": "4.1",
+        "url_icon": "/static/images/icons/DM014SH.jpg",
+        "url_photo": "/static/images/phones/DM014SH.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -1130,6 +1254,8 @@
         "Name ID": "DM015K",
         "OS type": "android",
         "OS version": "4.2",
+        "url_icon": "/static/images/icons/DM015K.jpg",
+        "url_photo": "/static/images/phones/DM015K.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -1148,6 +1274,8 @@
         "Name ID": "DM016SH",
         "OS type": "android",
         "OS version": "4.2",
+        "url_icon": "/static/images/icons/DM016SH.jpg",
+        "url_photo": "/static/images/phones/DM016SH.jpg",
         "Study or work": "1",
         "Entertaiment": "1"
     },
@@ -1166,6 +1294,8 @@
         "Name ID": "ARROWS S",
         "OS type": "android",
         "OS version": "4.1",
+        "url_icon": "/static/images/icons/EM01F.jpg",
+        "url_photo": "/static/images/phones/EM01F.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -1184,6 +1314,8 @@
         "Name ID": "ARROWS NX",
         "OS type": "android",
         "OS version": "4.4",
+        "url_icon": "/static/images/icons/F-01F.jpg",
+        "url_photo": "/static/images/phones/F-01F.jpg",
         "Study or work": "1",
         "Entertaiment": "1"
     },
@@ -1202,6 +1334,8 @@
         "Name ID": "arrows Fit",
         "OS type": "android",
         "OS version": "5.1",
+        "url_icon": "/static/images/icons/F-01H.jpg",
+        "url_photo": "/static/images/phones/F-01H.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -1220,6 +1354,8 @@
         "Name ID": "ARROWS X",
         "OS type": "android",
         "OS version": "4.1",
+        "url_icon": "/static/images/icons/F-02E.jpg",
+        "url_photo": "/static/images/phones/F-02E.jpg",
         "Study or work": "1",
         "Entertaiment": "1"
     },
@@ -1238,6 +1374,8 @@
         "Name ID": "ARROWS NX",
         "OS type": "android",
         "OS version": "5",
+        "url_icon": "/static/images/icons/F-02G.jpg",
+        "url_photo": "/static/images/phones/F-02G.jpg",
         "Study or work": "1",
         "Entertaiment": "1"
     },
@@ -1256,6 +1394,8 @@
         "Name ID": "arrows NX ",
         "OS type": "android",
         "OS version": "5.1",
+        "url_icon": "/static/images/icons/F-02H.jpg",
+        "url_photo": "/static/images/phones/F-02H.jpg",
         "Study or work": "1",
         "Entertaiment": "1"
     },
@@ -1274,6 +1414,8 @@
         "Name ID": "ARROWS Kiss",
         "OS type": "android",
         "OS version": "4.1",
+        "url_icon": "/static/images/icons/F-03E.jpg",
+        "url_photo": "/static/images/phones/F-03E.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -1292,6 +1434,8 @@
         "Name ID": "Disney Mobile on docomo",
         "OS type": "android",
         "OS version": "4.2",
+        "url_icon": "/static/images/icons/F-03F.jpg",
+        "url_photo": "/static/images/phones/F-03F.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -1310,6 +1454,8 @@
         "Name ID": "ARROWS Tab F-03G",
         "OS type": "android",
         "OS version": "4.4.4",
+        "url_icon": "/static/images/icons/F-03G.jpg",
+        "url_photo": "/static/images/phones/F-03G.jpg",
         "Study or work": "1",
         "Entertaiment": "1"
     },
@@ -1328,6 +1474,8 @@
         "Name ID": "ARROWS V",
         "OS type": "android",
         "OS version": "4.2",
+        "url_icon": "/static/images/icons/F-04E.jpg",
+        "url_photo": "/static/images/phones/F-04E.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -1346,6 +1494,8 @@
         "Name ID": "ARROWS NX",
         "OS type": "android",
         "OS version": "5",
+        "url_icon": "/static/images/icons/F-04G.jpg",
+        "url_photo": "/static/images/phones/F-04G.jpg",
         "Study or work": "1",
         "Entertaiment": "1"
     },
@@ -1364,6 +1514,8 @@
         "Name ID": "ARROWS X LTE",
         "OS type": "android",
         "OS version": "4",
+        "url_icon": "/static/images/icons/F-05D.jpg",
+        "url_photo": "/static/images/phones/F-05D.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -1382,6 +1534,8 @@
         "Name ID": "ARROWS NX",
         "OS type": "android",
         "OS version": "4.4",
+        "url_icon": "/static/images/icons/F-05F.jpg",
+        "url_photo": "/static/images/phones/F-05F.jpg",
         "Study or work": "1",
         "Entertaiment": "1"
     },
@@ -1400,6 +1554,8 @@
         "Name ID": "ARROWS NX",
         "OS type": "android",
         "OS version": "4.2",
+        "url_icon": "/static/images/icons/F-06E.jpg",
+        "url_photo": "/static/images/phones/F-06E.jpg",
         "Study or work": "1",
         "Entertaiment": "1"
     },
@@ -1418,6 +1574,8 @@
         "Name ID": "ARROWS \u03bc",
         "OS type": "android",
         "OS version": "2.3",
+        "url_icon": "/static/images/icons/F-07D.jpg",
+        "url_photo": "/static/images/phones/F-07D.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -1436,6 +1594,8 @@
         "Name ID": "Disney Mobile on docomo",
         "OS type": "android",
         "OS version": "4.2",
+        "url_icon": "/static/images/icons/F-07E.jpg",
+        "url_photo": "/static/images/phones/F-07E.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -1454,6 +1614,8 @@
         "Name ID": "Disney Mobile on docomo",
         "OS type": "android",
         "OS version": "4",
+        "url_icon": "/static/images/icons/F-08D.jpg",
+        "url_photo": "/static/images/phones/F-08D.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -1472,6 +1634,8 @@
         "Name ID": "ARROWS X",
         "OS type": "android",
         "OS version": "4.2",
+        "url_icon": "/static/images/icons/F-10D.jpg",
+        "url_photo": "/static/images/phones/F-10D.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -1490,6 +1654,8 @@
         "Name ID": "ARROWS ef",
         "OS type": "android",
         "OS version": "4.1",
+        "url_icon": "/static/images/icons/FJL21.jpg",
+        "url_photo": "/static/images/phones/FJL21.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -1508,6 +1674,8 @@
         "Name ID": "ARROWS Z",
         "OS type": "android",
         "OS version": "4.2",
+        "url_icon": "/static/images/icons/FJL22.jpg",
+        "url_photo": "/static/images/phones/FJL22.jpg",
         "Study or work": "1",
         "Entertaiment": "1"
     },
@@ -1526,6 +1694,8 @@
         "Name ID": "STREAM X",
         "OS type": "android",
         "OS version": "4.1",
+        "url_icon": "/static/images/icons/GL07S.jpg",
+        "url_photo": "/static/images/phones/GL07S.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -1544,6 +1714,8 @@
         "Name ID": "Dell Streak Pro",
         "OS type": "android",
         "OS version": "2.3",
+        "url_icon": "/static/images/icons/GS01.jpg",
+        "url_photo": "/static/images/phones/GS01.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -1562,6 +1734,8 @@
         "Name ID": "GS02",
         "OS type": "android",
         "OS version": "2.3",
+        "url_icon": "/static/images/icons/GS02.jpg",
+        "url_photo": "/static/images/phones/GS02.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -1580,6 +1754,8 @@
         "Name ID": "GS03",
         "OS type": "android",
         "OS version": "4",
+        "url_icon": "/static/images/icons/GS03.jpg",
+        "url_photo": "/static/images/phones/GS03.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -1598,6 +1774,8 @@
         "Name ID": "Xiaomi Hongmi 1S",
         "OS type": "android",
         "OS version": "4.3",
+        "url_icon": "/static/images/icons/HM_1S.jpg",
+        "url_photo": "/static/images/phones/HM_1S.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -1616,6 +1794,8 @@
         "Name ID": "Redmi Note 1W",
         "OS type": "android",
         "OS version": "4.2.2",
+        "url_icon": "/static/images/icons/HM_NOTE_1W.jpg",
+        "url_photo": "/static/images/phones/HM_NOTE_1W.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -1634,6 +1814,8 @@
         "Name ID": "HTC Desire 626",
         "OS type": "android",
         "OS version": "5.1",
+        "url_icon": "/static/images/icons/HTC_Desire_626.jpg",
+        "url_photo": "/static/images/phones/HTC_Desire_626.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -1652,6 +1834,8 @@
         "Name ID": "HTC Desire EYE",
         "OS type": "android",
         "OS version": "5.1",
+        "url_icon": "/static/images/icons/HTC_Desire_EYE.jpg",
+        "url_photo": "/static/images/phones/HTC_Desire_EYE.jpg",
         "Study or work": "1",
         "Entertaiment": "1"
     },
@@ -1670,6 +1854,8 @@
         "Name ID": "HTC J butterfly",
         "OS type": "android",
         "OS version": "4.1",
+        "url_icon": "/static/images/icons/HTL21.jpg",
+        "url_photo": "/static/images/phones/HTL21.jpg",
         "Study or work": "1",
         "Entertaiment": "0"
     },
@@ -1688,6 +1874,8 @@
         "Name ID": "HTC J One",
         "OS type": "android",
         "OS version": "4.4",
+        "url_icon": "/static/images/icons/HTL22.jpg",
+        "url_photo": "/static/images/phones/HTL22.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -1706,6 +1894,8 @@
         "Name ID": "HTC J butterfly",
         "OS type": "android",
         "OS version": "4.4",
+        "url_icon": "/static/images/icons/HTL23.jpg",
+        "url_photo": "/static/images/phones/HTL23.jpg",
         "Study or work": "1",
         "Entertaiment": "1"
     },
@@ -1724,6 +1914,8 @@
         "Name ID": "HTC J butterfly",
         "OS type": "android",
         "OS version": "5",
+        "url_icon": "/static/images/icons/HTV31.jpg",
+        "url_photo": "/static/images/phones/HTV31.jpg",
         "Study or work": "1",
         "Entertaiment": "1"
     },
@@ -1742,6 +1934,8 @@
         "Name ID": "Ascend",
         "OS type": "android",
         "OS version": "4",
+        "url_icon": "/static/images/icons/HW-01E.jpg",
+        "url_photo": "/static/images/phones/HW-01E.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -1760,6 +1954,8 @@
         "Name ID": "Ascend D2",
         "OS type": "android",
         "OS version": "4.1",
+        "url_icon": "/static/images/icons/HW-03E.jpg",
+        "url_photo": "/static/images/phones/HW-03E.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -1778,6 +1974,8 @@
         "Name ID": "INFOBAR A02",
         "OS type": "android",
         "OS version": "4.1",
+        "url_icon": "/static/images/icons/INFOBAR_A02.jpg",
+        "url_photo": "/static/images/phones/INFOBAR_A02.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -1796,6 +1994,8 @@
         "Name ID": "REGZA Phone",
         "OS type": "android",
         "OS version": "2.1",
+        "url_icon": "/static/images/icons/IS04.jpg",
+        "url_photo": "/static/images/phones/IS04.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -1814,6 +2014,8 @@
         "Name ID": "optimus X",
         "OS type": "android",
         "OS version": "4",
+        "url_icon": "/static/images/icons/IS11LG.jpg",
+        "url_photo": "/static/images/phones/IS11LG.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -1832,6 +2034,8 @@
         "Name ID": "Xperia acro",
         "OS type": "android",
         "OS version": "2.3",
+        "url_icon": "/static/images/icons/IS11S.jpg",
+        "url_photo": "/static/images/phones/IS11S.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -1850,6 +2054,8 @@
         "Name ID": "REGZA Phone",
         "OS type": "android",
         "OS version": "2.3",
+        "url_icon": "/static/images/icons/IS11T.jpg",
+        "url_photo": "/static/images/phones/IS11T.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -1868,6 +2074,8 @@
         "Name ID": "ARROWS ES",
         "OS type": "android",
         "OS version": "2.3",
+        "url_icon": "/static/images/icons/IS12F.jpg",
+        "url_photo": "/static/images/phones/IS12F.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -1886,6 +2094,8 @@
         "Name ID": "MOTOROLA RAZR",
         "OS type": "android",
         "OS version": "4",
+        "url_icon": "/static/images/icons/IS12M.jpg",
+        "url_photo": "/static/images/phones/IS12M.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -1904,6 +2114,8 @@
         "Name ID": "Xperia acro HD",
         "OS type": "android",
         "OS version": "4",
+        "url_icon": "/static/images/icons/IS12S.jpg",
+        "url_photo": "/static/images/phones/IS12S.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -1922,6 +2134,8 @@
         "Name ID": "AQUOS PHONE",
         "OS type": "android",
         "OS version": "2.3",
+        "url_icon": "/static/images/icons/IS12SH.jpg",
+        "url_photo": "/static/images/phones/IS12SH.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -1940,6 +2154,8 @@
         "Name ID": "AQUOS PHONE",
         "OS type": "android",
         "OS version": "2.3",
+        "url_icon": "/static/images/icons/IS13SH.jpg",
+        "url_photo": "/static/images/phones/IS13SH.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -1958,6 +2174,8 @@
         "Name ID": "AQUOS PHONE CL",
         "OS type": "android",
         "OS version": "4",
+        "url_icon": "/static/images/icons/IS17SH.jpg",
+        "url_photo": "/static/images/phones/IS17SH.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -1976,6 +2194,8 @@
         "Name ID": "ARROWS Z",
         "OS type": "android",
         "OS version": "4",
+        "url_icon": "/static/images/icons/ISW11F.jpg",
+        "url_photo": "/static/images/phones/ISW11F.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -1994,6 +2214,8 @@
         "Name ID": "htc EVO WiMAX",
         "OS type": "android",
         "OS version": "2.3",
+        "url_icon": "/static/images/icons/ISW11HT.jpg",
+        "url_photo": "/static/images/phones/ISW11HT.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -2012,6 +2234,8 @@
         "Name ID": "DIGNO",
         "OS type": "android",
         "OS version": "2.3",
+        "url_icon": "/static/images/icons/ISW11K.jpg",
+        "url_photo": "/static/images/phones/ISW11K.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -2030,6 +2254,8 @@
         "Name ID": "MOTOROLA PHOTON",
         "OS type": "android",
         "OS version": "2.3",
+        "url_icon": "/static/images/icons/ISW11M.jpg",
+        "url_photo": "/static/images/phones/ISW11M.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -2048,6 +2274,8 @@
         "Name ID": "GALAXY S II WiMAX",
         "OS type": "android",
         "OS version": "4",
+        "url_icon": "/static/images/icons/ISW11SC.jpg",
+        "url_photo": "/static/images/phones/ISW11SC.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -2066,6 +2294,8 @@
         "Name ID": "htc EVO 3D",
         "OS type": "android",
         "OS version": "4",
+        "url_icon": "/static/images/icons/ISW12HT.jpg",
+        "url_photo": "/static/images/phones/ISW12HT.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -2084,6 +2314,8 @@
         "Name ID": "ARROWS Z",
         "OS type": "android",
         "OS version": "4",
+        "url_icon": "/static/images/icons/ISW13F.jpg",
+        "url_photo": "/static/images/phones/ISW13F.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -2102,6 +2334,8 @@
         "Name ID": "HTC J",
         "OS type": "android",
         "OS version": "4",
+        "url_icon": "/static/images/icons/ISW13HT.jpg",
+        "url_photo": "/static/images/phones/ISW13HT.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -2120,6 +2354,8 @@
         "Name ID": "AQUOS PHONE SERIE",
         "OS type": "android",
         "OS version": "4",
+        "url_icon": "/static/images/icons/ISW16SH.jpg",
+        "url_photo": "/static/images/phones/ISW16SH.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -2138,6 +2374,8 @@
         "Name ID": "ASUS MeMO Pad 7",
         "OS type": "android",
         "OS version": "4.4.2",
+        "url_icon": "/static/images/icons/K013.jpg",
+        "url_photo": "/static/images/phones/K013.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -2156,6 +2394,8 @@
         "Name ID": "KC-01",
         "OS type": "android",
         "OS version": "4.4",
+        "url_icon": "/static/images/icons/KC-01.jpg",
+        "url_photo": "/static/images/phones/KC-01.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -2174,6 +2414,8 @@
         "Name ID": "Kindle Fire HDX 7",
         "OS type": "android",
         "OS version": "4.2.2",
+        "url_icon": "/static/images/icons/KFTHWI.jpg",
+        "url_photo": "/static/images/phones/KFTHWI.jpg",
         "Study or work": "1",
         "Entertaiment": "1"
     },
@@ -2192,6 +2434,8 @@
         "Name ID": "DIGNO S",
         "OS type": "android",
         "OS version": "4",
+        "url_icon": "/static/images/icons/KYL21.jpg",
+        "url_photo": "/static/images/phones/KYL21.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -2210,6 +2454,8 @@
         "Name ID": "DIGNO M ",
         "OS type": "android",
         "OS version": "4.2",
+        "url_icon": "/static/images/icons/KYL22.jpg",
+        "url_photo": "/static/images/phones/KYL22.jpg",
         "Study or work": "1",
         "Entertaiment": "1"
     },
@@ -2228,6 +2474,8 @@
         "Name ID": "miraie",
         "OS type": "android",
         "OS version": "4.4",
+        "url_icon": "/static/images/icons/KYL23.jpg",
+        "url_photo": "/static/images/phones/KYL23.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -2246,6 +2494,8 @@
         "Name ID": "URBANO V01",
         "OS type": "android",
         "OS version": "4.4",
+        "url_icon": "/static/images/icons/KYV31.jpg",
+        "url_photo": "/static/images/phones/KYV31.jpg",
         "Study or work": "1",
         "Entertaiment": "1"
     },
@@ -2264,6 +2514,8 @@
         "Name ID": "BASIO",
         "OS type": "android",
         "OS version": "4.4",
+        "url_icon": "/static/images/icons/KYV32.jpg",
+        "url_photo": "/static/images/phones/KYV32.jpg",
         "Study or work": "1",
         "Entertaiment": "1"
     },
@@ -2282,6 +2534,8 @@
         "Name ID": "INFOBAR A03",
         "OS type": "android",
         "OS version": "4.4",
+        "url_icon": "/static/images/icons/KYV33.jpg",
+        "url_photo": "/static/images/phones/KYV33.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -2300,6 +2554,8 @@
         "Name ID": "TORQUE G02",
         "OS type": "android",
         "OS version": "5.1",
+        "url_icon": "/static/images/icons/KYV35.jpg",
+        "url_photo": "/static/images/phones/KYV35.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -2318,6 +2574,8 @@
         "Name ID": "DIGNO rafre",
         "OS type": "android",
         "OS version": "5.1",
+        "url_icon": "/static/images/icons/KYV36.jpg",
+        "url_photo": "/static/images/phones/KYV36.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -2336,6 +2594,8 @@
         "Name ID": "URBANO L02",
         "OS type": "android",
         "OS version": "4.2",
+        "url_icon": "/static/images/icons/KYY22.jpg",
+        "url_photo": "/static/images/phones/KYY22.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -2354,6 +2614,8 @@
         "Name ID": "URBANO",
         "OS type": "android",
         "OS version": "4.4",
+        "url_icon": "/static/images/icons/KYY23.jpg",
+        "url_photo": "/static/images/phones/KYY23.jpg",
         "Study or work": "1",
         "Entertaiment": "1"
     },
@@ -2372,6 +2634,8 @@
         "Name ID": "TORQUE",
         "OS type": "android",
         "OS version": "4.4",
+        "url_icon": "/static/images/icons/KYY24.jpg",
+        "url_photo": "/static/images/phones/KYY24.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -2390,6 +2654,8 @@
         "Name ID": "Optimus LTE",
         "OS type": "android",
         "OS version": "4",
+        "url_icon": "/static/images/icons/L-01D.jpg",
+        "url_photo": "/static/images/phones/L-01D.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -2408,6 +2674,8 @@
         "Name ID": "Optimus G",
         "OS type": "android",
         "OS version": "4.1",
+        "url_icon": "/static/images/icons/L-01E.jpg",
+        "url_photo": "/static/images/phones/L-01E.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -2426,6 +2694,8 @@
         "Name ID": "G2",
         "OS type": "android",
         "OS version": "4.2",
+        "url_icon": "/static/images/icons/L-01F.jpg",
+        "url_photo": "/static/images/phones/L-01F.jpg",
         "Study or work": "1",
         "Entertaiment": "1"
     },
@@ -2444,6 +2714,8 @@
         "Name ID": "PRADA phone",
         "OS type": "android",
         "OS version": "4",
+        "url_icon": "/static/images/icons/L-02D.jpg",
+        "url_photo": "/static/images/phones/L-02D.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -2462,6 +2734,8 @@
         "Name ID": "Optimus LIFE",
         "OS type": "android",
         "OS version": "4.1",
+        "url_icon": "/static/images/icons/L-02E.jpg",
+        "url_photo": "/static/images/phones/L-02E.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -2480,6 +2754,8 @@
         "Name ID": "Optimus G pro",
         "OS type": "android",
         "OS version": "4.1",
+        "url_icon": "/static/images/icons/L-04E.jpg",
+        "url_photo": "/static/images/phones/L-04E.jpg",
         "Study or work": "1",
         "Entertaiment": "1"
     },
@@ -2498,6 +2774,8 @@
         "Name ID": "Optimus it",
         "OS type": "android",
         "OS version": "4.1",
+        "url_icon": "/static/images/icons/L-05D.jpg",
+        "url_photo": "/static/images/phones/L-05D.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -2516,6 +2794,8 @@
         "Name ID": "Optimus it",
         "OS type": "android",
         "OS version": "4.2",
+        "url_icon": "/static/images/icons/L-05E.jpg",
+        "url_photo": "/static/images/phones/L-05E.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -2534,6 +2814,8 @@
         "Name ID": "Optimus Vu",
         "OS type": "android",
         "OS version": "4",
+        "url_icon": "/static/images/icons/L-06D.jpg",
+        "url_photo": "/static/images/phones/L-06D.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -2552,6 +2834,8 @@
         "Name ID": "L-06D JOJO",
         "OS type": "android",
         "OS version": "4",
+        "url_icon": "/static/images/icons/L-06D_JOJO.jpg",
+        "url_photo": "/static/images/phones/L-06D_JOJO.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -2570,6 +2854,8 @@
         "Name ID": "Optimus bright",
         "OS type": "android",
         "OS version": "2.3",
+        "url_icon": "/static/images/icons/L-07C.jpg",
+        "url_photo": "/static/images/phones/L-07C.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -2588,6 +2874,8 @@
         "Name ID": "URBANO",
         "OS type": "android",
         "OS version": "4.2",
+        "url_icon": "/static/images/icons/L01.jpg",
+        "url_photo": "/static/images/phones/L01.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -2606,6 +2894,8 @@
         "Name ID": "LG Optimus S G2 LTE-A",
         "OS type": "android",
         "OS version": "4.2.2",
+        "url_icon": "/static/images/icons/LG-F320K.jpg",
+        "url_photo": "/static/images/phones/LG-F320K.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -2624,6 +2914,8 @@
         "Name ID": "LG G3",
         "OS type": "android",
         "OS version": "4.4.2",
+        "url_icon": "/static/images/icons/LG-F400S.jpg",
+        "url_photo": "/static/images/phones/LG-F400S.jpg",
         "Study or work": "1",
         "Entertaiment": "1"
     },
@@ -2642,6 +2934,8 @@
         "Name ID": "Optimus G",
         "OS type": "android",
         "OS version": "4",
+        "url_icon": "/static/images/icons/LGL21.jpg",
+        "url_photo": "/static/images/phones/LGL21.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -2660,6 +2954,8 @@
         "Name ID": "isai",
         "OS type": "android",
         "OS version": "4.4",
+        "url_icon": "/static/images/icons/LGL22.jpg",
+        "url_photo": "/static/images/phones/LGL22.jpg",
         "Study or work": "1",
         "Entertaiment": "1"
     },
@@ -2678,6 +2974,8 @@
         "Name ID": "G Flex",
         "OS type": "android",
         "OS version": "4.2",
+        "url_icon": "/static/images/icons/LGL23.jpg",
+        "url_photo": "/static/images/phones/LGL23.jpg",
         "Study or work": "1",
         "Entertaiment": "1"
     },
@@ -2696,6 +2994,8 @@
         "Name ID": "isai FL",
         "OS type": "android",
         "OS version": "5",
+        "url_icon": "/static/images/icons/LGL24.jpg",
+        "url_photo": "/static/images/phones/LGL24.jpg",
         "Study or work": "1",
         "Entertaiment": "1"
     },
@@ -2714,6 +3014,8 @@
         "Name ID": "Fx0",
         "OS type": "",
         "OS version": "2",
+        "url_icon": "/static/images/icons/LGL25.jpg",
+        "url_photo": "/static/images/phones/LGL25.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -2732,6 +3034,8 @@
         "Name ID": "isai VL",
         "OS type": "android",
         "OS version": "5",
+        "url_icon": "/static/images/icons/LGV31.jpg",
+        "url_photo": "/static/images/phones/LGV31.jpg",
         "Study or work": "1",
         "Entertaiment": "1"
     },
@@ -2750,6 +3054,8 @@
         "Name ID": "isai vivid",
         "OS type": "android",
         "OS version": "5.1",
+        "url_icon": "/static/images/icons/LGV32.jpg",
+        "url_photo": "/static/images/phones/LGV32.jpg",
         "Study or work": "1",
         "Entertaiment": "1"
     },
@@ -2768,6 +3074,8 @@
         "Name ID": "LG G2 mini",
         "OS type": "android",
         "OS version": "4.4",
+        "url_icon": "/static/images/icons/LG_G2_mini.jpg",
+        "url_photo": "/static/images/phones/LG_G2_mini.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -2786,6 +3094,8 @@
         "Name ID": "LG G3 Beat",
         "OS type": "android",
         "OS version": "4.4",
+        "url_icon": "/static/images/icons/LG_G3_Beat.jpg",
+        "url_photo": "/static/images/phones/LG_G3_Beat.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -2804,6 +3114,8 @@
         "Name ID": "LINEAGE",
         "OS type": "android",
         "OS version": "4.2",
+        "url_icon": "/static/images/icons/LINEAGE.jpg",
+        "url_photo": "/static/images/phones/LINEAGE.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -2822,6 +3134,8 @@
         "Name ID": "Liquid Z200",
         "OS type": "android",
         "OS version": "4.4",
+        "url_icon": "/static/images/icons/Liquid_Z200.jpg",
+        "url_photo": "/static/images/phones/Liquid_Z200.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -2840,6 +3154,8 @@
         "Name ID": "Liquid Z330",
         "OS type": "android",
         "OS version": "5.1",
+        "url_icon": "/static/images/icons/Liquid_Z330.jpg",
+        "url_photo": "/static/images/phones/Liquid_Z330.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -2858,6 +3174,8 @@
         "Name ID": "Liquid Z530",
         "OS type": "android",
         "OS version": "5.1",
+        "url_icon": "/static/images/icons/Liquid_Z530.jpg",
+        "url_photo": "/static/images/phones/Liquid_Z530.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -2876,6 +3194,8 @@
         "Name ID": "Xiaomi Mi 3",
         "OS type": "android",
         "OS version": "4.4.2",
+        "url_icon": "/static/images/icons/MI_3W.jpg",
+        "url_photo": "/static/images/phones/MI_3W.jpg",
         "Study or work": "1",
         "Entertaiment": "1"
     },
@@ -2894,6 +3214,8 @@
         "Name ID": "Xiaomi Mi 4",
         "OS type": "android",
         "OS version": "4.4.4",
+        "url_icon": "/static/images/icons/MI_4W.jpg",
+        "url_photo": "/static/images/phones/MI_4W.jpg",
         "Study or work": "1",
         "Entertaiment": "1"
     },
@@ -2912,6 +3234,8 @@
         "Name ID": "Mate S",
         "OS type": "android",
         "OS version": "5.1",
+        "url_icon": "/static/images/icons/Mate_S.jpg",
+        "url_photo": "/static/images/phones/Mate_S.jpg",
         "Study or work": "1",
         "Entertaiment": "1"
     },
@@ -2930,6 +3254,8 @@
         "Name ID": "MEDIAS PP",
         "OS type": "android",
         "OS version": "2.3",
+        "url_icon": "/static/images/icons/N-01D.jpg",
+        "url_photo": "/static/images/phones/N-01D.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -2948,6 +3274,8 @@
         "Name ID": "MEDIAS U",
         "OS type": "android",
         "OS version": "4.1",
+        "url_icon": "/static/images/icons/N-02E.jpg",
+        "url_photo": "/static/images/phones/N-02E.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -2966,6 +3294,8 @@
         "Name ID": "N-02E",
         "OS type": "android",
         "OS version": "4.1",
+        "url_icon": "/static/images/icons/N-02E_ONE_PIECE.jpg",
+        "url_photo": "/static/images/phones/N-02E_ONE_PIECE.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -2984,6 +3314,8 @@
         "Name ID": "Disney Mobile on docomo",
         "OS type": "android",
         "OS version": "4.1",
+        "url_icon": "/static/images/icons/N-03E.jpg",
+        "url_photo": "/static/images/phones/N-03E.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -3002,6 +3334,8 @@
         "Name ID": "MEDIAS LTE",
         "OS type": "android",
         "OS version": "4",
+        "url_icon": "/static/images/icons/N-04D.jpg",
+        "url_photo": "/static/images/phones/N-04D.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -3020,6 +3354,8 @@
         "Name ID": "MEDIAS X",
         "OS type": "android",
         "OS version": "4.1",
+        "url_icon": "/static/images/icons/N-04E.jpg",
+        "url_photo": "/static/images/phones/N-04E.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -3038,6 +3374,8 @@
         "Name ID": "MEDIAS ES",
         "OS type": "android",
         "OS version": "4",
+        "url_icon": "/static/images/icons/N-05D.jpg",
+        "url_photo": "/static/images/phones/N-05D.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -3056,6 +3394,8 @@
         "Name ID": "MEDIAS W",
         "OS type": "android",
         "OS version": "4.1",
+        "url_icon": "/static/images/icons/N-05E.jpg",
+        "url_photo": "/static/images/phones/N-05E.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -3074,6 +3414,8 @@
         "Name ID": "MEDIAS WP",
         "OS type": "android",
         "OS version": "2.3",
+        "url_icon": "/static/images/icons/N-06C.jpg",
+        "url_photo": "/static/images/phones/N-06C.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -3092,6 +3434,8 @@
         "Name ID": "MEDIAS X",
         "OS type": "android",
         "OS version": "4.2",
+        "url_icon": "/static/images/icons/N-06E.jpg",
+        "url_photo": "/static/images/phones/N-06E.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -3110,6 +3454,8 @@
         "Name ID": "MEDIAS X",
         "OS type": "android",
         "OS version": "4.1",
+        "url_icon": "/static/images/icons/N-07D.jpg",
+        "url_photo": "/static/images/phones/N-07D.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -3128,6 +3474,8 @@
         "Name ID": "MEDIAS for BIGLOBE LTE",
         "OS type": "android",
         "OS version": "4",
+        "url_icon": "/static/images/icons/NE-202.jpg",
+        "url_photo": "/static/images/phones/NE-202.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -3146,6 +3494,8 @@
         "Name ID": "Nexus 7",
         "OS type": "android",
         "OS version": "4.3",
+        "url_icon": "/static/images/icons/Nexus7.jpg",
+        "url_photo": "/static/images/phones/Nexus7.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -3164,6 +3514,8 @@
         "Name ID": "Nexus 5",
         "OS type": "android",
         "OS version": "6",
+        "url_icon": "/static/images/icons/Nexus_5.jpg",
+        "url_photo": "/static/images/phones/Nexus_5.jpg",
         "Study or work": "1",
         "Entertaiment": "1"
     },
@@ -3182,6 +3534,8 @@
         "Name ID": "Nexus 5X",
         "OS type": "android",
         "OS version": "6",
+        "url_icon": "/static/images/icons/Nexus_5X.jpg",
+        "url_photo": "/static/images/phones/Nexus_5X.jpg",
         "Study or work": "1",
         "Entertaiment": "1"
     },
@@ -3200,6 +3554,8 @@
         "Name ID": "Nexus 5X",
         "OS type": "android",
         "OS version": "6",
+        "url_icon": "/static/images/icons/Nexus_5X_.jpg",
+        "url_photo": "/static/images/phones/Nexus_5X_.jpg",
         "Study or work": "1",
         "Entertaiment": "1"
     },
@@ -3218,6 +3574,8 @@
         "Name ID": "Nexus 6",
         "OS type": "android",
         "OS version": "6",
+        "url_icon": "/static/images/icons/Nexus_6.jpg",
+        "url_photo": "/static/images/phones/Nexus_6.jpg",
         "Study or work": "1",
         "Entertaiment": "1"
     },
@@ -3236,6 +3594,8 @@
         "Name ID": "Nexus 6P",
         "OS type": "android",
         "OS version": "6",
+        "url_icon": "/static/images/icons/Nexus_6P.jpg",
+        "url_photo": "/static/images/phones/Nexus_6P.jpg",
         "Study or work": "1",
         "Entertaiment": "1"
     },
@@ -3254,6 +3614,8 @@
         "Name ID": "Nexus 7 (2012)",
         "OS type": "android",
         "OS version": "4.3",
+        "url_icon": "/static/images/icons/Nexus_7_2012.jpg",
+        "url_photo": "/static/images/phones/Nexus_7_2012.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -3272,6 +3634,8 @@
         "Name ID": "Nexus 7 (2013)",
         "OS type": "android",
         "OS version": "4.3",
+        "url_icon": "/static/images/icons/Nexus_7_2013.jpg",
+        "url_photo": "/static/images/phones/Nexus_7_2013.jpg",
         "Study or work": "1",
         "Entertaiment": "1"
     },
@@ -3290,6 +3654,8 @@
         "Name ID": "Nexus 9",
         "OS type": "android",
         "OS version": "5",
+        "url_icon": "/static/images/icons/Nexus_9.jpg",
+        "url_photo": "/static/images/phones/Nexus_9.jpg",
         "Study or work": "1",
         "Entertaiment": "0"
     },
@@ -3308,6 +3674,8 @@
         "Name ID": "LUMIX Phone",
         "OS type": "android",
         "OS version": "4",
+        "url_icon": "/static/images/icons/P-02D.jpg",
+        "url_photo": "/static/images/phones/P-02D.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -3326,6 +3694,8 @@
         "Name ID": "ELUGA X",
         "OS type": "android",
         "OS version": "4.1",
+        "url_icon": "/static/images/icons/P-02E.jpg",
+        "url_photo": "/static/images/phones/P-02E.jpg",
         "Study or work": "1",
         "Entertaiment": "0"
     },
@@ -3344,6 +3714,8 @@
         "Name ID": "ELUGA P",
         "OS type": "android",
         "OS version": "4.2",
+        "url_icon": "/static/images/icons/P-03E.jpg",
+        "url_photo": "/static/images/phones/P-03E.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -3362,6 +3734,8 @@
         "Name ID": "P-04D",
         "OS type": "android",
         "OS version": "4",
+        "url_icon": "/static/images/icons/P-04D.jpg",
+        "url_photo": "/static/images/phones/P-04D.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -3380,6 +3754,8 @@
         "Name ID": "Disney Mobile on docomo",
         "OS type": "android",
         "OS version": "4",
+        "url_icon": "/static/images/icons/P-05D.jpg",
+        "url_photo": "/static/images/phones/P-05D.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -3398,6 +3774,8 @@
         "Name ID": "ELUGA V",
         "OS type": "android",
         "OS version": "4",
+        "url_icon": "/static/images/icons/P-06D.jpg",
+        "url_photo": "/static/images/phones/P-06D.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -3416,6 +3794,8 @@
         "Name ID": "P-07C",
         "OS type": "android",
         "OS version": "2.3",
+        "url_icon": "/static/images/icons/P-07C.jpg",
+        "url_photo": "/static/images/phones/P-07C.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -3434,6 +3814,8 @@
         "Name ID": "ELUGA power",
         "OS type": "android",
         "OS version": "4",
+        "url_icon": "/static/images/icons/P-07D.jpg",
+        "url_photo": "/static/images/phones/P-07D.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -3452,6 +3834,8 @@
         "Name ID": "P8lite",
         "OS type": "android",
         "OS version": "5",
+        "url_icon": "/static/images/icons/P8lite.jpg",
+        "url_photo": "/static/images/phones/P8lite.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -3470,6 +3854,8 @@
         "Name ID": "P8max",
         "OS type": "android",
         "OS version": "5.1",
+        "url_icon": "/static/images/icons/P8max.jpg",
+        "url_photo": "/static/images/phones/P8max.jpg",
         "Study or work": "1",
         "Entertaiment": "1"
     },
@@ -3488,6 +3874,8 @@
         "Name ID": "VEGA",
         "OS type": "android",
         "OS version": "4.1",
+        "url_icon": "/static/images/icons/PTL21.jpg",
+        "url_photo": "/static/images/phones/PTL21.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -3506,6 +3894,8 @@
         "Name ID": "PolaSma",
         "OS type": "android",
         "OS version": "4.2",
+        "url_icon": "/static/images/icons/PolaSma.jpg",
+        "url_photo": "/static/images/phones/PolaSma.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -3524,6 +3914,8 @@
         "Name ID": "S301",
         "OS type": "android",
         "OS version": "4.4",
+        "url_icon": "/static/images/icons/S301.jpg",
+        "url_photo": "/static/images/phones/S301.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -3542,6 +3934,8 @@
         "Name ID": "GALAXY Note 3",
         "OS type": "android",
         "OS version": "5",
+        "url_icon": "/static/images/icons/SC-01F.jpg",
+        "url_photo": "/static/images/phones/SC-01F.jpg",
         "Study or work": "1",
         "Entertaiment": "1"
     },
@@ -3560,6 +3954,8 @@
         "Name ID": "GALAXY Note Edge",
         "OS type": "android",
         "OS version": "5",
+        "url_icon": "/static/images/icons/SC-01G.jpg",
+        "url_photo": "/static/images/phones/SC-01G.jpg",
         "Study or work": "1",
         "Entertaiment": "1"
     },
@@ -3578,6 +3974,8 @@
         "Name ID": "Galaxy Active neo ",
         "OS type": "android",
         "OS version": "5.1",
+        "url_icon": "/static/images/icons/SC-01H.jpg",
+        "url_photo": "/static/images/phones/SC-01H.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -3596,6 +3994,8 @@
         "Name ID": "GALAXY S",
         "OS type": "android",
         "OS version": "2.3",
+        "url_icon": "/static/images/icons/SC-02B.jpg",
+        "url_photo": "/static/images/phones/SC-02B.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -3614,6 +4014,8 @@
         "Name ID": "GALAXY S II",
         "OS type": "android",
         "OS version": "4",
+        "url_icon": "/static/images/icons/SC-02C.jpg",
+        "url_photo": "/static/images/phones/SC-02C.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -3632,6 +4034,8 @@
         "Name ID": "GALAXY Note II",
         "OS type": "android",
         "OS version": "4.3",
+        "url_icon": "/static/images/icons/SC-02E.jpg",
+        "url_photo": "/static/images/phones/SC-02E.jpg",
         "Study or work": "1",
         "Entertaiment": "1"
     },
@@ -3650,6 +4054,8 @@
         "Name ID": "GALAXY J",
         "OS type": "android",
         "OS version": "5",
+        "url_icon": "/static/images/icons/SC-02F.jpg",
+        "url_photo": "/static/images/phones/SC-02F.jpg",
         "Study or work": "1",
         "Entertaiment": "1"
     },
@@ -3668,6 +4074,8 @@
         "Name ID": "GALAXY S5 ACTIVE",
         "OS type": "android",
         "OS version": "5",
+        "url_icon": "/static/images/icons/SC-02G.jpg",
+        "url_photo": "/static/images/phones/SC-02G.jpg",
         "Study or work": "1",
         "Entertaiment": "1"
     },
@@ -3686,6 +4094,8 @@
         "Name ID": "GALAXY S II LTE",
         "OS type": "android",
         "OS version": "4",
+        "url_icon": "/static/images/icons/SC-03D.jpg",
+        "url_photo": "/static/images/phones/SC-03D.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -3704,6 +4114,8 @@
         "Name ID": "GALAXY S III \u03b1",
         "OS type": "android",
         "OS version": "4.3",
+        "url_icon": "/static/images/icons/SC-03E.jpg",
+        "url_photo": "/static/images/phones/SC-03E.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -3722,6 +4134,8 @@
         "Name ID": "GALAXY Tab S 8.4",
         "OS type": "android",
         "OS version": "4.4.2",
+        "url_icon": "/static/images/icons/SC-03G.jpg",
+        "url_photo": "/static/images/phones/SC-03G.jpg",
         "Study or work": "1",
         "Entertaiment": "1"
     },
@@ -3740,6 +4154,8 @@
         "Name ID": "GALAXY NEXUS",
         "OS type": "android",
         "OS version": "4.2",
+        "url_icon": "/static/images/icons/SC-04D.jpg",
+        "url_photo": "/static/images/phones/SC-04D.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -3758,6 +4174,8 @@
         "Name ID": "GALAXY S4",
         "OS type": "android",
         "OS version": "5",
+        "url_icon": "/static/images/icons/SC-04E.jpg",
+        "url_photo": "/static/images/phones/SC-04E.jpg",
         "Study or work": "1",
         "Entertaiment": "1"
     },
@@ -3776,6 +4194,8 @@
         "Name ID": "GALAXY S5",
         "OS type": "android",
         "OS version": "5",
+        "url_icon": "/static/images/icons/SC-04F.jpg",
+        "url_photo": "/static/images/phones/SC-04F.jpg",
         "Study or work": "1",
         "Entertaiment": "1"
     },
@@ -3794,6 +4214,8 @@
         "Name ID": "Galaxy S6 edge",
         "OS type": "android",
         "OS version": "5",
+        "url_icon": "/static/images/icons/SC-04G.jpg",
+        "url_photo": "/static/images/phones/SC-04G.jpg",
         "Study or work": "1",
         "Entertaiment": "1"
     },
@@ -3812,6 +4234,8 @@
         "Name ID": "GALAXY Note",
         "OS type": "android",
         "OS version": "4.1",
+        "url_icon": "/static/images/icons/SC-05D.jpg",
+        "url_photo": "/static/images/phones/SC-05D.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -3830,6 +4254,8 @@
         "Name ID": "Galaxy S6",
         "OS type": "android",
         "OS version": "5",
+        "url_icon": "/static/images/icons/SC-05G.jpg",
+        "url_photo": "/static/images/phones/SC-05G.jpg",
         "Study or work": "1",
         "Entertaiment": "1"
     },
@@ -3848,6 +4274,8 @@
         "Name ID": "Galaxy S III",
         "OS type": "android",
         "OS version": "4.1",
+        "url_icon": "/static/images/icons/SC-06D.jpg",
+        "url_photo": "/static/images/phones/SC-06D.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -3866,6 +4294,8 @@
         "Name ID": "GALAXY S III Progre",
         "OS type": "android",
         "OS version": "4.1",
+        "url_icon": "/static/images/icons/SCL21.jpg",
+        "url_photo": "/static/images/phones/SCL21.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -3884,6 +4314,8 @@
         "Name ID": "GALAXY Note 3",
         "OS type": "android",
         "OS version": "5",
+        "url_icon": "/static/images/icons/SCL22.jpg",
+        "url_photo": "/static/images/phones/SCL22.jpg",
         "Study or work": "1",
         "Entertaiment": "1"
     },
@@ -3902,6 +4334,8 @@
         "Name ID": "GALAXY S5",
         "OS type": "android",
         "OS version": "5",
+        "url_icon": "/static/images/icons/SCL23.jpg",
+        "url_photo": "/static/images/phones/SCL23.jpg",
         "Study or work": "1",
         "Entertaiment": "1"
     },
@@ -3920,6 +4354,8 @@
         "Name ID": "GALAXY Note Edge",
         "OS type": "android",
         "OS version": "4.4",
+        "url_icon": "/static/images/icons/SCL24.jpg",
+        "url_photo": "/static/images/phones/SCL24.jpg",
         "Study or work": "1",
         "Entertaiment": "1"
     },
@@ -3938,6 +4374,8 @@
         "Name ID": "Galaxy S6 edge",
         "OS type": "android",
         "OS version": "5",
+        "url_icon": "/static/images/icons/SCV31.jpg",
+        "url_photo": "/static/images/phones/SCV31.jpg",
         "Study or work": "1",
         "Entertaiment": "1"
     },
@@ -3956,6 +4394,8 @@
         "Name ID": "Galaxy A8",
         "OS type": "android",
         "OS version": "5.1",
+        "url_icon": "/static/images/icons/SCV32.jpg",
+        "url_photo": "/static/images/phones/SCV32.jpg",
         "Study or work": "1",
         "Entertaiment": "1"
     },
@@ -3974,6 +4414,8 @@
         "Name ID": "Fire Phone",
         "OS type": "android",
         "OS version": "4.2.2",
+        "url_icon": "/static/images/icons/SD4930UR.jpg",
+        "url_photo": "/static/images/phones/SD4930UR.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -3992,6 +4434,8 @@
         "Name ID": "Xperia Z2 Tablet",
         "OS type": "android",
         "OS version": "4.4.2",
+        "url_icon": "/static/images/icons/SGP511.jpg",
+        "url_photo": "/static/images/phones/SGP511.jpg",
         "Study or work": "1",
         "Entertaiment": "1"
     },
@@ -4010,6 +4454,8 @@
         "Name ID": "AQUOS Phone",
         "OS type": "android",
         "OS version": "4",
+        "url_icon": "/static/images/icons/SH-01D.jpg",
+        "url_photo": "/static/images/phones/SH-01D.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -4028,6 +4474,8 @@
         "Name ID": "AQUOS PHONE si",
         "OS type": "android",
         "OS version": "4.1",
+        "url_icon": "/static/images/icons/SH-01E.jpg",
+        "url_photo": "/static/images/phones/SH-01E.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -4046,6 +4494,8 @@
         "Name ID": "SH-01E",
         "OS type": "android",
         "OS version": "4.1",
+        "url_icon": "/static/images/icons/SH-01E_Vivienne_Westwood.jpg",
+        "url_photo": "/static/images/phones/SH-01E_Vivienne_Westwood.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -4064,6 +4514,8 @@
         "Name ID": "AQUOS PHONE ZETA",
         "OS type": "android",
         "OS version": "4.4",
+        "url_icon": "/static/images/icons/SH-01F.jpg",
+        "url_photo": "/static/images/phones/SH-01F.jpg",
         "Study or work": "1",
         "Entertaiment": "1"
     },
@@ -4082,6 +4534,8 @@
         "Name ID": "SH-01F",
         "OS type": "android",
         "OS version": "4.2",
+        "url_icon": "/static/images/icons/SH-01F_DRAGON_QUEST.jpg",
+        "url_photo": "/static/images/phones/SH-01F_DRAGON_QUEST.jpg",
         "Study or work": "1",
         "Entertaiment": "1"
     },
@@ -4100,6 +4554,8 @@
         "Name ID": "AQUOS ZETA",
         "OS type": "android",
         "OS version": "5",
+        "url_icon": "/static/images/icons/SH-01G.jpg",
+        "url_photo": "/static/images/phones/SH-01G.jpg",
         "Study or work": "1",
         "Entertaiment": "1"
     },
@@ -4118,6 +4574,8 @@
         "Name ID": "AQUOS ZETA",
         "OS type": "android",
         "OS version": "5.1",
+        "url_icon": "/static/images/icons/SH-01H.jpg",
+        "url_photo": "/static/images/phones/SH-01H.jpg",
         "Study or work": "1",
         "Entertaiment": "1"
     },
@@ -4136,6 +4594,8 @@
         "Name ID": "AQUOS PHONE ZETA",
         "OS type": "android",
         "OS version": "4.1",
+        "url_icon": "/static/images/icons/SH-02E.jpg",
+        "url_photo": "/static/images/phones/SH-02E.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -4154,6 +4614,8 @@
         "Name ID": "AQUOS PHONE EX",
         "OS type": "android",
         "OS version": "4.2",
+        "url_icon": "/static/images/icons/SH-02F.jpg",
+        "url_photo": "/static/images/phones/SH-02F.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -4172,6 +4634,8 @@
         "Name ID": "Disney Mobile on docomo",
         "OS type": "android",
         "OS version": "4.4",
+        "url_icon": "/static/images/icons/SH-02G.jpg",
+        "url_photo": "/static/images/phones/SH-02G.jpg",
         "Study or work": "1",
         "Entertaiment": "1"
     },
@@ -4190,6 +4654,8 @@
         "Name ID": "AQUOS Compact",
         "OS type": "android",
         "OS version": "5.1",
+        "url_icon": "/static/images/icons/SH-02H.jpg",
+        "url_photo": "/static/images/phones/SH-02H.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -4208,6 +4674,8 @@
         "Name ID": "AQUOS ZETA",
         "OS type": "android",
         "OS version": "5",
+        "url_icon": "/static/images/icons/SH-03G.jpg",
+        "url_photo": "/static/images/phones/SH-03G.jpg",
         "Study or work": "1",
         "Entertaiment": "1"
     },
@@ -4226,6 +4694,8 @@
         "Name ID": "AQUOS PHONE EX",
         "OS type": "android",
         "OS version": "4.1",
+        "url_icon": "/static/images/icons/SH-04E.jpg",
+        "url_photo": "/static/images/phones/SH-04E.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -4244,6 +4714,8 @@
         "Name ID": "AQUOS ZETA",
         "OS type": "android",
         "OS version": "5",
+        "url_icon": "/static/images/icons/SH-04F.jpg",
+        "url_photo": "/static/images/phones/SH-04F.jpg",
         "Study or work": "1",
         "Entertaiment": "1"
     },
@@ -4262,6 +4734,8 @@
         "Name ID": "AQUOS EVER",
         "OS type": "android",
         "OS version": "5",
+        "url_icon": "/static/images/icons/SH-04G.jpg",
+        "url_photo": "/static/images/phones/SH-04G.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -4280,6 +4754,8 @@
         "Name ID": "Disney Mobile on docomo",
         "OS type": "android",
         "OS version": "4.2",
+        "url_icon": "/static/images/icons/SH-05F.jpg",
+        "url_photo": "/static/images/phones/SH-05F.jpg",
         "Study or work": "1",
         "Entertaiment": "1"
     },
@@ -4298,6 +4774,8 @@
         "Name ID": "AQUOS PAD",
         "OS type": "android",
         "OS version": "5.0.2",
+        "url_icon": "/static/images/icons/SH-05G.jpg",
+        "url_photo": "/static/images/phones/SH-05G.jpg",
         "Study or work": "1",
         "Entertaiment": "0"
     },
@@ -4316,6 +4794,8 @@
         "Name ID": "AQUOS PHONE",
         "OS type": "android",
         "OS version": "4",
+        "url_icon": "/static/images/icons/SH-06D.jpg",
+        "url_photo": "/static/images/phones/SH-06D.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -4334,6 +4814,8 @@
         "Name ID": "SH-06D NERV",
         "OS type": "android",
         "OS version": "4",
+        "url_icon": "/static/images/icons/SH-06DNERV.jpg",
+        "url_photo": "/static/images/phones/SH-06DNERV.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -4352,6 +4834,8 @@
         "Name ID": "AQUOS PHONE ZETA",
         "OS type": "android",
         "OS version": "4.2",
+        "url_icon": "/static/images/icons/SH-06E.jpg",
+        "url_photo": "/static/images/phones/SH-06E.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -4370,6 +4854,8 @@
         "Name ID": "AQUOS PHONE si",
         "OS type": "android",
         "OS version": "4.2",
+        "url_icon": "/static/images/icons/SH-07E.jpg",
+        "url_photo": "/static/images/phones/SH-07E.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -4388,6 +4874,8 @@
         "Name ID": "AQUOS PHONE ZETA",
         "OS type": "android",
         "OS version": "4.1",
+        "url_icon": "/static/images/icons/SH-09D.jpg",
+        "url_photo": "/static/images/phones/SH-09D.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -4406,6 +4894,8 @@
         "Name ID": "AQUOS PHONE sv",
         "OS type": "android",
         "OS version": "4.1",
+        "url_icon": "/static/images/icons/SH-10D.jpg",
+        "url_photo": "/static/images/phones/SH-10D.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -4424,6 +4914,8 @@
         "Name ID": "AQUOS PHONE",
         "OS type": "android",
         "OS version": "2.3",
+        "url_icon": "/static/images/icons/SH-12C.jpg",
+        "url_photo": "/static/images/phones/SH-12C.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -4442,6 +4934,8 @@
         "Name ID": "AQUOS SH-M01",
         "OS type": "android",
         "OS version": "4.4",
+        "url_icon": "/static/images/icons/SH-M01.jpg",
+        "url_photo": "/static/images/phones/SH-M01.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -4460,6 +4954,8 @@
         "Name ID": "AQUOS SH-M02",
         "OS type": "android",
         "OS version": "5",
+        "url_icon": "/static/images/icons/SH-M02.jpg",
+        "url_photo": "/static/images/phones/SH-M02.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -4478,6 +4974,8 @@
         "Name ID": "SHIELD Tablet",
         "OS type": "android",
         "OS version": "4.4.2",
+        "url_icon": "/static/images/icons/SHIELD_Tablet.jpg",
+        "url_photo": "/static/images/phones/SHIELD_Tablet.jpg",
         "Study or work": "1",
         "Entertaiment": "1"
     },
@@ -4496,6 +4994,8 @@
         "Name ID": "AQUOS PHONE SERIE",
         "OS type": "android",
         "OS version": "4.1",
+        "url_icon": "/static/images/icons/SHL21.jpg",
+        "url_photo": "/static/images/phones/SHL21.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -4514,6 +5014,8 @@
         "Name ID": "AQUOS PHONE SERIE",
         "OS type": "android",
         "OS version": "4.2",
+        "url_icon": "/static/images/icons/SHL22.jpg",
+        "url_photo": "/static/images/phones/SHL22.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -4532,6 +5034,8 @@
         "Name ID": "AQUOS PHONE SERIE",
         "OS type": "android",
         "OS version": "4.2",
+        "url_icon": "/static/images/icons/SHL23.jpg",
+        "url_photo": "/static/images/phones/SHL23.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -4550,6 +5054,8 @@
         "Name ID": "AQUOS PHONE SERIE mini",
         "OS type": "android",
         "OS version": "4.2",
+        "url_icon": "/static/images/icons/SHL24.jpg",
+        "url_photo": "/static/images/phones/SHL24.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -4568,6 +5074,8 @@
         "Name ID": "AQUOS SERIE",
         "OS type": "android",
         "OS version": "5",
+        "url_icon": "/static/images/icons/SHL25.jpg",
+        "url_photo": "/static/images/phones/SHL25.jpg",
         "Study or work": "1",
         "Entertaiment": "1"
     },
@@ -4586,6 +5094,8 @@
         "Name ID": "AQUOS SERIE mini",
         "OS type": "android",
         "OS version": "4.4",
+        "url_icon": "/static/images/icons/SHV31.jpg",
+        "url_photo": "/static/images/phones/SHV31.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -4604,6 +5114,8 @@
         "Name ID": "AQUOS SERIE",
         "OS type": "android",
         "OS version": "5",
+        "url_icon": "/static/images/icons/SHV32.jpg",
+        "url_photo": "/static/images/phones/SHV32.jpg",
         "Study or work": "1",
         "Entertaiment": "1"
     },
@@ -4622,6 +5134,8 @@
         "Name ID": "TORQUE",
         "OS type": "android",
         "OS version": "4.2",
+        "url_icon": "/static/images/icons/SKT01.jpg",
+        "url_photo": "/static/images/phones/SKT01.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -4640,6 +5154,8 @@
         "Name ID": "Galaxy Note Pro 12.2 LTE",
         "OS type": "android",
         "OS version": "4.4.2",
+        "url_icon": "/static/images/icons/SM-P905.jpg",
+        "url_photo": "/static/images/phones/SM-P905.jpg",
         "Study or work": "1",
         "Entertaiment": "1"
     },
@@ -4658,6 +5174,8 @@
         "Name ID": "Xperia arc",
         "OS type": "android",
         "OS version": "2.3",
+        "url_icon": "/static/images/icons/SO-01C.jpg",
+        "url_photo": "/static/images/phones/SO-01C.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -4676,6 +5194,8 @@
         "Name ID": "Xperia PLAY",
         "OS type": "android",
         "OS version": "2.3",
+        "url_icon": "/static/images/icons/SO-01D.jpg",
+        "url_photo": "/static/images/phones/SO-01D.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -4694,6 +5214,8 @@
         "Name ID": "Xperia AX",
         "OS type": "android",
         "OS version": "4.1",
+        "url_icon": "/static/images/icons/SO-01E.jpg",
+        "url_photo": "/static/images/phones/SO-01E.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -4712,6 +5234,8 @@
         "Name ID": "Xperia Z1",
         "OS type": "android",
         "OS version": "4.4",
+        "url_icon": "/static/images/icons/SO-01F.jpg",
+        "url_photo": "/static/images/phones/SO-01F.jpg",
         "Study or work": "1",
         "Entertaiment": "1"
     },
@@ -4730,6 +5254,8 @@
         "Name ID": "Xperia Z3",
         "OS type": "android",
         "OS version": "5",
+        "url_icon": "/static/images/icons/SO-01G.jpg",
+        "url_photo": "/static/images/phones/SO-01G.jpg",
         "Study or work": "1",
         "Entertaiment": "1"
     },
@@ -4748,6 +5274,8 @@
         "Name ID": "Xperia Z5",
         "OS type": "android",
         "OS version": "5.1",
+        "url_icon": "/static/images/icons/SO-01H.jpg",
+        "url_photo": "/static/images/phones/SO-01H.jpg",
         "Study or work": "1",
         "Entertaiment": "1"
     },
@@ -4766,6 +5294,8 @@
         "Name ID": "Xperia acro",
         "OS type": "android",
         "OS version": "2.3",
+        "url_icon": "/static/images/icons/SO-02C.jpg",
+        "url_photo": "/static/images/phones/SO-02C.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -4784,6 +5314,8 @@
         "Name ID": "Xperia NX",
         "OS type": "android",
         "OS version": "4",
+        "url_icon": "/static/images/icons/SO-02D.jpg",
+        "url_photo": "/static/images/phones/SO-02D.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -4802,6 +5334,8 @@
         "Name ID": "Xperia Z",
         "OS type": "android",
         "OS version": "4.4",
+        "url_icon": "/static/images/icons/SO-02E.jpg",
+        "url_photo": "/static/images/phones/SO-02E.jpg",
         "Study or work": "1",
         "Entertaiment": "0"
     },
@@ -4820,6 +5354,8 @@
         "Name ID": "Xperia Z1 f",
         "OS type": "android",
         "OS version": "4.4",
+        "url_icon": "/static/images/icons/SO-02F.jpg",
+        "url_photo": "/static/images/phones/SO-02F.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -4838,6 +5374,8 @@
         "Name ID": "Xperia Z3 Compact",
         "OS type": "android",
         "OS version": "5",
+        "url_icon": "/static/images/icons/SO-02G.jpg",
+        "url_photo": "/static/images/phones/SO-02G.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -4856,6 +5394,8 @@
         "Name ID": "Xperia Z5 Compact",
         "OS type": "android",
         "OS version": "5.1",
+        "url_icon": "/static/images/icons/SO-02H.jpg",
+        "url_photo": "/static/images/phones/SO-02H.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -4874,6 +5414,8 @@
         "Name ID": "Xperia acro HD",
         "OS type": "android",
         "OS version": "4",
+        "url_icon": "/static/images/icons/SO-03D.jpg",
+        "url_photo": "/static/images/phones/SO-03D.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -4892,6 +5434,8 @@
         "Name ID": "Xperia Z2",
         "OS type": "android",
         "OS version": "5",
+        "url_icon": "/static/images/icons/SO-03F.jpg",
+        "url_photo": "/static/images/phones/SO-03F.jpg",
         "Study or work": "1",
         "Entertaiment": "1"
     },
@@ -4910,6 +5454,8 @@
         "Name ID": "Xperia Z4",
         "OS type": "android",
         "OS version": "5",
+        "url_icon": "/static/images/icons/SO-03G.jpg",
+        "url_photo": "/static/images/phones/SO-03G.jpg",
         "Study or work": "1",
         "Entertaiment": "1"
     },
@@ -4928,6 +5474,8 @@
         "Name ID": "Xperia Z5 Premium",
         "OS type": "android",
         "OS version": "5.1",
+        "url_icon": "/static/images/icons/SO-03H.jpg",
+        "url_photo": "/static/images/phones/SO-03H.jpg",
         "Study or work": "1",
         "Entertaiment": "1"
     },
@@ -4946,6 +5494,8 @@
         "Name ID": "Xperia GX",
         "OS type": "android",
         "OS version": "4.1",
+        "url_icon": "/static/images/icons/SO-04D.jpg",
+        "url_photo": "/static/images/phones/SO-04D.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -4964,6 +5514,8 @@
         "Name ID": "Xperia A",
         "OS type": "android",
         "OS version": "4.2",
+        "url_icon": "/static/images/icons/SO-04E.jpg",
+        "url_photo": "/static/images/phones/SO-04E.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -4982,6 +5534,8 @@
         "Name ID": "Xperia feat. HATSUNE MIKU",
         "OS type": "android",
         "OS version": "4.2",
+        "url_icon": "/static/images/icons/SO-04E_MIKU.jpg",
+        "url_photo": "/static/images/phones/SO-04E_MIKU.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -5000,6 +5554,8 @@
         "Name ID": "Xperia A2",
         "OS type": "android",
         "OS version": "4.4",
+        "url_icon": "/static/images/icons/SO-04F.jpg",
+        "url_photo": "/static/images/phones/SO-04F.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -5018,6 +5574,8 @@
         "Name ID": "Xperia A4",
         "OS type": "android",
         "OS version": "5",
+        "url_icon": "/static/images/icons/SO-04G.jpg",
+        "url_photo": "/static/images/phones/SO-04G.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -5036,6 +5594,8 @@
         "Name ID": "Xperia Z4 Tablet",
         "OS type": "android",
         "OS version": "5.0.2",
+        "url_icon": "/static/images/icons/SO-05G.jpg",
+        "url_photo": "/static/images/phones/SO-05G.jpg",
         "Study or work": "1",
         "Entertaiment": "0"
     },
@@ -5054,6 +5614,8 @@
         "Name ID": "Xperia VL",
         "OS type": "android",
         "OS version": "4.1",
+        "url_icon": "/static/images/icons/SOL21.jpg",
+        "url_photo": "/static/images/phones/SOL21.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -5072,6 +5634,8 @@
         "Name ID": "Xperia UL",
         "OS type": "android",
         "OS version": "4.2",
+        "url_icon": "/static/images/icons/SOL22.jpg",
+        "url_photo": "/static/images/phones/SOL22.jpg",
         "Study or work": "1",
         "Entertaiment": "0"
     },
@@ -5090,6 +5654,8 @@
         "Name ID": "Xperia Z1",
         "OS type": "android",
         "OS version": "4.4",
+        "url_icon": "/static/images/icons/SOL23.jpg",
+        "url_photo": "/static/images/phones/SOL23.jpg",
         "Study or work": "1",
         "Entertaiment": "1"
     },
@@ -5108,6 +5674,8 @@
         "Name ID": "Xperia Z Ultra",
         "OS type": "android",
         "OS version": "4.4",
+        "url_icon": "/static/images/icons/SOL24.jpg",
+        "url_photo": "/static/images/phones/SOL24.jpg",
         "Study or work": "1",
         "Entertaiment": "1"
     },
@@ -5126,6 +5694,8 @@
         "Name ID": "Xperia ZL2",
         "OS type": "android",
         "OS version": "5",
+        "url_icon": "/static/images/icons/SOL25.jpg",
+        "url_photo": "/static/images/phones/SOL25.jpg",
         "Study or work": "1",
         "Entertaiment": "1"
     },
@@ -5144,6 +5714,8 @@
         "Name ID": "Xperia Z3",
         "OS type": "android",
         "OS version": "5",
+        "url_icon": "/static/images/icons/SOL26.jpg",
+        "url_photo": "/static/images/phones/SOL26.jpg",
         "Study or work": "1",
         "Entertaiment": "1"
     },
@@ -5162,6 +5734,8 @@
         "Name ID": "Xperia Z4",
         "OS type": "android",
         "OS version": "5",
+        "url_icon": "/static/images/icons/SOV31.jpg",
+        "url_photo": "/static/images/phones/SOV31.jpg",
         "Study or work": "1",
         "Entertaiment": "1"
     },
@@ -5180,6 +5754,8 @@
         "Name ID": "Xperia Z5",
         "OS type": "android",
         "OS version": "5.1",
+        "url_icon": "/static/images/icons/SOV32.jpg",
+        "url_photo": "/static/images/phones/SOV32.jpg",
         "Study or work": "1",
         "Entertaiment": "1"
     },
@@ -5198,6 +5774,8 @@
         "Name ID": "Spray 402LG",
         "OS type": "android",
         "OS version": "4.4",
+        "url_icon": "/static/images/icons/Spray_402LG.jpg",
+        "url_photo": "/static/images/phones/Spray_402LG.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -5216,6 +5794,8 @@
         "Name ID": "REGZA Phone",
         "OS type": "android",
         "OS version": "2.2",
+        "url_icon": "/static/images/icons/T-01C.jpg",
+        "url_photo": "/static/images/phones/T-01C.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -5234,6 +5814,8 @@
         "Name ID": "REGZA Phone",
         "OS type": "android",
         "OS version": "4",
+        "url_icon": "/static/images/icons/T-01D.jpg",
+        "url_photo": "/static/images/phones/T-01D.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -5252,6 +5834,8 @@
         "Name ID": "REGZA Phone",
         "OS type": "android",
         "OS version": "4.1",
+        "url_icon": "/static/images/icons/T-02D.jpg",
+        "url_photo": "/static/images/phones/T-02D.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -5270,6 +5854,8 @@
         "Name ID": "URBANO PROGRESSO",
         "OS type": "android",
         "OS version": "4",
+        "url_icon": "/static/images/icons/URBANO_PROGRESSO.jpg",
+        "url_photo": "/static/images/phones/URBANO_PROGRESSO.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -5288,6 +5874,8 @@
         "Name ID": "URBANO",
         "OS type": "android",
         "OS version": "5.1",
+        "url_icon": "/static/images/icons/V02.jpg",
+        "url_photo": "/static/images/phones/V02.jpg",
         "Study or work": "1",
         "Entertaiment": "0"
     },
@@ -5306,6 +5894,8 @@
         "Name ID": "VAIO Phone",
         "OS type": "android",
         "OS version": "5",
+        "url_icon": "/static/images/icons/VAIO_Phone.jpg",
+        "url_photo": "/static/images/phones/VAIO_Phone.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -5324,6 +5914,8 @@
         "Name ID": "DIGNO DUAL",
         "OS type": "android",
         "OS version": "4.1",
+        "url_icon": "/static/images/icons/WX04K.jpg",
+        "url_photo": "/static/images/phones/WX04K.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -5342,6 +5934,8 @@
         "Name ID": "AQUOS PHONE es",
         "OS type": "android",
         "OS version": "4.1",
+        "url_icon": "/static/images/icons/WX04SH.jpg",
+        "url_photo": "/static/images/phones/WX04SH.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -5360,6 +5954,8 @@
         "Name ID": "AQUOS PHONE ef",
         "OS type": "android",
         "OS version": "4.1",
+        "url_icon": "/static/images/icons/WX05SH.jpg",
+        "url_photo": "/static/images/phones/WX05SH.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -5378,6 +5974,8 @@
         "Name ID": "DIGNO DUAL 2",
         "OS type": "android",
         "OS version": "4.2",
+        "url_icon": "/static/images/icons/WX10K.jpg",
+        "url_photo": "/static/images/phones/WX10K.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -5396,6 +5994,8 @@
         "Name ID": "Oppo Find 7",
         "OS type": "android",
         "OS version": "4.3",
+        "url_icon": "/static/images/icons/X9077.jpg",
+        "url_photo": "/static/images/phones/X9077.jpg",
         "Study or work": "1",
         "Entertaiment": "1"
     },
@@ -5414,6 +6014,8 @@
         "Name ID": "Moto X (1st gen.)",
         "OS type": "android",
         "OS version": "4.4.4",
+        "url_icon": "/static/images/icons/XT1053.jpg",
+        "url_photo": "/static/images/phones/XT1053.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -5432,6 +6034,8 @@
         "Name ID": "Moto X (2nd gen.)",
         "OS type": "android",
         "OS version": "4.4.4",
+        "url_icon": "/static/images/icons/XT1092.jpg",
+        "url_photo": "/static/images/phones/XT1092.jpg",
         "Study or work": "1",
         "Entertaiment": "1"
     },
@@ -5450,6 +6054,8 @@
         "Name ID": "Xperia J1 Compact",
         "OS type": "android",
         "OS version": "4.4",
+        "url_icon": "/static/images/icons/Xperia_J1_Compact.jpg",
+        "url_photo": "/static/images/phones/Xperia_J1_Compact.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -5468,6 +6074,8 @@
         "Name ID": "Xperia Z5",
         "OS type": "android",
         "OS version": "5.1",
+        "url_icon": "/static/images/icons/Xperia_Z5.jpg",
+        "url_photo": "/static/images/phones/Xperia_Z5.jpg",
         "Study or work": "1",
         "Entertaiment": "1"
     },
@@ -5486,6 +6094,8 @@
         "Name ID": "ZenFone 2 Laser",
         "OS type": "android",
         "OS version": "5",
+        "url_icon": "/static/images/icons/ZenFone_2_Laser.jpg",
+        "url_photo": "/static/images/phones/ZenFone_2_Laser.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -5504,6 +6114,8 @@
         "Name ID": "ZenFone 2",
         "OS type": "android",
         "OS version": "5",
+        "url_icon": "/static/images/icons/ZenFone_2_ZE551ML.jpg",
+        "url_photo": "/static/images/phones/ZenFone_2_ZE551ML.jpg",
         "Study or work": "1",
         "Entertaiment": "1"
     },
@@ -5522,6 +6134,8 @@
         "Name ID": "ZenFone 5",
         "OS type": "android",
         "OS version": "4.4",
+        "url_icon": "/static/images/icons/ZenFone_5_A500KL.jpg",
+        "url_photo": "/static/images/phones/ZenFone_5_A500KL.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -5540,6 +6154,8 @@
         "Name ID": "ZenFone Selfie",
         "OS type": "android",
         "OS version": "5",
+        "url_icon": "/static/images/icons/ZenFone_Selfie.jpg",
+        "url_photo": "/static/images/phones/ZenFone_Selfie.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -5558,6 +6174,8 @@
         "Name ID": "Yoga Tablet 8",
         "OS type": "android",
         "OS version": "4.2",
+        "url_icon": "/static/images/icons/_B6000-F.jpg",
+        "url_photo": "/static/images/phones/_B6000-F.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -5576,6 +6194,8 @@
         "Name ID": "Honor 3X",
         "OS type": "android",
         "OS version": "4.2.2",
+        "url_icon": "/static/images/icons/_G750-U10.jpg",
+        "url_photo": "/static/images/phones/_G750-U10.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -5594,6 +6214,8 @@
         "Name ID": "HTC One M8x LTE",
         "OS type": "android",
         "OS version": "4.4.2",
+        "url_icon": "/static/images/icons/_M8x.jpg",
+        "url_photo": "/static/images/phones/_M8x.jpg",
         "Study or work": "1",
         "Entertaiment": "1"
     },
@@ -5612,6 +6234,8 @@
         "Name ID": "arrows M02",
         "OS type": "android",
         "OS version": "5.1",
+        "url_icon": "/static/images/icons/arrows_M02.jpg",
+        "url_photo": "/static/images/phones/arrows_M02.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -5630,6 +6254,8 @@
         "Name ID": "freetel XM",
         "OS type": "android",
         "OS version": "4.4",
+        "url_icon": "/static/images/icons/freetel_XM.jpg",
+        "url_photo": "/static/images/phones/freetel_XM.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -5648,6 +6274,8 @@
         "Name ID": "g01",
         "OS type": "android",
         "OS version": "5",
+        "url_icon": "/static/images/icons/g01.jpg",
+        "url_photo": "/static/images/phones/g01.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -5666,6 +6294,8 @@
         "Name ID": "g02",
         "OS type": "android",
         "OS version": "5",
+        "url_icon": "/static/images/icons/g02.jpg",
+        "url_photo": "/static/images/phones/g02.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -5684,6 +6314,8 @@
         "Name ID": "g03",
         "OS type": "android",
         "OS version": "5",
+        "url_icon": "/static/images/icons/g03.jpg",
+        "url_photo": "/static/images/phones/g03.jpg",
         "Study or work": "1",
         "Entertaiment": "0"
     },
@@ -5702,6 +6334,8 @@
         "Name ID": "g04",
         "OS type": "android",
         "OS version": "5",
+        "url_icon": "/static/images/icons/g04.jpg",
+        "url_photo": "/static/images/phones/g04.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -5720,6 +6354,8 @@
         "Name ID": "g05",
         "OS type": "android",
         "OS version": "5.1",
+        "url_icon": "/static/images/icons/g05.jpg",
+        "url_photo": "/static/images/phones/g05.jpg",
         "Study or work": "1",
         "Entertaiment": "0"
     },
@@ -5738,6 +6374,8 @@
         "Name ID": "honor6 Plus",
         "OS type": "android",
         "OS version": "5.1",
+        "url_icon": "/static/images/icons/honor6_Plus.jpg",
+        "url_photo": "/static/images/phones/honor6_Plus.jpg",
         "Study or work": "1",
         "Entertaiment": "1"
     },
@@ -5756,6 +6394,8 @@
         "Name ID": "iPhone 3GS",
         "OS type": "ios",
         "OS version": "6.1.6",
+        "url_icon": "/static/images/icons/iPhone_3GS.jpg",
+        "url_photo": "/static/images/phones/iPhone_3GS.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -5774,6 +6414,8 @@
         "Name ID": "iPhone 4",
         "OS type": "ios",
         "OS version": "7.1",
+        "url_icon": "/static/images/icons/iPhone_4.jpg",
+        "url_photo": "/static/images/phones/iPhone_4.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -5792,6 +6434,8 @@
         "Name ID": "iPhone 4S",
         "OS type": "ios",
         "OS version": "8.4",
+        "url_icon": "/static/images/icons/iPhone_4S.jpg",
+        "url_photo": "/static/images/phones/iPhone_4S.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -5810,6 +6454,8 @@
         "Name ID": "iPhone 4S",
         "OS type": "ios",
         "OS version": "8.4",
+        "url_icon": "/static/images/icons/iPhone_4S_.jpg",
+        "url_photo": "/static/images/phones/iPhone_4S_.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -5828,6 +6474,8 @@
         "Name ID": "iPhone 4S",
         "OS type": "ios",
         "OS version": "8.4",
+        "url_icon": "/static/images/icons/iPhone_4S__.jpg",
+        "url_photo": "/static/images/phones/iPhone_4S__.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -5846,6 +6494,8 @@
         "Name ID": "iPhone 5",
         "OS type": "ios",
         "OS version": "8.4",
+        "url_icon": "/static/images/icons/iPhone_5.jpg",
+        "url_photo": "/static/images/phones/iPhone_5.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -5864,6 +6514,8 @@
         "Name ID": "iPhone 5c",
         "OS type": "ios",
         "OS version": "8.4",
+        "url_icon": "/static/images/icons/iPhone_5C.jpg",
+        "url_photo": "/static/images/phones/iPhone_5C.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -5882,6 +6534,8 @@
         "Name ID": "iPhone 5c",
         "OS type": "ios",
         "OS version": "8.4",
+        "url_icon": "/static/images/icons/iPhone_5C_.jpg",
+        "url_photo": "/static/images/phones/iPhone_5C_.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -5900,6 +6554,8 @@
         "Name ID": "iPhone 5c",
         "OS type": "ios",
         "OS version": "8.4",
+        "url_icon": "/static/images/icons/iPhone_5C___.jpg",
+        "url_photo": "/static/images/phones/iPhone_5C___.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -5918,6 +6574,8 @@
         "Name ID": "iPhone 5s",
         "OS type": "ios",
         "OS version": "8.4",
+        "url_icon": "/static/images/icons/iPhone_5S.jpg",
+        "url_photo": "/static/images/phones/iPhone_5S.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -5936,6 +6594,8 @@
         "Name ID": "iPhone 5s",
         "OS type": "ios",
         "OS version": "8.4",
+        "url_icon": "/static/images/icons/iPhone_5S_.jpg",
+        "url_photo": "/static/images/phones/iPhone_5S_.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -5954,6 +6614,8 @@
         "Name ID": "iPhone 5s",
         "OS type": "ios",
         "OS version": "8.4",
+        "url_icon": "/static/images/icons/iPhone_5S___.jpg",
+        "url_photo": "/static/images/phones/iPhone_5S___.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -5972,6 +6634,8 @@
         "Name ID": "iPhone 5",
         "OS type": "ios",
         "OS version": "8.4",
+        "url_icon": "/static/images/icons/iPhone_5_.jpg",
+        "url_photo": "/static/images/phones/iPhone_5_.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -5990,6 +6654,8 @@
         "Name ID": "iPhone 6",
         "OS type": "ios",
         "OS version": "8.4",
+        "url_icon": "/static/images/icons/iPhone_6.jpg",
+        "url_photo": "/static/images/phones/iPhone_6.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -6008,6 +6674,8 @@
         "Name ID": "iPhone 6",
         "OS type": "ios",
         "OS version": "8.4",
+        "url_icon": "/static/images/icons/iPhone_6_.jpg",
+        "url_photo": "/static/images/phones/iPhone_6_.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -6026,6 +6694,8 @@
         "Name ID": "iPhone 6 Plus",
         "OS type": "ios",
         "OS version": "8.4",
+        "url_icon": "/static/images/icons/iPhone_6_Plus.jpg",
+        "url_photo": "/static/images/phones/iPhone_6_Plus.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -6044,6 +6714,8 @@
         "Name ID": "iPhone 6 Plus",
         "OS type": "ios",
         "OS version": "8.4",
+        "url_icon": "/static/images/icons/iPhone_6_Plus_.jpg",
+        "url_photo": "/static/images/phones/iPhone_6_Plus_.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -6062,6 +6734,8 @@
         "Name ID": "iPhone 6 Plus",
         "OS type": "ios",
         "OS version": "8.4",
+        "url_icon": "/static/images/icons/iPhone_6_Plus__.jpg",
+        "url_photo": "/static/images/phones/iPhone_6_Plus__.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -6080,6 +6754,8 @@
         "Name ID": "iPhone 6",
         "OS type": "ios",
         "OS version": "8.4",
+        "url_icon": "/static/images/icons/iPhone_6__.jpg",
+        "url_photo": "/static/images/phones/iPhone_6__.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -6098,6 +6774,8 @@
         "Name ID": "iPhone 6s",
         "OS type": "ios",
         "OS version": "9",
+        "url_icon": "/static/images/icons/iPhone_6s.jpg",
+        "url_photo": "/static/images/phones/iPhone_6s.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -6116,6 +6794,8 @@
         "Name ID": "iPhone 6s",
         "OS type": "ios",
         "OS version": "9",
+        "url_icon": "/static/images/icons/iPhone_6s.jpg",
+        "url_photo": "/static/images/phones/iPhone_6s.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     },
@@ -6134,6 +6814,8 @@
         "Name ID": "iPhone 6s Plus",
         "OS type": "ios",
         "OS version": "9",
+        "url_icon": "/static/images/icons/iPhone_6s_Plus.jpg",
+        "url_photo": "/static/images/phones/iPhone_6s_Plus.jpg",
         "Study or work": "1",
         "Entertaiment": "0"
     },
@@ -6152,6 +6834,8 @@
         "Name ID": "iPhone 6s Plus",
         "OS type": "ios",
         "OS version": "9",
+        "url_icon": "/static/images/icons/iPhone_6s_Plus_.jpg",
+        "url_photo": "/static/images/phones/iPhone_6s_Plus_.jpg",
         "Study or work": "1",
         "Entertaiment": "0"
     },
@@ -6170,6 +6854,8 @@
         "Name ID": "iPhone 6s Plus",
         "OS type": "ios",
         "OS version": "9",
+        "url_icon": "/static/images/icons/iPhone_6s_Plus__.jpg",
+        "url_photo": "/static/images/phones/iPhone_6s_Plus__.jpg",
         "Study or work": "1",
         "Entertaiment": "0"
     },
@@ -6188,6 +6874,8 @@
         "Name ID": "iPhone 6s",
         "OS type": "ios",
         "OS version": "9",
+        "url_icon": "/static/images/icons/iPhone_6s__.jpg",
+        "url_photo": "/static/images/phones/iPhone_6s__.jpg",
         "Study or work": "0",
         "Entertaiment": "0"
     }

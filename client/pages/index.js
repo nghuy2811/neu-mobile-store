@@ -6,11 +6,20 @@ import SlideNav from "../components/SlideNav";
 import ProductSection from "../components/ProductSection";
 
 export default function Home({ data }) {
+  const productsByBrand = data.reduce((acc, product) => {
+    (acc[product["Maker name"]] = acc[product["Maker name"]] || []).push(
+      product
+    );
+    return acc;
+  }, {});
+
+  const brandList = Object.keys(productsByBrand).sort();
+
   return (
     <>
       <Header />
-      <SlideNav data={data} />
-      <ProductSection />
+      <SlideNav brandList={brandList} />
+      <ProductSection brandList={brandList} productsByBrand={productsByBrand} />
     </>
   );
 }

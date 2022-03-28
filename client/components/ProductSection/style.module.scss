@@ -1,0 +1,31 @@
+.product-item {
+  cursor: pointer;
+  display: flex;
+  padding: 18px 10px;
+  width: calc(33.3333% - 10px);
+  font-size: 16px;
+  gap: 20px;
+  border: 2px solid transparent;
+  border-radius: 12px;
+  transition: border-color 0.2s linear;
+
+  img {
+    transition: transform 0.2s linear;
+  }
+
+  h2 {
+    transition: color 0.2s linear;
+  }
+
+  &:hover {
+    border-color: #666;
+
+    img {
+      transform: scale(1.1);
+    }
+
+    h2 {
+      color: #999;
+    }
+  }
+}

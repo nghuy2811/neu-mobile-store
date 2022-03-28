@@ -3,16 +3,7 @@ import React from "react";
 import SearchBar from "../SearchBar";
 import BrandSlide from "./BrandSlide";
 
-const SlideNav = ({ data }) => {
-  const productsByBrand = data.reduce((acc, product) => {
-    (acc[product["Maker name"]] = acc[product["Maker name"]] || []).push(
-      product
-    );
-    return acc;
-  }, {});
-
-  const brandList = Object.keys(productsByBrand).sort();
-
+const SlideNav = ({ brandList }) => {
   return (
     <div className="bg-black py-5">
       <div className="container flex">
