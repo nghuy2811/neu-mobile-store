@@ -1,11 +1,13 @@
-from email.policy import default
-from flask import Flask, render_template, request, json, Response
+from flask import Flask, render_template, request, jsonify
 import pickle
 import numpy as np
 from sklearn import tree
 from matplotlib import pyplot as plt
 from model_script import run_script
-from convert import make_json
+import sqlite3
+import os
+
+current_dir = os.path.dirname(os.path.abspath(__file__))
 
 app = Flask(__name__, static_url_path='/static')
 
@@ -43,12 +45,58 @@ def visualize():
 
 @app.route("/database")
 def database():
-  csvFilePath = r'data.csv'
-  jsonFilePath = r'./static/data/data.json'
-  make_json(csvFilePath, jsonFilePath)
-  json_data = open("static/data/data.json")
-  data = json.load(json_data)
-  return Response(json.dumps(data),  mimetype='application/json')
+  connection = sqlite3.connect(current_dir + "\smartphone.db")
+  cursor = connection.cursor()
+  query = "SELECT * FROM smartphones"
+  rows = cursor.execute(query).fetchall()
+  columns = [desc[0] for desc in cursor.description]
+  result = []
+  for row in rows:
+    row = dict(zip(columns, row))
+    result.append(row)
+  return jsonify(result)
+
+# @app.route("/filter", methods=["GET"])
+# def get_filter():
+#   query_data = request.get_json()
+#   connection = sqlite3.connect(current_dir + "\smartphone.db")
+#   cursor = connection.cursor()
+#   query = "SELECT * FROM smartphones"
+#   rows = cursor.execute(query).fetchall()
+#   columns = [desc[0] for desc in cursor.description]
+#   result = []
+#   for row in rows:
+#     row = dict(zip(columns, row))
+#     result.append(row)
+#   return jsonify(result)
+
+@app.route("/filter", methods=["POST"])
+def post_filter():
+  query_data = request.get_json()
+  query = "SELECT * FROM smartphones WHERE 1=1"
+  if (query_data["cpu_cores"]):
+    if len(query_data["cpu_cores"]) == 1:
+      query_cpu_cores="({})".format(query_data["cpu_cores"][0])
+    else:
+      query_cpu_cores = tuple(query_data["cpu_cores"])
+    query += " AND cpu_cores in {}".format(query_cpu_cores)
+
+  if (query_data["cpu_freq"]):
+    if len(query_data["cpu_freq"]) == 1:
+      cpu_freq="({})".format(query_data["cpu_freq"][0])
+    else:
+      cpu_freq = tuple(query_data["cpu_freq"])
+    query += " AND cpu_freq in {}".format(cpu_freq)
+
+  connection = sqlite3.connect(current_dir + "\smartphone.db")
+  cursor = connection.cursor()
+  rows = cursor.execute(query).fetchall()
+  columns = [desc[0] for desc in cursor.description]
+  result = []
+  for row in rows:
+    row = dict(zip(columns, row))
+    result.append(row)
+  return jsonify(result)
 
 if __name__ == "__main__":
   app.run(debug=True)

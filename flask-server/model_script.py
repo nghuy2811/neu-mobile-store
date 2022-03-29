@@ -2,10 +2,12 @@ import pandas as pd
 # from sklearn.preprocessing import StandardScaler
 from sklearn.model_selection import train_test_split
 from sklearn import tree
+from export_csv import export
 import pickle
 
 def run_script():
-  df = pd.read_csv("./data.csv")
+  export("smartphones")
+  df = pd.read_csv("./smartphones.csv")
   df.head()
 
   X = df[["cpu_cores", "cpu_freq", "height", "screen", "width", "memory_ram", "memory_rom"]]
