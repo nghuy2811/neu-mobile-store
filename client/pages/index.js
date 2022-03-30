@@ -1,7 +1,6 @@
 import React from "react";
 import axios from "axios";
 
-import Header from "../components/Header";
 import SlideNav from "../components/SlideNav";
 import ProductSection from "../components/ProductSection";
 
@@ -17,7 +16,6 @@ export default function Home({ data }) {
 
   return (
     <>
-      <Header />
       <SlideNav brandList={brandList} />
       <ProductSection brandList={brandList} productsByBrand={productsByBrand} />
     </>

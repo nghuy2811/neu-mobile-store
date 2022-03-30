@@ -6,10 +6,12 @@ from matplotlib import pyplot as plt
 from model_script import run_script
 import sqlite3
 import os
+from flask_cors import CORS, cross_origin
 
 current_dir = os.path.dirname(os.path.abspath(__file__))
 
 app = Flask(__name__, static_url_path='/static')
+CORS(app, resources={r"/api/*": {"origins": "*"}})
 
 model = pickle.load(open("./model.pkl", "rb"))
 
@@ -71,6 +73,7 @@ def database():
 #   return jsonify(result)
 
 @app.route("/filter", methods=["POST"])
+@cross_origin()
 def post_filter():
   query_data = request.get_json()
   query = "SELECT * FROM smartphones WHERE 1=1"
@@ -87,6 +90,27 @@ def post_filter():
     else:
       cpu_freq = tuple(query_data["cpu_freq"])
     query += " AND cpu_freq in {}".format(cpu_freq)
+
+  if (query_data["screen"]):
+    if len(query_data["screen"]) == 1:
+      screen="({})".format(query_data["screen"][0])
+    else:
+      screen = tuple(query_data["screen"])
+    query += " AND screen in {}".format(screen)
+
+  if (query_data["memory_ram"]):
+    if len(query_data["memory_ram"]) == 1:
+      memory_ram="({})".format(query_data["memory_ram"][0])
+    else:
+      memory_ram = tuple(query_data["memory_ram"])
+    query += " AND memory_ram in {}".format(memory_ram)
+
+  if (query_data["memory_rom"]):
+    if len(query_data["memory_rom"]) == 1:
+      memory_rom="({})".format(query_data["memory_rom"][0])
+    else:
+      memory_rom = tuple(query_data["memory_rom"])
+    query += " AND memory_rom in {}".format(memory_rom)
 
   connection = sqlite3.connect(current_dir + "\smartphone.db")
   cursor = connection.cursor()
