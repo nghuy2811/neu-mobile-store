@@ -8,8 +8,8 @@ import styles from "./style.module.scss";
 
 const BrandSlide = ({ brandList }) => {
   return (
-    <div className="relative overflow-hidden">
-      <div className="w-full text-white">
+    <div className="relative overflow-hidden py-10 px-5 bg-white shadow-md text-black">
+      <div className="w-full">
         <div className="mx-8">
           <Swiper
             slidesPerView={"auto"}
@@ -21,8 +21,8 @@ const BrandSlide = ({ brandList }) => {
             }}
           >
             {brandList.map((brand, index) => (
-              <SwiperSlide key={index} className="text-base leading-[21px]">
-                <span>{brand}</span>
+              <SwiperSlide key={index}>
+                <span className="text-base leading-[21px]">{brand}</span>
               </SwiperSlide>
             ))}
           </Swiper>

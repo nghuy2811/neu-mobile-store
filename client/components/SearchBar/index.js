@@ -5,7 +5,7 @@ import styles from "./style.module.scss";
 
 const SearchBar = () => {
   return (
-    <div className="p-1 text-base leading-[21px] relative w-full">
+    <div className="p-1 text-base leading-[21px] relative text-black">
       <input
         placeholder="Bạn muốn mua gì?"
         className="py-2 pl-3 pr-8 w-full rounded-[12px] outline-none"

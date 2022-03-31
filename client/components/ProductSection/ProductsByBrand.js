@@ -13,7 +13,11 @@ const ProductsByBrand = ({ products }) => {
           <div className="flex flex-wrap gap-y-[20px] gap-x-[10px]">
             {products.map((product, index) => {
               if (index < 6) {
-                return <ProductItem key={index} product={product} />;
+                return (
+                  <div className="w-[calc(33.3333%-10px)]">
+                    <ProductItem key={index} product={product} />
+                  </div>
+                );
               }
             })}
           </div>

@@ -1,8 +1,8 @@
 import React, { useState, useCallback, useEffect } from "react";
-import axios from "axios";
 
 import phoneService from "../services/phoneService";
 import Category from "../components/Category";
+import ProductFilter from "../components/ProductFilter";
 
 const Filter = ({ data }) => {
   const [cpuCoresFilter, setCpuCoresFilter] = useState([]);
@@ -163,17 +163,16 @@ const Filter = ({ data }) => {
   return (
     <section>
       <div className="container py-14">
-        <h1 className="text-5xl text-[#000] font-bold text-center mb-5">
+        <h1 className="text-5xl text-[#000] font-bold text-center mb-10">
           Tìm kiếm sản phẩm theo danh mục
         </h1>
         <div className="flex">
           <div className="w-1/5">
-            <Category
-              data={filterData}
-              onFilterCpuCores={handleFilterCpuCores}
-            />
+            <Category data={filterData} />
           </div>
-          <div className="w-4/5"></div>
+          <div className="w-4/5">
+            <ProductFilter productsList={dataFilterReceived} />
+          </div>
         </div>
       </div>
     </section>
@@ -181,7 +180,7 @@ const Filter = ({ data }) => {
 };
 
 export async function getServerSideProps(context) {
-  const req = await axios.get("http://127.0.0.1:5000/database");
+  const req = await phoneService.getAllPhones();
   const res = req.data;
   const data = res || null;
   return {
