@@ -11,9 +11,10 @@ from flask_cors import CORS, cross_origin
 current_dir = os.path.dirname(os.path.abspath(__file__))
 
 app = Flask(__name__, static_url_path='/static')
-CORS(app, resources={r"/api/*": {"origins": "*"}})
+cors = CORS(app)
 
 model = pickle.load(open("./model.pkl", "rb"))
+
 
 @app.route("/")
 def index():
@@ -120,7 +121,11 @@ def post_filter():
   for row in rows:
     row = dict(zip(columns, row))
     result.append(row)
-  return jsonify(result)
+  result = jsonify(result)
+  result.headers.add('Access-Control-Allow-Origin', '*')
+  result.headers.add('Access-Control-Allow-Headers', '*')
+  result.headers.add('Access-Control-Allow-Method', '*')
+  return result
 
 if __name__ == "__main__":
-  app.run(debug=True)
+  app.run(debug=True) 

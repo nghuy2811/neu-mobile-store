@@ -1,5 +1,6 @@
 import React, { useState, useCallback, useEffect } from "react";
 import axios from "axios";
+import { productService } from "../services/product";
 
 import Category from "../components/Category";
 
@@ -21,13 +22,16 @@ const Filter = ({ data }) => {
 
   useEffect(() => {
     const test = async () => {
-      return await axios("http://127.0.0.1:5000/database", {
-        method: "post",
-        headers: {
-          "Content-Type": "application/json",
-        },
-        body: JSON.stringify(dataToBeSent),
-      });
+      // return await axios("http://127.0.0.1:5000/filter", {
+      //   method: "post",
+      //   headers: {
+      //     "Content-Type": "application/json",
+      //   },
+      //   body: JSON.stringify(dataToBeSent),
+      // });
+      var product = productService.getFilter(dataToBeSent);
+      console.log(product);
+      return product;
     };
 
     test();
