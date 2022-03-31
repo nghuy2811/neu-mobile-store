@@ -6,12 +6,12 @@ from matplotlib import pyplot as plt
 from model_script import run_script
 import sqlite3
 import os
-from flask_cors import CORS, cross_origin
+from flask_cors import CORS
 
 current_dir = os.path.dirname(os.path.abspath(__file__))
 
 app = Flask(__name__, static_url_path='/static')
-cors = CORS(app)
+CORS(app)
 
 model = pickle.load(open("./model.pkl", "rb"))
 
@@ -59,22 +59,7 @@ def database():
     result.append(row)
   return jsonify(result)
 
-# @app.route("/filter", methods=["GET"])
-# def get_filter():
-#   query_data = request.get_json()
-#   connection = sqlite3.connect(current_dir + "\smartphone.db")
-#   cursor = connection.cursor()
-#   query = "SELECT * FROM smartphones"
-#   rows = cursor.execute(query).fetchall()
-#   columns = [desc[0] for desc in cursor.description]
-#   result = []
-#   for row in rows:
-#     row = dict(zip(columns, row))
-#     result.append(row)
-#   return jsonify(result)
-
 @app.route("/filter", methods=["POST"])
-@cross_origin()
 def post_filter():
   query_data = request.get_json()
   query = "SELECT * FROM smartphones WHERE 1=1"
@@ -122,9 +107,6 @@ def post_filter():
     row = dict(zip(columns, row))
     result.append(row)
   result = jsonify(result)
-  result.headers.add('Access-Control-Allow-Origin', '*')
-  result.headers.add('Access-Control-Allow-Headers', '*')
-  result.headers.add('Access-Control-Allow-Method', '*')
   return result
 
 if __name__ == "__main__":

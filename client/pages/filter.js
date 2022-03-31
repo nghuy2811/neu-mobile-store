@@ -1,7 +1,7 @@
 import React, { useState, useCallback, useEffect } from "react";
 import axios from "axios";
-import { productService } from "../services/product";
 
+import phoneService from "../services/phoneService";
 import Category from "../components/Category";
 
 const Filter = ({ data }) => {
@@ -10,7 +10,7 @@ const Filter = ({ data }) => {
   const [screenFilter, setScreenFilter] = useState([]);
   const [ramFilter, setRamFilter] = useState([]);
   const [romFilter, setRomFilter] = useState([]);
-  const [dataFilterReceived, setDataFilterReceived] = useState();
+  const [dataFilterReceived, setDataFilterReceived] = useState([]);
 
   const dataToBeSent = {
     cpu_cores: cpuCoresFilter,
@@ -21,49 +21,21 @@ const Filter = ({ data }) => {
   };
 
   useEffect(() => {
-    const test = async () => {
-      // return await axios("http://127.0.0.1:5000/filter", {
-      //   method: "post",
-      //   headers: {
-      //     "Content-Type": "application/json",
-      //   },
-      //   body: JSON.stringify(dataToBeSent),
-      // });
-      var product = productService.getFilter(dataToBeSent);
-      console.log(product);
-      return product;
-    };
+    const hasData =
+      Boolean(cpuCoresFilter.length > 0) ||
+      Boolean(cpuFreqFilter.length > 0) ||
+      Boolean(screenFilter.length > 0) ||
+      Boolean(ramFilter.length > 0) ||
+      Boolean(romFilter.length > 0);
 
-    test();
-
-    // const dataToSend = JSON.stringify(dataToBeSent);
-    // axios("http://127.0.0.1:5000/filter", {
-    //   method: "post",
-    //   headers: {
-    //     "Content-Type": "application/json",
-    //     " Access-Control-Allow-Origin": "*",
-    //   },
-    //   body: dataToSend,
-    // })
-    //   .then((resp) => {
-    //     if (resp.status === 200) {
-    //       console.log(resp);
-    //       return resp.json();
-    //     } else {
-    //       console.log("Status: " + resp.status);
-    //       return Promise.reject("server");
-    //     }
-    //   })
-    //   .then((dataJson) => {
-    //     setDataFilterReceived(JSON.parse(dataJson));
-    //   })
-    //   .catch((err) => {
-    //     if (err === "server") return;
-    //     console.log(err);
-    //   });
-
-    // console.log(`Received: ${dataFilterReceived}`);
-  }, [dataToBeSent]);
+    if (hasData) {
+      phoneService
+        .fitlerPhones(dataToBeSent)
+        .then((res) => setDataFilterReceived(res.data));
+    } else {
+      setDataFilterReceived([]);
+    }
+  }, [cpuCoresFilter, cpuFreqFilter, screenFilter, ramFilter, romFilter]);
 
   const productsByCPUCores = data.reduce((acc, product) => {
     (acc[product["cpu_cores"]] = acc[product["cpu_cores"]] || []).push(product);
