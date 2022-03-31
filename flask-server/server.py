@@ -1,13 +1,19 @@
-from flask import Flask, render_template, request, json, Response
+from flask import Flask, render_template, request, jsonify, Response
 import pickle
 import numpy as np
 from sklearn import tree
 from matplotlib import pyplot as plt
+import sqlite3
+import os
+from flask_cors import CORS
 
 from model_script import run_script
 from convert import make_json
 
+current_dir = os.path.dirname(os.path.abspath(__file__))
+
 app = Flask(__name__, static_url_path='/static')
+CORS(app)
 
 model = pickle.load(open("./model.pkl", "rb"))
 
@@ -43,15 +49,70 @@ def visualize():
 
 @app.route("/database")
 def database():
-  csvFilePath = r'data.csv'
-  jsonFilePath = r'./static/data/data.json'
-  make_json(csvFilePath, jsonFilePath)
-  json_data = open("static/data/data.json")
-  data = json.load(json_data)
-  return Response(json.dumps(data),  mimetype='application/json')
-  # return {"name": ["Huy Nguyen", "Tra My"]}
+  connection = sqlite3.connect(current_dir + "\smartphone.db")
+  cursor = connection.cursor()
+  query = "SELECT * FROM smartphones"
+  rows = cursor.execute(query).fetchall()
+  columns = [desc[0] for desc in cursor.description]
+  result = []
+  for row in rows:
+    row = dict(zip(columns, row))
+    result.append(row)
+  return jsonify(result)
 
+@app.route("/filter", methods=["POST"])
+def post_filter():
+  query_data = request.get_json()
+  print(query_data)
+  query = "SELECT * FROM smartphones WHERE 1=1"
+  if (query_data["cpu_cores"]):
+    if len(query_data["cpu_cores"]) == 1:
+      query_cpu_cores="({})".format(query_data["cpu_cores"][0])
+    else:
+      query_cpu_cores = tuple(query_data["cpu_cores"])
+    query += " AND cpu_cores in {}".format(query_cpu_cores)
 
+  if (query_data["cpu_freq"]):
+    if len(query_data["cpu_freq"]) == 1:
+      cpu_freq="({})".format(query_data["cpu_freq"][0])
+    else:
+      cpu_freq = tuple(query_data["cpu_freq"])
+    query += " AND cpu_freq in {}".format(cpu_freq)
+
+  if (query_data["screen"]):
+    if len(query_data["screen"]) == 1:
+      screen="({})".format(query_data["screen"][0])
+    else:
+      screen = tuple(query_data["screen"])
+    query += " AND screen in {}".format(screen)
+
+  if (query_data["memory_ram"]):
+    if len(query_data["memory_ram"]) == 1:
+      memory_ram="({})".format(query_data["memory_ram"][0])
+    else:
+      memory_ram = tuple(query_data["memory_ram"])
+    query += " AND memory_ram in {}".format(memory_ram)
+
+  if (query_data["memory_rom"]):
+    if len(query_data["memory_rom"]) == 1:
+      memory_rom="({})".format(query_data["memory_rom"][0])
+    else:
+      memory_rom = tuple(query_data["memory_rom"])
+    query += " AND memory_rom in {}".format(memory_rom)
+
+  connection = sqlite3.connect(current_dir + "\smartphone.db")
+  cursor = connection.cursor()
+  rows = cursor.execute(query).fetchall()
+  columns = [desc[0] for desc in cursor.description]
+  result = []
+  for row in rows:
+    row = dict(zip(columns, row))
+    result.append(row)
+  result = jsonify(result)
+  result.headers.add('Access-Control-Allow-Origin', '*')
+  result.headers.add('Access-Control-Allow-Headers', '*')
+  result.headers.add('Access-Control-Allow-Method', '*')
+  return result
 
 if __name__ == "__main__":
   app.run(debug=True)
