@@ -36,7 +36,7 @@ const CategoryItem = ({ categoryData }) => {
       >
         <ul ref={listRef} className="pt-4 flex flex-wrap">
           {categoryData.data.map((category, index) => (
-            <li key={index} className="text-base mb-2 last:mb-0 w-1/2">
+            <li key={index} className="text-base mb-4 last:mb-0 w-1/2">
               <label className="flex items-center">
                 <input
                   type="checkbox"

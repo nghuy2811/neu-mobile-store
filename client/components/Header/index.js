@@ -1,4 +1,5 @@
 import React from "react";
+import Link from "next/link";
 import {
   BsFillTelephoneFill,
   BsFillHouseDoorFill,
@@ -9,8 +10,16 @@ const Header = () => {
   return (
     <header>
       <div className="bg-[#333]">
-        <div className="container py-5 text-white flex justify-between items-center">
-          <div className="text-[40px]">NEU Mobile Store</div>
+        <div className="container text-white flex justify-between items-center">
+          <Link href="/">
+            <a>
+              <img
+                src="/logo_gray_horizon.png"
+                alt="Logo"
+                className="w-[150px] h-auto"
+              />
+            </a>
+          </Link>
           <div className="flex items-center">
             <div className="text-sm">
               <div className="mb-2">

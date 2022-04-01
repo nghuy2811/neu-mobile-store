@@ -8,7 +8,7 @@ import styles from "./style.module.scss";
 
 const BrandSlide = ({ brandList }) => {
   return (
-    <div className="relative overflow-hidden py-10 px-5 bg-white shadow-md text-black">
+    <div className="relative overflow-hidden py-10 px-5 bg-white shadow-md text-black max-w-[1200px] m-auto">
       <div className="w-full">
         <div className="mx-8">
           <Swiper
@@ -28,13 +28,13 @@ const BrandSlide = ({ brandList }) => {
           </Swiper>
         </div>
       </div>
-      <button className="absolute top-[50%] left-0 translate-y-[-50%] swiper-button-prev">
-        <span className="text-[20px] text-white">
+      <button className="absolute top-[50%] left-[4px] translate-y-[-50%] swiper-button-prev">
+        <span className="text-[20px] text-black">
           <AiOutlineLeft />
         </span>
       </button>
-      <button className="absolute top-[50%] right-0 translate-y-[-50%] swiper-button-next">
-        <span className="text-[20px] text-white">
+      <button className="absolute top-[50%] right-[4px] translate-y-[-50%] swiper-button-next">
+        <span className="text-[20px] text-black">
           <AiOutlineRight />
         </span>
       </button>

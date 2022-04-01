@@ -1,12 +1,10 @@
 import React from "react";
 import LoadingOverlay from "react-loading-overlay";
 
-import styles from "./style.module.scss";
-
 const LoadingContainer = ({ display, text }) => {
   if (!display) return null;
   return (
-    <div className={styles.container}>
+    <div className="overlay">
       <LoadingOverlay active spinner text={text || ""}></LoadingOverlay>
     </div>
   );

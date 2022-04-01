@@ -9,18 +9,20 @@
   display: flex;
   font-size: 16px;
   align-items: center;
+  height: 45px;
 }
 
 .brand-slide {
-  display: none;
+  visibility: hidden;
   opacity: 0;
   position: absolute;
   top: 100%;
   width: 100%;
   left: 0;
+  transition: all 0.2s linear;
 }
 
-.product-nav-section:hover ~ .brand-slide {
-  display: block;
+.product-nav-section:hover .brand-slide {
+  visibility: visible;
   opacity: 1;
 }

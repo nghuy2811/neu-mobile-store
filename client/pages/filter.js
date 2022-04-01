@@ -3,6 +3,8 @@ import React, { useState, useCallback, useEffect } from "react";
 import phoneService from "../services/phoneService";
 import Category from "../components/Category";
 import ProductFilter from "../components/ProductFilter";
+import PredictModel from "../components/PredictModel";
+import LoadingContainer from "../components/LoadingContainer";
 
 const Filter = ({ data }) => {
   const [cpuCoresFilter, setCpuCoresFilter] = useState([]);
@@ -11,8 +13,9 @@ const Filter = ({ data }) => {
   const [ramFilter, setRamFilter] = useState([]);
   const [romFilter, setRomFilter] = useState([]);
   const [dataFilterReceived, setDataFilterReceived] = useState([]);
+  const [isLoading, setIsLoading] = useState(false);
 
-  const dataToBeSent = {
+  const queryOptions = {
     cpu_cores: cpuCoresFilter,
     cpu_freq: cpuFreqFilter,
     screen: screenFilter,
@@ -21,6 +24,7 @@ const Filter = ({ data }) => {
   };
 
   useEffect(() => {
+    setIsLoading(true);
     const hasData =
       Boolean(cpuCoresFilter.length > 0) ||
       Boolean(cpuFreqFilter.length > 0) ||
@@ -29,10 +33,12 @@ const Filter = ({ data }) => {
       Boolean(romFilter.length > 0);
 
     if (hasData) {
-      phoneService
-        .fitlerPhones(dataToBeSent)
-        .then((res) => setDataFilterReceived(res.data));
+      phoneService.fitlerPhones(queryOptions).then((res) => {
+        setIsLoading(false);
+        setDataFilterReceived(res.data);
+      });
     } else {
+      setIsLoading(false);
       setDataFilterReceived([]);
     }
   }, [cpuCoresFilter, cpuFreqFilter, screenFilter, ramFilter, romFilter]);
@@ -161,21 +167,25 @@ const Filter = ({ data }) => {
   ];
 
   return (
-    <section>
-      <div className="container py-14">
-        <h1 className="text-5xl text-[#000] font-bold text-center mb-10">
-          Tìm kiếm sản phẩm theo danh mục
-        </h1>
-        <div className="flex">
-          <div className="w-1/5">
-            <Category data={filterData} />
-          </div>
-          <div className="w-4/5">
-            <ProductFilter productsList={dataFilterReceived} />
+    <>
+      <LoadingContainer display={isLoading} />
+      <section>
+        <PredictModel />
+        <div className="container py-14">
+          <h1 className="text-5xl text-[#000] font-bold text-center mb-10">
+            Tìm kiếm sản phẩm theo thông số
+          </h1>
+          <div className="flex">
+            <div className="w-1/5">
+              <Category data={filterData} />
+            </div>
+            <div className="w-4/5">
+              <ProductFilter productsList={dataFilterReceived} />
+            </div>
           </div>
         </div>
-      </div>
-    </section>
+      </section>
+    </>
   );
 };
 
