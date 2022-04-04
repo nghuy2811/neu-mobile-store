@@ -1,4 +1,5 @@
 import React from "react";
+import Link from "next/link";
 
 import ProductItem from "./ProductItem";
 
@@ -25,9 +26,11 @@ const ProductsByBrand = ({ products }) => {
           <>
             {products.length > 6 && (
               <div className="text-center mt-5">
-                <h2 className="inline-block text-xl leading-[24px] transition-all hover:text-[#ff0000]">
-                  Tìm kiếm thêm sản phẩm {products[0]["maker_name"]}
-                </h2>
+                <Link href={`brand/${products[0]["maker_name"]}`}>
+                  <a className="inline-block text-xl leading-[24px] transition-all hover:text-[#ff0000]">
+                    Tìm kiếm thêm sản phẩm {products[0]["maker_name"]}
+                  </a>
+                </Link>
               </div>
             )}
           </>

@@ -76,6 +76,28 @@ def database():
     result.append(row)
   return jsonify(result)
 
+@app.route("/database/brands")
+def database_brands():
+  connection = sqlite3.connect(current_dir + "/smartphone.db")
+  cursor = connection.cursor()
+  query = "SELECT DISTINCT maker_name FROM smartphones"
+  rows = cursor.execute(query).fetchall()
+  result = {"maker_name": rows}
+  return jsonify(result)
+
+@app.route("/database/<maker_name>")
+def database_query_by_brand(maker_name):
+  connection = sqlite3.connect(current_dir + "/smartphone.db")
+  cursor = connection.cursor()
+  query = "SELECT * FROM smartphones WHERE maker_name=\"{}\"".format(maker_name)
+  rows = cursor.execute(query).fetchall()
+  columns = [desc[0] for desc in cursor.description]
+  result = []
+  for row in rows:
+    row = dict(zip(columns, row))
+    result.append(row)
+  return jsonify(result)
+
 @app.route("/filter", methods=["POST"])
 def post_filter():
   query_data = request.get_json()

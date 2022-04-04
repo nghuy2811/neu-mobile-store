@@ -6,6 +6,16 @@ const phoneService = {
     return api.get(url);
   },
 
+  getAllBrands: () => {
+    const url = "database/brands";
+    return api.get(url);
+  },
+
+  getPhonesByBrand: (brandName) => {
+    const url = `database/${brandName}`;
+    return api.get(url);
+  },
+
   fitlerPhones: (filterData) => {
     const url = "filter";
     return api.post(url, filterData);
