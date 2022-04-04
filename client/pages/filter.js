@@ -12,6 +12,8 @@ const Filter = ({ data }) => {
   const [screenFilter, setScreenFilter] = useState([]);
   const [ramFilter, setRamFilter] = useState([]);
   const [romFilter, setRomFilter] = useState([]);
+  const [swFilter, setSwFilter] = useState([]);
+  const [entertainFilter, setEntertainFilter] = useState([]);
   const [dataFilterReceived, setDataFilterReceived] = useState([]);
   const [isLoading, setIsLoading] = useState(false);
 
@@ -21,6 +23,8 @@ const Filter = ({ data }) => {
     screen: screenFilter,
     memory_ram: ramFilter,
     memory_rom: romFilter,
+    study_work: swFilter,
+    entertainment: entertainFilter,
   };
 
   useEffect(() => {
@@ -30,7 +34,9 @@ const Filter = ({ data }) => {
       Boolean(cpuFreqFilter.length > 0) ||
       Boolean(screenFilter.length > 0) ||
       Boolean(ramFilter.length > 0) ||
-      Boolean(romFilter.length > 0);
+      Boolean(romFilter.length > 0) ||
+      Boolean(swFilter.length > 0) ||
+      Boolean(entertainFilter.length > 0);
 
     if (hasData) {
       phoneService.fitlerPhones(queryOptions).then((res) => {
@@ -41,7 +47,15 @@ const Filter = ({ data }) => {
       setIsLoading(false);
       setDataFilterReceived([]);
     }
-  }, [cpuCoresFilter, cpuFreqFilter, screenFilter, ramFilter, romFilter]);
+  }, [
+    cpuCoresFilter,
+    cpuFreqFilter,
+    screenFilter,
+    ramFilter,
+    romFilter,
+    swFilter,
+    entertainFilter,
+  ]);
 
   const productsByCPUCores = data.reduce((acc, product) => {
     (acc[product["cpu_cores"]] = acc[product["cpu_cores"]] || []).push(product);
@@ -133,6 +147,28 @@ const Filter = ({ data }) => {
     [romFilter]
   );
 
+  const handleStudyAndWorkFilter = useCallback(
+    (e) => {
+      setEntertainFilter((prevState) => {
+        if (entertainFilter.includes(e.target.value)) {
+          return entertainFilter.filter((item) => item !== e.target.value);
+        } else return [...prevState, e.target.value];
+      });
+    },
+    [entertainFilter]
+  );
+
+  const handleEntertainmentFilter = useCallback(
+    (e) => {
+      setSwFilter((prevState) => {
+        if (swFilter.includes(e.target.value)) {
+          return swFilter.filter((item) => item !== e.target.value);
+        } else return [...prevState, e.target.value];
+      });
+    },
+    [swFilter]
+  );
+
   const filterData = [
     {
       name: "Số nhân CPU",
@@ -177,7 +213,11 @@ const Filter = ({ data }) => {
           </h1>
           <div className="flex">
             <div className="w-1/5">
-              <Category data={filterData} />
+              <Category
+                data={filterData}
+                onStudyAndWorkFilter={handleStudyAndWorkFilter}
+                onEntertainmentFilter={handleEntertainmentFilter}
+              />
             </div>
             <div className="w-4/5">
               <ProductFilter productsList={dataFilterReceived} />

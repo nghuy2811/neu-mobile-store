@@ -115,6 +115,20 @@ def post_filter():
       memory_rom = tuple(query_data["memory_rom"])
     query += " AND memory_rom in {}".format(memory_rom)
 
+  if (query_data["study_work"]):
+    if len(query_data["study_work"]) == 1:
+      study_work="({})".format(query_data["study_work"][0])
+    else:
+      study_work = tuple(query_data["study_work"])
+    query += " AND study_work in {}".format(study_work)
+
+  if (query_data["entertainment"]):
+    if len(query_data["entertainment"]) == 1:
+      entertainment="({})".format(query_data["entertainment"][0])
+    else:
+      entertainment = tuple(query_data["entertainment"])
+    query += " AND entertainment in {}".format(entertainment)
+
   connection = sqlite3.connect(current_dir + "\smartphone.db")
   cursor = connection.cursor()
   rows = cursor.execute(query).fetchall()
