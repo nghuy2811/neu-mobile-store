@@ -10,6 +10,11 @@ const phoneService = {
     const url = "filter";
     return api.post(url, filterData);
   },
+
+  predictPurpose: (specs) => {
+    const url = "predict_client";
+    return api.post(url, specs);
+  },
 };
 
 export default phoneService;

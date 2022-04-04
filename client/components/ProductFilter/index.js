@@ -4,7 +4,7 @@ import ProductItem from "../ProductSection/ProductItem";
 
 const ProductFilter = ({ productsList }) => {
   return (
-    <div clasName="w-full px-5">
+    <div className="w-full px-5">
       {productsList.length === 0 ? (
         <h3 className="text-center text-3xl font-bold text-[#FF0000] mt-10">
           Bạn chưa chọn bộ tìm kiếm hoặc không có sản phẩm phù hợp với nhu cầu

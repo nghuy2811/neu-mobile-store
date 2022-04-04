@@ -3,7 +3,7 @@ import pickle
 import numpy as np
 from sklearn import tree
 from matplotlib import pyplot as plt
-from model_script import run_script
+from model_script import run_script_study_work, run_script_entertainment
 import sqlite3
 import os
 from flask_cors import CORS
@@ -13,7 +13,11 @@ current_dir = os.path.dirname(os.path.abspath(__file__))
 app = Flask(__name__, static_url_path='/static')
 CORS(app)
 
-model = pickle.load(open("./model.pkl", "rb"))
+run_script_study_work()
+run_script_entertainment()
+
+model_sw = pickle.load(open("./model_study_work.pkl", "rb"))
+model_e = pickle.load(open("./model_entertainment.pkl", "rb"))
 
 
 @app.route("/")
@@ -24,31 +28,44 @@ def index():
 def predict():
   float_features = [float(x) for x in request.form.values()]
   features = [np.array(float_features)]
-  prediction = model.predict(features)
+  prediction = model_sw.predict(features)
+  if 1 in prediction:
+    result = "Suitable"
+  else: result = "Not suitable"
 
-  return render_template("index.html", prediction_type = prediction)
+  return render_template("index.html", prediction_type = result)
 
 @app.route("/create_model", methods=["POST"])
 def create_model():
-  run_script()
+  run_script_study_work()
+  run_script_entertainment()
   return render_template("index.html")
 
 @app.route("/visualize", methods=["POST"])
 def visualize():
   feature_cols = ["CPU cores", "CPU freq", "Display height", "Display screen", "Display witdh", "Memory RAM", "Memory ROM"]
-  model = pickle.load(open("./model.pkl", "rb"))
+  model_sw = pickle.load(open("./model_study_work.pkl", "rb"))
   fig = plt.figure(figsize=(25, 20))
-  _ = tree.plot_tree(model,
+  _ = tree.plot_tree(model_sw,
                     feature_names=feature_cols,
                     class_names=["0", "1"],
                     filled=True)
-  fig.savefig("./static/images/decision_tree.png", bbox_inches='tight')
-  image_url = "./static/images/decision_tree.png"
+  fig.savefig("./static/images/decision_tree_study_work.png", bbox_inches='tight')
+
+  model_e = pickle.load(open("./model_entertainment.pkl", "rb"))
+  fig = plt.figure(figsize=(25, 20))
+  _ = tree.plot_tree(model_e,
+                    feature_names=feature_cols,
+                    class_names=["0", "1"],
+                    filled=True)
+  fig.savefig("./static/images/decision_tree_entertainment.png", bbox_inches='tight')
+
+  image_url = "./static/images/decision_tree_study_work.png"
   return render_template("index.html", image_url = image_url)
 
 @app.route("/database")
 def database():
-  connection = sqlite3.connect(current_dir + "\smartphone.db")
+  connection = sqlite3.connect(current_dir + "/smartphone.db")
   cursor = connection.cursor()
   query = "SELECT * FROM smartphones"
   rows = cursor.execute(query).fetchall()
@@ -108,6 +125,28 @@ def post_filter():
     result.append(row)
   result = jsonify(result)
   return result
+
+@app.route("/predict_client", methods=["POST"])
+def post_predict_client():
+  request_client = request.get_json()
+  float_features = [float(x) for x in request_client["data"]]
+  features = [np.array(float_features)]
+  prediction_sw = model_sw.predict(features)
+  prediction_e = model_e.predict(features)
+  if 1 in prediction_sw:
+    result_sw = "Suitable"
+  else: result_sw = "Not suitable"
+
+  if 1 in prediction_e:
+    result_e = "Suitable"
+  else: result_e = "Not suitable"
+
+  response_sw = {"study_work":result_sw}
+  response_e = {"entertainment": result_e}
+
+  response = [response_sw, response_e]
+
+  return jsonify(response)
 
 if __name__ == "__main__":
   app.run(debug=True) 
