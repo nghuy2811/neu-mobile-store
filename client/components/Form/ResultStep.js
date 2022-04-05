@@ -6,7 +6,7 @@ import styles from "./style.module.scss";
 
 const ResultStep = ({ studyAndWork, entertainment, prevStep }) => {
   return (
-    <div className="max-w-[400px]">
+    <div className="w-full xl:max-w-[400px]">
       <div className="flex justify-between">
         <div
           className={`${

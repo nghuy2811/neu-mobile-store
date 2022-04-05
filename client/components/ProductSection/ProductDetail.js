@@ -27,7 +27,7 @@ const ProductDetail = ({ onCloseForm, product }) => {
             alt={product["name_id"]}
           />
         </div>
-        <div className="flex flex-col justify-between gap-y-[20px] md:gap-y-0">
+        <div className="flex flex-col justify-between gap-y-[20px] xl:gap-y-0">
           <div>
             <h2 className="mb-5 text-2xl font-bold">{product["name_ID"]}</h2>
             <div className="flex items-center mb-2 text-base">

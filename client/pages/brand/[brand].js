@@ -22,7 +22,7 @@ const AllProductsByBrand = ({ products }) => {
           </div>
           <div className="flex flex-wrap gap-y-[20px] gap-x-[10px]">
             {products.map((product, index) => (
-              <div key={index} className="w-[calc(50%-10px)]">
+              <div key={index} className="w-full md:w-[calc(50%-10px)]">
                 <ProductItem product={product} />
               </div>
             ))}
