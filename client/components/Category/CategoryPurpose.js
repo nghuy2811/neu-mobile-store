@@ -35,7 +35,7 @@ const CategoryPurpose = ({ onStudyAndWorkFilter, onEntertainmentFilter }) => {
         style={{ maxHeight: `${listHeight}px` }}
       >
         <ul ref={listRef} className="pt-4 flex flex-wrap">
-          <li className="text-base mb-4 last:mb-0">
+          <li className="text-base mb-4 w-1/2 md:w-full last:mb-0">
             <label className="flex items-center">
               <input
                 type="checkbox"
@@ -45,7 +45,7 @@ const CategoryPurpose = ({ onStudyAndWorkFilter, onEntertainmentFilter }) => {
               <span className="pl-3">Học tập và làm việc</span>
             </label>
           </li>
-          <li className="text-base mb-4 last:mb-0">
+          <li className="text-base mb-4 w-1/2 md:w-full last:mb-0">
             <label className="flex items-center">
               <input
                 type="checkbox"

@@ -74,7 +74,7 @@ const PredictForm = ({ onCloseForm }) => {
   }, [step, response, messageStudyWork, messageEntertainment]);
 
   return (
-    <div className="bg-white p-12 rounded-[12px] relative">
+    <div className="bg-white p-8 md:p-12 rounded-[12px] relative">
       <span
         className="cursor-pointer inline-block absolute top-4 right-4 text-2xl hover:text-[#c20000] transition-all"
         onClick={() => {

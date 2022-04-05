@@ -15,8 +15,11 @@ const ProductsByBrand = ({ products }) => {
             {products.map((product, index) => {
               if (index < 6) {
                 return (
-                  <div className="w-full md:w-[calc(50%-10px)] xl:w-[calc(33.3333%-10px)]">
-                    <ProductItem key={index} product={product} />
+                  <div
+                    key={index}
+                    className="w-full md:w-[calc(50%-10px)] xl:w-[calc(33.3333%-10px)]"
+                  >
+                    <ProductItem product={product} />
                   </div>
                 );
               }
@@ -26,7 +29,7 @@ const ProductsByBrand = ({ products }) => {
           <>
             {products.length > 6 && (
               <div className="text-center mt-5">
-                <Link href={`brand/${products[0]["maker_name"]}`}>
+                <Link href={`/brand/${products[0]["maker_name"]}`}>
                   <a className="inline-block text-xl leading-[24px] transition-all hover:text-[#ff0000]">
                     Tìm kiếm thêm sản phẩm {products[0]["maker_name"]}
                   </a>

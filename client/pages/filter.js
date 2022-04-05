@@ -1,4 +1,5 @@
 import React, { useState, useCallback, useEffect } from "react";
+import Head from "next/head";
 
 import phoneService from "../services/phoneService";
 import Category from "../components/Category";
@@ -204,6 +205,9 @@ const Filter = ({ data }) => {
 
   return (
     <>
+      <Head>
+        <title>Bộ lọc sản phẩm</title>
+      </Head>
       <LoadingContainer display={isLoading} />
       <section>
         <PredictModel />
@@ -211,15 +215,15 @@ const Filter = ({ data }) => {
           <h1 className="text-5xl text-[#000] font-bold text-center mb-10">
             Tìm kiếm sản phẩm theo thông số
           </h1>
-          <div className="flex">
-            <div className="w-1/5">
+          <div className="flex flex-col xl:flex-row">
+            <div className="w-full xl:w-1/5">
               <Category
                 data={filterData}
                 onStudyAndWorkFilter={handleStudyAndWorkFilter}
                 onEntertainmentFilter={handleEntertainmentFilter}
               />
             </div>
-            <div className="w-4/5">
+            <div className="w-full xl:w-4/5">
               <ProductFilter productsList={dataFilterReceived} />
             </div>
           </div>

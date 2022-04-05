@@ -1,3 +1,6 @@
+@import "../../styles/mixins";
+@import "../../styles/variables";
+
 .predict-model-btn {
   cursor: pointer;
   position: fixed;
@@ -17,10 +20,12 @@
     top: 0%;
     left: 100%;
     height: 100%;
-    width: 45px;
-    background-color: #999;
-    border-top: 22px solid transparent;
-    border-bottom: 22px solid transparent;
-    border-right: 20px solid #fff;
+    border-width: 22px 20px 22px 0;
+    border-style: solid;
+    border-color: #999 transparent #999 transparent;
+  }
+
+  @include max-xl {
+    width: 50px;
   }
 }

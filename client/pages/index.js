@@ -1,4 +1,5 @@
 import React from "react";
+import Head from "next/head";
 
 import phoneService from "../services/phoneService";
 import NavBar from "../components/NavBar";
@@ -16,6 +17,9 @@ export default function Home({ data }) {
 
   return (
     <>
+      <Head>
+        <title>NEU Mobile Store</title>
+      </Head>
       <NavBar brandList={brandList} />
       <ProductSection brandList={brandList} productsByBrand={productsByBrand} />
     </>

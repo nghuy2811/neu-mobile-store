@@ -7,13 +7,28 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" type="text/css" href="{{ url_for('static',filename='styles/app.css') }}">
   <script src="https://cdn.tailwindcss.com"></script>
+  <script>
+    tailwind.config = {
+      theme: {
+        screens: {
+          xs: "375px",
+          sm: "576px",
+          md: "768px",
+          lg: "990px",
+          xl: "1024px",
+          xxl: "1280px",
+          "3xl": "1440px",
+        },
+      }
+    }
+  </script>
   <title>Admin</title>
 </head>
 
 <body>
   <header>
     <div class="bg-[#333]">
-      <div class="container text-white flex justify-between items-center">
+      <div class="app_container text-white flex justify-between items-center">
         <a href="/">
           <img src="/static/images/logo_gray_horizon.png" alt="Logo" class="w-[150px] h-auto" />
         </a>
@@ -22,8 +37,8 @@
     </div>
   </header>
   <div class="my-5">
-    <div class="container">
-      <h2 class="py-8 text-6xl font-bold text-center">NEU Smartphone Server</h2>
+    <div class="app_container">
+      <h2 class="py-8 text-3xl md:text-6xl font-bold text-center">NEU Smartphone Server</h2>
       <div class="flex justify-center gap-x-[30px]">
         <form action="{{ url_for('predict')}}" method="post">
           <fieldset class="py-5 px-2 border border-solid border-[#333] flex flex-col">
@@ -85,8 +100,8 @@
         {% endif %}
       </div>
 
-      <div class="mt-20 flex justify-center gap-x-[20px]">
-        <form action="{{url_for('create_model')}}" method="post">
+      <div class="mt-20 flex flex-col md:flex-row justify-center gap-x-[20px] gap-y-[20px]">
+        <form action="{{url_for('create_model')}}" method="post" class="m-auto md:m-0">
           <button type="submit"
             class="bg-[#010101] text-white px-3 py-4 rounded-[10px] hover:bg-opacity-80 transition-all"
             id="run-script-btn">Chạy model cây
@@ -94,7 +109,7 @@
             định</button>
         </form>
 
-        <form action="{{url_for('visualize')}}" method="post">
+        <form action="{{url_for('visualize')}}" method="post" class="m-auto md:m-0">
           <button type="submit"
             class="bg-[#a3a3a3] text-white px-3 py-4 rounded-[10px] hover:bg-opacity-80 transition-all"
             id="visulize-tree-btn">Hiển thị cây quyết định</button>
@@ -102,7 +117,7 @@
       </div>
 
       {% if image_url %}
-      <div class="mt-5 flex justify-evenly">
+      <div class="mt-5 flex justify-evenly flex-col md:flex-row">
         {% for item in image_url %}
         <div class="flex flex-col items-center">
           <img src="{{url_for('static', filename=item.path)}}" alt="Model visualization" class="w-[500px] h-auto">
@@ -111,9 +126,6 @@
         {% endfor %}
       </div>
       {% endif %}
-
-      <!-- <img src="/static/images/decision_tree_study_work.png" alt="Model visualization" class="w-[400px] h-auto">
-      <img src="/static/images/decision_tree_entertainment.png" alt="Model visualization" class="w-[400px] h-auto"> -->
     </div>
 
   </div>

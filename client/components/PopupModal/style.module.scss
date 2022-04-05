@@ -1,3 +1,6 @@
+@import "../../styles/mixins";
+@import "../../styles/variables";
+
 .popup-main {
   position: absolute;
   top: 50%;
@@ -8,5 +11,9 @@
 
   &.show {
     opacity: 1;
+  }
+
+  @include max-xl {
+    width: calc(100% - 32px);
   }
 }

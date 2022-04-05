@@ -19,7 +19,7 @@ const ProductDetail = ({ onCloseForm, product }) => {
       >
         <AiOutlineCloseCircle />
       </span>
-      <div className="flex gap-x-[20px]">
+      <div className="flex flex-col md:flex-row gap-x-[20px] gap-y-[30px]">
         <div className="flex justify-center">
           <img
             src={`http://127.0.0.1:5000${product["url_photo"]}`}
@@ -27,7 +27,7 @@ const ProductDetail = ({ onCloseForm, product }) => {
             alt={product["name_id"]}
           />
         </div>
-        <div className="flex flex-col justify-between">
+        <div className="flex flex-col justify-between gap-y-[20px] md:gap-y-0">
           <div>
             <h2 className="mb-5 text-2xl font-bold">{product["name_ID"]}</h2>
             <div className="flex items-center mb-2 text-base">
