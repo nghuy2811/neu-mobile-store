@@ -21,7 +21,7 @@ const Header = () => {
             </a>
           </Link>
           <div className="flex items-center">
-            <div className="text-sm">
+            <div className="hidden xl:block text-sm">
               <div className="mb-2">
                 Authorized by National Economics University
               </div>

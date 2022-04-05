@@ -15,7 +15,7 @@ const ProductsByBrand = ({ products }) => {
             {products.map((product, index) => {
               if (index < 6) {
                 return (
-                  <div className="w-[calc(33.3333%-10px)]">
+                  <div className="w-full md:w-[calc(50%-10px)] xl:w-[calc(33.3333%-10px)]">
                     <ProductItem key={index} product={product} />
                   </div>
                 );

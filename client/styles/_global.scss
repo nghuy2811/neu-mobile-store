@@ -15,9 +15,19 @@ code {
 
 .container {
   max-width: 1440px;
-  padding-left: 120px;
-  padding-right: 120px;
+  padding-left: 32px;
+  padding-right: 32px;
   margin: 0 auto;
+
+  @include min-md {
+    padding-left: 96px;
+    padding-right: 96px;
+  }
+
+  @include min-lg {
+    padding-left: 120px;
+    padding-right: 120px;
+  }
 }
 
 .overlay {

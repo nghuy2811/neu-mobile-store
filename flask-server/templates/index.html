@@ -5,40 +5,117 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" type="text/css" href="{{ url_for('static',filename='styles/app.css') }}">
   <script src="https://cdn.tailwindcss.com"></script>
   <title>Admin</title>
 </head>
 
 <body>
-  <div>
-    <h2>NEU Smartphone Database</h2>
-    <form action="{{ url_for('predict')}}" method="post">
-      <input type="text" name="CPU cores" placeholder="CPU cores" required="required" />
-      <input type="text" name="CPU freq" placeholder="CPU freq" required="required" />
-      <input type="text" name="Display height" placeholder="Display height" required="required" />
-      <input type="text" name="Display screen" placeholder="Display screen" required="required" />
-      <input type="text" name="Display witdh" placeholder="Display witdh" required="required" />
-      <input type="text" name="Memory RAM" placeholder="Memory RAM" required="required" />
-      <input type="text" name="Memory ROM" placeholder="Memory ROM" required="required" />
+  <header>
+    <div class="bg-[#333]">
+      <div class="container text-white flex justify-between items-center">
+        <a href="/">
+          <img src="/static/images/logo_gray_horizon.png" alt="Logo" class="w-[150px] h-auto" />
+        </a>
+        <h4 class="text-2xl font-bold">ADMIN PAGE</h4>
+      </div>
+    </div>
+  </header>
+  <div class="my-5">
+    <div class="container">
+      <h2 class="py-8 text-6xl font-bold text-center">NEU Smartphone Server</h2>
+      <div class="flex justify-center gap-x-[30px]">
+        <form action="{{ url_for('predict')}}" method="post">
+          <fieldset class="py-5 px-2 border border-solid border-[#333] flex flex-col">
+            <legend class="px-2">Form dự đoán</legend>
+            <label class="flex items-center px-5 mb-5 last:mb-0">
+              <h2 class="text-base w-2/5">Số nhân CPU:</h2>
+              <input
+                class="w-3/5 py-3 px-2 outline-none border-2 border-solid border-[#999] bg-[#f2f2f2] rounded-[10px]"
+                type="text" name="CPU cores" placeholder="CPU cores" required="required" />
+            </label>
+            <label class="flex items-center px-5 mb-5 last:mb-0">
+              <h2 class="text-base w-2/5">Xung nhịp CPU:</h2>
+              <input
+                class="w-3/5 py-3 px-2 outline-none border-2 border-solid border-[#999] bg-[#f2f2f2] rounded-[10px]"
+                type="text" name="CPU freq" placeholder="CPU freq" required="required" />
+            </label>
+            <label class="flex items-center px-5 mb-5 last:mb-0">
+              <h2 class="text-base w-2/5">Chiều dài:</h2>
+              <input
+                class="w-3/5 py-3 px-2 outline-none border-2 border-solid border-[#999] bg-[#f2f2f2] rounded-[10px]"
+                type="text" name="Display height" placeholder="Display height" required="required" />
+            </label>
+            <label class="flex items-center px-5 mb-5 last:mb-0">
+              <h2 class="text-base w-2/5">Màn hình:</h2>
+              <input
+                class="w-3/5 py-3 px-2 outline-none border-2 border-solid border-[#999] bg-[#f2f2f2] rounded-[10px]"
+                type="text" name="Display screen" placeholder="Display screen" required="required" />
+            </label>
+            <label class="flex items-center px-5 mb-5 last:mb-0">
+              <h2 class="text-base w-2/5">Chiều rộng:</h2>
+              <input
+                class="w-3/5 py-3 px-2 outline-none border-2 border-solid border-[#999] bg-[#f2f2f2] rounded-[10px]"
+                type="text" name="Display witdh" placeholder="Display witdh" required="required" />
+            </label>
+            <label class="flex items-center px-5 mb-5 last:mb-0">
+              <h2 class="text-base w-2/5">RAM:</h2>
+              <input
+                class="w-3/5 py-3 px-2 outline-none border-2 border-solid border-[#999] bg-[#f2f2f2] rounded-[10px]"
+                type="text" name="Memory RAM" placeholder="Memory RAM" required="required" />
+            </label>
+            <label class="flex items-center px-5 mb-5 last:mb-0">
+              <h2 class="text-base w-2/5">Bộ nhớ trong:</h2>
+              <input
+                class="w-3/5 py-4 px-2 outline-none border-2 border-solid border-[#999] bg-[#f2f2f2] rounded-[10px]"
+                type="text" name="Memory ROM" placeholder="Memory ROM" required="required" />
+            </label>
+            <button type="submit"
+              class="py-5 px-4 text-base bg-[#333] text-white m-auto rounded-[10px] hover:bg-opacity-90 transition-all"
+              id="predict-btn">Predict</button>
+          </fieldset>
+        </form>
 
-      <button type="submit" class="btn btn-primary btn-block btn-large" id="predict-btn">Predict</button>
-    </form>
+        {% if prediction %}
+        <div class="flex flex-col justify-center">
+          {% for item in prediction %}
+          <h2 class="text-base font-bold">{{item}}</h2>
+          {% endfor %}
+        </div>
+        {% endif %}
+      </div>
 
-    <br>
-    <br>
-    {{ prediction_type }}
+      <div class="mt-20 flex justify-center gap-x-[20px]">
+        <form action="{{url_for('create_model')}}" method="post">
+          <button type="submit"
+            class="bg-[#010101] text-white px-3 py-4 rounded-[10px] hover:bg-opacity-80 transition-all"
+            id="run-script-btn">Chạy model cây
+            quyết
+            định</button>
+        </form>
 
-    <h2>Test run script</h2>
-    <form action="{{url_for('create_model')}}" method="post">
-      <button type="submit" class="bg-[#010101] text-white" id="run-script-btn">Run script</button>
-    </form>
+        <form action="{{url_for('visualize')}}" method="post">
+          <button type="submit"
+            class="bg-[#a3a3a3] text-white px-3 py-4 rounded-[10px] hover:bg-opacity-80 transition-all"
+            id="visulize-tree-btn">Hiển thị cây quyết định</button>
+        </form>
+      </div>
 
-    <form action="{{url_for('visualize')}}" method="post">
-      <button type="submit" class="bg-[#a3a3a3]" id="visulize-tree-btn">Visualize tree</button>
-    </form>
+      {% if image_url %}
+      <div class="mt-5 flex justify-evenly">
+        {% for item in image_url %}
+        <div class="flex flex-col items-center">
+          <img src="{{url_for('static', filename=item.path)}}" alt="Model visualization" class="w-[500px] h-auto">
+          <h4 class="font-bold text-xl">{{item.title}}</h4>
+        </div>
+        {% endfor %}
+      </div>
+      {% endif %}
 
-    <img src="/static/images/decision_tree_study_work.png" alt="Model visualization" class="w-[400px] h-auto">
-    <img src="/static/images/decision_tree_entertainment.png" alt="Model visualization" class="w-[400px] h-auto">
+      <!-- <img src="/static/images/decision_tree_study_work.png" alt="Model visualization" class="w-[400px] h-auto">
+      <img src="/static/images/decision_tree_entertainment.png" alt="Model visualization" class="w-[400px] h-auto"> -->
+    </div>
+
   </div>
 </body>
 

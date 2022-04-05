@@ -18,7 +18,7 @@ const NavBar = ({ brandList }) => {
             <span className="text-xl pr-3">
               <BsFillPhoneFill />
             </span>
-            <h4>Điện thoại</h4>
+            <h4 className="hidden xl:block">Điện thoại</h4>
             <div className={styles["brand-slide"]}>
               <BrandSlide brandList={brandList} />
             </div>
@@ -29,7 +29,7 @@ const NavBar = ({ brandList }) => {
             <span className="text-xl pr-3">
               <BsFillFilterSquareFill />
             </span>
-            <h4>Bộ lọc sản phẩm</h4>
+            <h4 className="hidden xl:block">Bộ lọc sản phẩm</h4>
           </a>
         </Link>
         <Link href="/">
@@ -37,7 +37,7 @@ const NavBar = ({ brandList }) => {
             <span className="text-xl pr-3">
               <RiUDiskFill />
             </span>
-            <h4>Phụ kiện</h4>
+            <h4 className="hidden xl:block">Phụ kiện</h4>
           </a>
         </Link>
         <Link href="/prediction">
@@ -45,7 +45,7 @@ const NavBar = ({ brandList }) => {
             <span className="text-xl pr-3">
               <HiSupport />
             </span>
-            <h4>Dịch vụ</h4>
+            <h4 className="hidden xl:block">Dịch vụ</h4>
           </a>
         </Link>
         <Link href="/">
@@ -53,7 +53,7 @@ const NavBar = ({ brandList }) => {
             <span className="text-xl pr-3">
               <BiNews />
             </span>
-            <h4>Tin công nghệ</h4>
+            <h4 className="hidden xl:block">Tin công nghệ</h4>
           </a>
         </Link>
         <SearchBar />

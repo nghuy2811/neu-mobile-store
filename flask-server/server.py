@@ -28,12 +28,19 @@ def index():
 def predict():
   float_features = [float(x) for x in request.form.values()]
   features = [np.array(float_features)]
-  prediction = model_sw.predict(features)
-  if 1 in prediction:
-    result = "Suitable"
-  else: result = "Not suitable"
+  prediction_sw = model_sw.predict(features)
+  prediction_e = model_e.predict(features)
+  if 1 in prediction_sw:
+    result_sw = "Phù hợp cho nhu cầu học tập và làm việc"
+  else: result_sw = "Không phù hợp cho nhu cầu học tập và làm việc"
 
-  return render_template("index.html", prediction_type = result)
+  if 1 in prediction_e:
+    result_e = "Phù hợp cho nhu cầu giải trí"
+  else: result_e = "Không phù hợp cho nhu cầu giải trí"
+
+  result = [result_sw, result_e]
+
+  return render_template("index.html", prediction = result)
 
 @app.route("/create_model", methods=["POST"])
 def create_model():
@@ -60,8 +67,14 @@ def visualize():
                     filled=True)
   fig.savefig("./static/images/decision_tree_entertainment.png", bbox_inches='tight')
 
-  image_url = "./static/images/decision_tree_study_work.png"
-  return render_template("index.html", image_url = image_url)
+  image_sw_url = "images/decision_tree_study_work.png"
+  image_e_url = "images/decision_tree_study_work.png"
+
+  sw_data = {"title": "Học tập và làm việc", "path": image_sw_url}
+  e_data = {"title": "Giải trí", "path": image_e_url}
+
+  result = [sw_data, e_data]
+  return render_template("index.html", image_url = result)
 
 @app.route("/database")
 def database():
