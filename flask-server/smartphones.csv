@@ -1,345 +1,345 @@
-product_code,cpu_cores,cpu_freq,cpu_name,height,screen,width,maker_code,maker_name,memory_ram,memory_rom,name_ID,os_type,os_version,url_icon,url_photo,study_work,entertainment
-001DL,1,1.0,Qualcomm Snapdragon QSD8250,800.0,5.0,480.0,dl,DELL,512.0,2560.0,DELL Streak,android,2.2,/static/images/icons/001DL.jpg,/static/images/phones/001DL.jpg,0,0
-001HT,1,1.0,Qualcomm Snapdragon MSM8255,800.0,4.3,480.0,ht,HTC,768.0,1536.0,HTC Desire HD,android,2.3,/static/images/icons/001HT.jpg,/static/images/phones/001HT.jpg,0,0
-003P,1,1.0,Texas Instruments OMAP3630,854.0,4.3,480.0,p,Panasonic,512.0,1024.0,Sweety,android,2.3,/static/images/icons/003P.jpg,/static/images/phones/003P.jpg,0,0
-006SH,1,1.4,Qualcomm Snapdragon MSM8255T,960.0,4.2,540.0,sh,SHARP,512.0,1536.0,AQUOS PHONE,android,2.3,/static/images/icons/006SH.jpg,/static/images/phones/006SH.jpg,0,0
-009SH,1,1.0,Qualcomm Snapdragon MSM8255,960.0,4.0,540.0,sh,SHARP,512.0,2048.0,AQUOS PHONE THE PREMIUM,android,2.3,/static/images/icons/009SH.jpg,/static/images/phones/009SH.jpg,0,0
-009SH_Y,1,1.0,Qualcomm Snapdragon MSM8255,960.0,4.0,540.0,sh,SHARP,512.0,2048.0,Yahoo! Phone,android,2.3,/static/images/icons/009SH_Y.jpg,/static/images/phones/009SH_Y.jpg,0,0
-101DL,2,1.5,Qualcomm Snapdragon MSM8260,960.0,4.3,540.0,dl,DELL,1024.0,8192.0,DELL Streak Pro,android,2.3,/static/images/icons/101DL.jpg,/static/images/phones/101DL.jpg,0,0
-101F,2,1.5,Qualcomm Snapdragon MSM8960,960.0,4.3,540.0,f,Fujitsu,1024.0,8192.0,ARROWS A,android,4.1,/static/images/icons/101F.jpg,/static/images/phones/101F.jpg,0,0
-101N,1,1.4,Qualcomm Snapdragon MSM8255,800.0,4.0,480.0,n,NEC,512.0,2048.0,MEDIAS CH,android,2.3,/static/images/icons/101N.jpg,/static/images/phones/101N.jpg,0,0
-101P,2,1.0,Texas Instruments OMAP4430,960.0,4.0,540.0,p,Panasonic,1024.0,2048.0,LUMIX Phone,android,2.3,/static/images/icons/101P.jpg,/static/images/phones/101P.jpg,0,0
-102SH,2,1.0,Texas Instruments OMAP4430,1280.0,4.5,720.0,sh,SHARP,1024.0,4096.0,AQUOS PHONE,android,4,/static/images/icons/102SH.jpg,/static/images/phones/102SH.jpg,0,0
-102SHII,2,1.0,Texas Instruments OMAP4430,1280.0,4.5,720.0,sh,SHARP,1024.0,4096.0,AQUOS PHONE,android,4,/static/images/icons/102SHII.jpg,/static/images/phones/102SHII.jpg,0,0
-103SH,1,1.4,Qualcomm Snapdragon MSM8255,960.0,4.0,540.0,sh,SHARP,512.0,2253.0,AQUOS PHONE,android,2.3,/static/images/icons/103SH.jpg,/static/images/phones/103SH.jpg,0,0
-104SH,2,1.5,Texas Instruments OMAP4460,1280.0,4.5,720.0,sh,SHARP,1024.0,16384.0,AQUOS PHONE,android,4,/static/images/icons/104SH.jpg,/static/images/phones/104SH.jpg,0,0
-106SH,2,1.5,Qualcomm Snapdragon MSM8260A,1280.0,4.7,720.0,sh,SHARP,1024.0,32768.0,AQUOS PHONE Xx,android,4,/static/images/icons/106SH.jpg,/static/images/phones/106SH.jpg,0,0
-200SH,2,1.5,Qualcomm Snapdragon MSM8960,1280.0,4.5,720.0,sh,SHARP,1024.0,8192.0,PANTONE® 6,android,4.1,/static/images/icons/200SH.jpg,/static/images/phones/200SH.jpg,0,0
-201F,4,1.5,Qualcomm Snapdragon APQ8064,1280.0,4.7,720.0,f,Fujitsu,2048.0,32768.0,ARROWS A,android,4.1,/static/images/icons/201F.jpg,/static/images/phones/201F.jpg,0,0
-201HW,2,1.5,Qualcomm Snapdragon MSM8960,960.0,4.3,540.0,hw,Huawei,1024.0,4096.0,STREAM,android,4,/static/images/icons/201HW.jpg,/static/images/phones/201HW.jpg,0,0
-201HW_,2,1.5,Qualcomm Snapdragon MSM8960,960.0,4.3,540.0,hw,Huawei,1024.0,4096.0,STREAM,android,4,/static/images/icons/201HW_.jpg,/static/images/phones/201HW_.jpg,0,0
-201M,2,1.5,Qualcomm Snapdragon MSM8960,960.0,4.3,540.0,m,Motorola,1024.0,8192.0,RAZR M,android,4.1,/static/images/icons/201M.jpg,/static/images/phones/201M.jpg,0,0
-202F,4,1.7,Qualcomm Snapdragon 600 APQ8064T,1920.0,5.0,1080.0,f,Fujitsu,2048.0,65536.0,ARROWS A,android,4.2,/static/images/icons/202F.jpg,/static/images/phones/202F.jpg,1,1
-202K,2,1.5,Qualcomm Snapdragon MSM8960,1280.0,4.3,720.0,k,KYOCERA,1536.0,16384.0,DIGNO R,android,4.2,/static/images/icons/202K.jpg,/static/images/phones/202K.jpg,0,0
-203SH,4,1.5,Qualcomm Snapdragon APQ8064,1280.0,4.9,720.0,sh,SHARP,2048.0,32768.0,AQUOS PHONE Xx,android,4.1,/static/images/icons/203SH.jpg,/static/images/phones/203SH.jpg,0,0
-205SH,2,1.5,Qualcomm Snapdragon MSM8960,854.0,4.0,480.0,sh,SHARP,1024.0,8192.0,AQUOS PHONE ss,android,4.1,/static/images/icons/205SH.jpg,/static/images/phones/205SH.jpg,0,0
-206SH,4,1.7,Qualcomm Snapdragon 600 APQ8064T,1920.0,5.0,1080.0,sh,SHARP,2048.0,32768.0,AQUOS PHONE Xx,android,4.2,/static/images/icons/206SH.jpg,/static/images/phones/206SH.jpg,1,1
-301F,4,2.2,Qualcomm Snapdragon 800 MSM8974,1920.0,5.0,1080.0,f,Fujitsu,2048.0,65536.0,ARROWS A,android,4.2,/static/images/icons/301F.jpg,/static/images/phones/301F.jpg,1,1
-302HW,4,1.6,KIRIN910,1280.0,4.7,720.0,hw,Huawei,2048.0,8192.0,STREAM S,android,4.4,/static/images/icons/302HW.jpg,/static/images/phones/302HW.jpg,0,0
-302KC,4,1.2,Qualcomm Snapdragon 400 MSM8926,960.0,4.5,540.0,k,KYOCERA,1536.0,8192.0,DIGNO T,android,4.4,/static/images/icons/302KC.jpg,/static/images/phones/302KC.jpg,0,0
-302SH,4,2.2,Qualcomm Snapdragon 800 MSM8974,1920.0,5.2,1080.0,sh,SHARP,2048.0,32768.0,AQUOS PHONE Xx,android,4.2,/static/images/icons/302SH.jpg,/static/images/phones/302SH.jpg,1,1
-303SH,4,2.2,Qualcomm Snapdragon 800 MSM8974,1920.0,4.5,1080.0,sh,SHARP,2048.0,16384.0,AQUOS PHONE Xx mini,android,4.2,/static/images/icons/303SH.jpg,/static/images/phones/303SH.jpg,0,0
-304SH,4,2.3,Qualcomm Snapdragon 801 MSM8974AB,1920.0,5.2,1080.0,sh,SHARP,2048.0,32768.0,AQUOS Xx,android,4.4,/static/images/icons/304SH.jpg,/static/images/phones/304SH.jpg,1,1
-305SH,4,1.2,Qualcomm、Snapdragon 400 MSM8926,1280.0,5.0,720.0,sh,SHARP,1536.0,8192.0,AQUOS CRYSTAL,android,4.4,/static/images/icons/305SH.jpg,/static/images/phones/305SH.jpg,0,0
-401SO,4,2.5,Qualcomm Snapdragon 801 MSM8974AC,1920.0,5.2,1080.0,so,Sony mobile,3072.0,32768.0,Xperia Z3,android,5,/static/images/icons/401SO.jpg,/static/images/phones/401SO.jpg,1,1
-402SH,4,2.3,Qualcomm、Snapdragon 801 MSM8974AB,1920.0,5.5,1080.0,sh,SHARP,2048.0,16384.0,AQUOS CRYSTAL X,android,4.4,/static/images/icons/402SH.jpg,/static/images/phones/402SH.jpg,1,1
-402SO,8,2.0,Qualcomm Snapdragon 810 MSM8994,1920.0,5.2,1080.0,so,Sony mobile,3072.0,32768.0,Xperia Z4,android,5,/static/images/icons/402SO.jpg,/static/images/phones/402SO.jpg,1,1
-403SC,4,2.3,Cortex-A7,1280.0,7.0,800.0,,Samsung,1536.0,8192.0,GALAXY Tab 4 7.0,android,4.4.2,/static/images/icons/403SC.jpg,/static/images/phones/403SC.jpg,0,0
-403SH,4,1.2,Qualcomm Snapdragon 400 MSM8926,1280.0,5.2,720.0,sh,SHARP,2048.0,16384.0,AQUOS CRYSTAL 2,android,5,/static/images/icons/403SH.jpg,/static/images/phones/403SH.jpg,0,0
-404SC,8,2.1,Exynos7420,2560.0,5.1,1440.0,sc,SAMSUNG,3072.0,65536.0,Galaxy S6 edge,android,5,/static/images/icons/404SC.jpg,/static/images/phones/404SC.jpg,1,1
-404SH,8,2.0,Qualcomm Snapdragon 810 MSM8994,1920.0,5.7,1080.0,sh,SHARP,3072.0,32768.0,AQUOS Xx,android,5,/static/images/icons/404SH.jpg,/static/images/phones/404SH.jpg,1,1
-503hw,8,1.2,HiSilicon Kirin620,1280.0,5.0,720.0,hw,Huawei,2048.0,16384.0,LUMIERE,android,5,/static/images/icons/503hw.jpg,/static/images/phones/503hw.jpg,0,0
-A0001,4,2.5,Krait 400,1920.0,5.5,1080.0,,OnePlus,3072.0,16384.0,OnePlus One,android,4.4.4,/static/images/icons/A0001.jpg,/static/images/phones/A0001.jpg,1,1
-AQUOS_Xx2,6,1.8,Qualcomm Snapdragon 808 MSM8992,1920.0,5.3,1080.0,sh,SHARP,3072.0,32768.0,AQUOS Xx2,android,5.1,/static/images/icons/AQUOS_Xx2.jpg,/static/images/phones/AQUOS_Xx2.jpg,1,1
-AQUOS_Xx2_mini,6,1.8,Qualcomm Snapdragon 808 MSM8992,1920.0,4.7,1080.0,sh,SHARP,3072.0,16384.0,AQUOS Xx2 mini,android,5.1,/static/images/icons/AQUOS_Xx2_mini.jpg,/static/images/phones/AQUOS_Xx2_mini.jpg,0,0
-ARROWS_M01,4,1.2,Qualcomm Snapdragon 400 MSM8926,1280.0,4.5,720.0,f,Fujitsu,1024.0,8192.0,ARROWS M01,android,4.4,/static/images/icons/ARROWS_M01.jpg,/static/images/phones/ARROWS_M01.jpg,0,0
-AST21,4,2.3,Intel Atom Z3580,1200.0,8.0,1920.0,as,ASUS,2048.0,16384.0,ASUS MeMO Pad 8,android,4.4.2,/static/images/icons/AST21.jpg,/static/images/phones/AST21.jpg,1,1
-ASUS_T00J,2,1.6,Intel Atom Z2560,1280.0,5.0,720.0,as,ASUS,1024.0,8192.0,ASUS Zenfone 5,android,4.3,/static/images/icons/ASUS_T00J.jpg,/static/images/phones/ASUS_T00J.jpg,0,0
-AXON_mini,8,1.7,Qualcomm Snapdragon 616 MSM8939,1920.0,5.2,1080.0,z,ZTE,3072.0,32768.0,AXON mini,android,5.1,/static/images/icons/AXON_mini.jpg,/static/images/phones/AXON_mini.jpg,1,1
-Ascend_G6,4,1.2,Qualcomm Snapdragon 400 MSM8926,960.0,4.5,540.0,hw,Huawei,1024.0,8192.0,Ascend G6,android,4.3,/static/images/icons/Ascend_G6.jpg,/static/images/phones/Ascend_G6.jpg,0,0
-Ascend_G620S,4,1.2,Qualcomm Snapdragon 410 MSM8916,1280.0,5.0,720.0,hw,Huawei,1024.0,8192.0,Ascend G620S,android,4.4,/static/images/icons/Ascend_G620S.jpg,/static/images/phones/Ascend_G620S.jpg,0,0
-Ascend_Mate7,8,1.8,Hisilicon Kirin925,1920.0,6.0,1080.0,hw,Huawei,2048.0,16384.0,Ascend Mate7,android,4.4,/static/images/icons/Ascend_Mate7.jpg,/static/images/phones/Ascend_Mate7.jpg,1,1
-Ascend_P7,4,1.8,Hisilicon Krin910T,1920.0,5.0,1080.0,hw,Huawei,2048.0,16384.0,Ascend P7,android,4.4,/static/images/icons/Ascend_P7.jpg,/static/images/phones/Ascend_P7.jpg,1,1
-BLADE_Q_PLUS,4,1.2,Qualcomm Snapdragon 410 MSM8916,854.0,4.5,480.0,z,ZTE,1024.0,8192.0,BLADE Q+,android,4.4,/static/images/icons/BLADE_Q_PLUS.jpg,/static/images/phones/BLADE_Q_PLUS.jpg,0,0
-Blade_V6,4,1.3,Mediatek MT6735,1280.0,5.0,720.0,z,ZTE,2048.0,16384.0,Blade V6,android,5,/static/images/icons/Blade_V6.jpg,/static/images/phones/Blade_V6.jpg,0,0
-Blade_Vec_4G,4,1.2,Qualcomm Snapdragon 400 MSM8926,1280.0,5.0,720.0,z,ZTE,1024.0,16384.0,Blade Vec 4G,android,4.4,/static/images/icons/Blade_Vec_4G.jpg,/static/images/phones/Blade_Vec_4G.jpg,0,0
-CAL21,2,1.5,Qualcomm Snapdragon MSM8960,800.0,4.0,480.0,ca,CASIO,1024.0,8192.0,G'zOne TYPE-L,android,4,/static/images/icons/CAL21.jpg,/static/images/phones/CAL21.jpg,0,0
-DIGNO_C_404KC,4,1.2,Qualcomm Snapdragon 410 MSM8916,960.0,5.0,540.0,k,KYOCERA,1024.0,8192.0,DIGNO C,android,4.4,/static/images/icons/DIGNO_C_404KC.jpg,/static/images/phones/DIGNO_C_404KC.jpg,0,0
-DIGNO_U,4,1.2,Qualcomm Snapdragon 410 MSM8916,960.0,5.0,540.0,k,KYOCERA,1024.0,8192.0,DIGNO U,android,4.4,/static/images/icons/DIGNO_U.jpg,/static/images/phones/DIGNO_U.jpg,0,0
-DM-01G,4,2.5,Qualcomm Snapdragon 801 MSM8974AC,1920.0,5.2,1080.0,l,LG,2048.0,16384.0,Disney Mobile on docomo,android,5,/static/images/icons/DM-01G.jpg,/static/images/phones/DM-01G.jpg,1,1
-DM-01H,6,1.8,Qualcomm Snapdragon 808 MSM8992,1920.0,4.7,1080.0,sh,SHARP,3072.0,16384.0,Disney Mobile on docomo ,android,5.1,/static/images/icons/DM-01H.jpg,/static/images/phones/DM-01H.jpg,0,0
-DM010SH,1,1.0,Qualcomm Snapdragon MSM8255,960.0,4.0,540.0,sh,SHARP,512.0,2048.0,DM010SH,android,2.3,/static/images/icons/DM010SH.jpg,/static/images/phones/DM010SH.jpg,0,0
-DM012SH,1,1.4,Qualcomm Snapdragon MSM8255,960.0,4.0,540.0,sh,SHARP,512.0,4096.0,DM012SH,android,2.3,/static/images/icons/DM012SH.jpg,/static/images/phones/DM012SH.jpg,0,0
-DM014SH,2,1.5,Qualcomm Snapdragon MSM8960,1280.0,4.5,720.0,sh,SHARP,1024.0,8192.0,DM014SH,android,4.1,/static/images/icons/DM014SH.jpg,/static/images/phones/DM014SH.jpg,0,0
-DM015K,2,1.5,Qualcomm MSM8960,1280.0,4.3,720.0,k,KYOCERA,1536.0,16384.0,DM015K,android,4.2,/static/images/icons/DM015K.jpg,/static/images/phones/DM015K.jpg,0,0
-DM016SH,4,2.2,Qualcomm Snapdragon 800 MSM8974,1920.0,5.2,1080.0,sh,SHARP,2048.0,32768.0,DM016SH,android,4.2,/static/images/icons/DM016SH.jpg,/static/images/phones/DM016SH.jpg,1,1
-EM01F,4,1.5,Qualcomm Snapdragon S4 Pro APQ8064,1280.0,4.7,720.0,f,Fujitsu,2048.0,32768.0,ARROWS S,android,4.1,/static/images/icons/EM01F.jpg,/static/images/phones/EM01F.jpg,0,0
-F-01F,4,2.2,Qualcomm Snapdragon 800 MSM8974,1920.0,5.0,1080.0,f,Fujitsu,2048.0,32768.0,ARROWS NX,android,4.4,/static/images/icons/F-01F.jpg,/static/images/phones/F-01F.jpg,1,1
-F-01H,4,1.2,Qualcomm Snapdragon 410 MSM8916,1280.0,5.0,720.0,f,Fujitsu,2048.0,16384.0,arrows Fit,android,5.1,/static/images/icons/F-01H.jpg,/static/images/phones/F-01H.jpg,0,0
-F-02E,4,1.7,NVIDIA Tegra3,1920.0,5.0,1080.0,f,Fujitsu,2048.0,32768.0,ARROWS X,android,4.1,/static/images/icons/F-02E.jpg,/static/images/phones/F-02E.jpg,1,1
-F-02G,4,2.3,Qualcomm、Snapdragon 801 MSM8974AB,2560.0,5.2,1440.0,f,Fujitsu,3072.0,32768.0,ARROWS NX,android,5,/static/images/icons/F-02G.jpg,/static/images/phones/F-02G.jpg,1,1
-F-02H,6,1.8,Qualcomm Snapdragon 808 MSM8992,2560.0,5.4,1440.0,f,Fujitsu,3072.0,32768.0,arrows NX ,android,5.1,/static/images/icons/F-02H.jpg,/static/images/phones/F-02H.jpg,1,1
-F-03E,2,1.5,Qualcomm Snapdragon MSM8960,960.0,4.0,540.0,f,Fujitsu,1024.0,8192.0,ARROWS Kiss,android,4.1,/static/images/icons/F-03E.jpg,/static/images/phones/F-03E.jpg,0,0
-F-03F,4,2.2,Qualcomm Snapdragon 800 MSM8974,1280.0,4.7,720.0,f,Fujitsu,2048.0,32768.0,Disney Mobile on docomo,android,4.2,/static/images/icons/F-03F.jpg,/static/images/phones/F-03F.jpg,0,0
-F-03G,4,2.3,MSM8974AB,1600.0,10.5,2560.0,,Fujitsu,2048.0,16384.0,ARROWS Tab F-03G,android,4.4.4,/static/images/icons/F-03G.jpg,/static/images/phones/F-03G.jpg,1,1
-F-04E,4,1.5,NVIDIA Tegra3,1280.0,4.7,720.0,f,Fujitsu,2048.0,65536.0,ARROWS V,android,4.2,/static/images/icons/F-04E.jpg,/static/images/phones/F-04E.jpg,0,0
-F-04G,8,2.0,Qualcomm Snapdragon 810 MSM8994,2560.0,5.2,1440.0,f,Fujitsu,3072.0,32768.0,ARROWS NX,android,5,/static/images/icons/F-04G.jpg,/static/images/phones/F-04G.jpg,1,1
-F-05D,2,1.2,Texas Instruments OMAP4430,1280.0,4.3,720.0,f,Fujitsu,1024.0,8192.0,ARROWS X LTE,android,4,/static/images/icons/F-05D.jpg,/static/images/phones/F-05D.jpg,0,0
-F-05F,4,2.3,Qualcomm Snapdragon 801 MSM8974AB,1920.0,5.0,1080.0,f,Fujitsu,2048.0,32768.0,ARROWS NX,android,4.4,/static/images/icons/F-05F.jpg,/static/images/phones/F-05F.jpg,1,1
-F-06E,4,1.7,Qualcomm Snapdragon 600 APQ8064T,1920.0,5.2,1080.0,f,Fujitsu,2048.0,65536.0,ARROWS NX,android,4.2,/static/images/icons/F-06E.jpg,/static/images/phones/F-06E.jpg,1,1
-F-07D,1,1.4,Qualcomm Snapdragon MSM8255,800.0,4.0,480.0,f,Fujitsu,512.0,1024.0,ARROWS μ,android,2.3,/static/images/icons/F-07D.jpg,/static/images/phones/F-07D.jpg,0,0
-F-07E,4,1.7,Qualcomm Snapdragon 600 APQ8064T,1280.0,4.7,720.0,f,Fujitsu,2048.0,65536.0,Disney Mobile on docomo,android,4.2,/static/images/icons/F-07E.jpg,/static/images/phones/F-07E.jpg,0,0
-F-08D,2,1.2,Texas Instruments OMAP4430,1280.0,4.3,720.0,f,Fujitsu,1024.0,4096.0,Disney Mobile on docomo,android,4,/static/images/icons/F-08D.jpg,/static/images/phones/F-08D.jpg,0,0
-F-10D,4,1.5,NVIDIA Tegra 3 AP33,1280.0,4.6,720.0,f,Fujitsu,1024.0,16384.0,ARROWS X,android,4.2,/static/images/icons/F-10D.jpg,/static/images/phones/F-10D.jpg,0,0
-FJL21,2,1.5,Qualcomm Snapdragon MSM8960,1280.0,4.3,720.0,f,Fujitsu,1024.0,8192.0,ARROWS ef,android,4.1,/static/images/icons/FJL21.jpg,/static/images/phones/FJL21.jpg,0,0
-FJL22,4,2.2,Qualcomm Snapdragon 800 MSM8974,1920.0,5.0,1080.0,f,Fujitsu,2048.0,32768.0,ARROWS Z,android,4.2,/static/images/icons/FJL22.jpg,/static/images/phones/FJL22.jpg,1,1
-GL07S,4,1.5,HiSilicon K3V2,1280.0,4.7,720.0,hw,Huawei,1024.0,32768.0,STREAM X,android,4.1,/static/images/icons/GL07S.jpg,/static/images/phones/GL07S.jpg,0,0
-GS01,2,1.5,Qualcomm Snapdragon MSM8260,960.0,4.3,540.0,dl,DELL,1024.0,8192.0,Dell Streak Pro,android,2.3,/static/images/icons/GS01.jpg,/static/images/phones/GS01.jpg,0,0
-GS02,1,1.4,Qualcomm Snapdragon MSM8255T,854.0,4.0,480.0,hw,Huawei,512.0,4096.0,GS02,android,2.3,/static/images/icons/GS02.jpg,/static/images/phones/GS02.jpg,0,0
-GS03,2,1.5,Texas Instruments OMAP4460,960.0,4.3,540.0,hw,Huawei,1024.0,4096.0,GS03,android,4,/static/images/icons/GS03.jpg,/static/images/phones/GS03.jpg,0,0
-HM_1S,4,1.6,Qualcomm MSM8228 Snapdragon,1280.0,4.7,720.0,,Xiaomi,1024.0,8192.0,Xiaomi Hongmi 1S,android,4.3,/static/images/icons/HM_1S.jpg,/static/images/phones/HM_1S.jpg,0,0
-HM_NOTE_1W,8,1.4,Mediatek MT6592,1280.0,5.5,720.0,,Xiaomi,1024.0,16384.0,Redmi Note 1W,android,4.2.2,/static/images/icons/HM_NOTE_1W.jpg,/static/images/phones/HM_NOTE_1W.jpg,0,0
-HTC_Desire_626,4,1.2,Qualcomm Snapdragon 410 MSM8916,1280.0,5.0,720.0,ht,HTC,2048.0,16384.0,HTC Desire 626,android,5.1,/static/images/icons/HTC_Desire_626.jpg,/static/images/phones/HTC_Desire_626.jpg,0,0
-HTC_Desire_EYE,4,2.3,Qualcomm Snapdragon 800 MSM8974,1920.0,5.2,1080.0,ht,HTC,2048.0,16384.0,HTC Desire EYE,android,5.1,/static/images/icons/HTC_Desire_EYE.jpg,/static/images/phones/HTC_Desire_EYE.jpg,1,1
-HTL21,4,1.5,Qualcomm Snapdragon APQ8064,1920.0,5.0,1080.0,ht,HTC,2048.0,16384.0,HTC J butterfly,android,4.1,/static/images/icons/HTL21.jpg,/static/images/phones/HTL21.jpg,1,0
-HTL22,4,1.7,Qualcomm Snapdragon 600 APQ8064T,1920.0,4.7,1080.0,ht,HTC,2048.0,32768.0,HTC J One,android,4.4,/static/images/icons/HTL22.jpg,/static/images/phones/HTL22.jpg,0,0
-HTL23,4,2.5,Qualcomm Snapdragon 801 MSM8974AC,1920.0,5.0,1080.0,ht,HTC,2048.0,32768.0,HTC J butterfly,android,4.4,/static/images/icons/HTL23.jpg,/static/images/phones/HTL23.jpg,1,1
-HTV31,8,2.0,Qualcomm Snapdragon 810 MSM8994,2560.0,5.2,1440.0,ht,HTC,3072.0,32768.0,HTC J butterfly,android,5,/static/images/icons/HTV31.jpg,/static/images/phones/HTV31.jpg,1,1
-HW-01E,2,1.5,Qualcomm Snapdragon MSM8960,1280.0,4.5,720.0,hw,Huawei,1024.0,8192.0,Ascend,android,4,/static/images/icons/HW-01E.jpg,/static/images/phones/HW-01E.jpg,0,0
-HW-03E,4,1.5,Hisilicom K3V2,1280.0,4.7,720.0,hw,Huawei,2048.0,32768.0,Ascend D2,android,4.1,/static/images/icons/HW-03E.jpg,/static/images/phones/HW-03E.jpg,0,0
-INFOBAR_A02,4,1.5,Qualcomm Snapdragon S4 Pro APQ8064,1280.0,4.7,720.0,ht,HTC,1024.0,16384.0,INFOBAR A02,android,4.1,/static/images/icons/INFOBAR_A02.jpg,/static/images/phones/INFOBAR_A02.jpg,0,0
-IS04,1,1.0,Qualcomm Snapdragon QSD8650,854.0,4.0,480.0,t,Fujitsu Toshiba,512.0,1024.0,REGZA Phone,android,2.1,/static/images/icons/IS04.jpg,/static/images/phones/IS04.jpg,0,0
-IS11LG,2,1.2,NVIDIA Tegra 2 AP25H,800.0,4.0,480.0,l,LG,1024.0,4096.0,optimus X,android,4,/static/images/icons/IS11LG.jpg,/static/images/phones/IS11LG.jpg,0,0
-IS11S,1,1.0,Qualcomm Snapdragon MSM8655,854.0,4.2,480.0,so,Sony mobile,512.0,1024.0,Xperia acro,android,2.3,/static/images/icons/IS11S.jpg,/static/images/phones/IS11S.jpg,0,0
-IS11T,1,1.4,Qualcomm Snapdragon MSM8655T,854.0,4.0,480.0,t,Fujitsu Toshiba,512.0,1024.0,REGZA Phone,android,2.3,/static/images/icons/IS11T.jpg,/static/images/phones/IS11T.jpg,0,0
-IS12F,1,1.4,Qualcomm Snapdragon MSM8655,800.0,4.0,480.0,t,Fujitsu Toshiba,512.0,1024.0,ARROWS ES,android,2.3,/static/images/icons/IS12F.jpg,/static/images/phones/IS12F.jpg,0,0
-IS12M,2,1.2,Texas Instruments OMAP4430,960.0,4.3,540.0,m,Motorola,1024.0,16384.0,MOTOROLA RAZR,android,4,/static/images/icons/IS12M.jpg,/static/images/phones/IS12M.jpg,0,0
-IS12S,2,1.5,Qualcomm Snapdragon MSM8660,1280.0,4.3,720.0,so,Sony mobile,1024.0,16384.0,Xperia acro HD,android,4,/static/images/icons/IS12S.jpg,/static/images/phones/IS12S.jpg,0,0
-IS12SH,1,1.4,Qualcomm Snapdragon MSM8655T,960.0,4.2,540.0,sh,SHARP,512.0,2048.0,AQUOS PHONE,android,2.3,/static/images/icons/IS12SH.jpg,/static/images/phones/IS12SH.jpg,0,0
-IS13SH,1,1.4,Qualcomm Snapdragon MSM8655,960.0,4.2,540.0,sh,SHARP,512.0,4096.0,AQUOS PHONE,android,2.3,/static/images/icons/IS13SH.jpg,/static/images/phones/IS13SH.jpg,0,0
-IS17SH,1,1.4,Qualcomm Snapdragon MSM8655,960.0,4.2,540.0,sh,SHARP,1024.0,8192.0,AQUOS PHONE CL,android,4,/static/images/icons/IS17SH.jpg,/static/images/phones/IS17SH.jpg,0,0
-ISW11F,2,1.2,Texas Instruments OMAP4430,1280.0,4.3,720.0,t,Fujitsu Toshiba,1024.0,8192.0,ARROWS Z,android,4,/static/images/icons/ISW11F.jpg,/static/images/phones/ISW11F.jpg,0,0
-ISW11HT,1,1.0,Qualcomm Snapdragon QSD8650,800.0,4.3,480.0,ht,HTC,512.0,1024.0,htc EVO WiMAX,android,2.3,/static/images/icons/ISW11HT.jpg,/static/images/phones/ISW11HT.jpg,0,0
-ISW11K,1,1.4,Qualcomm Snapdragon MSM8655,800.0,4.0,480.0,k,KYOCERA,1024.0,4096.0,DIGNO,android,2.3,/static/images/icons/ISW11K.jpg,/static/images/phones/ISW11K.jpg,0,0
-ISW11M,2,1.0,Nvidia Tegra 2 T250,960.0,4.3,540.0,m,Motorola,1024.0,16384.0,MOTOROLA PHOTON,android,2.3,/static/images/icons/ISW11M.jpg,/static/images/phones/ISW11M.jpg,0,0
-ISW11SC,2,1.4,Samsung Exynos4210,1280.0,4.7,720.0,sc,SAMSUNG,1024.0,16384.0,GALAXY S II WiMAX,android,4,/static/images/icons/ISW11SC.jpg,/static/images/phones/ISW11SC.jpg,0,0
-ISW12HT,2,1.2,Qualcomm Snapdragon MSM8660,960.0,4.3,540.0,ht,HTC,1024.0,4096.0,htc EVO 3D,android,4,/static/images/icons/ISW12HT.jpg,/static/images/phones/ISW12HT.jpg,0,0
-ISW13F,4,1.5,NVIDIA Tegra 3 AP33,1280.0,4.6,720.0,f,Fujitsu,1024.0,16384.0,ARROWS Z,android,4,/static/images/icons/ISW13F.jpg,/static/images/phones/ISW13F.jpg,0,0
-ISW13HT,2,1.5,Qualcomm Snapdragon MSM8660A,960.0,4.3,540.0,ht,HTC,1024.0,16384.0,HTC J,android,4,/static/images/icons/ISW13HT.jpg,/static/images/phones/ISW13HT.jpg,0,0
-ISW16SH,2,1.5,Qualcomm Snapdragon MSM8660A,1280.0,4.6,720.0,sh,SHARP,1024.0,16384.0,AQUOS PHONE SERIE,android,4,/static/images/icons/ISW16SH.jpg,/static/images/phones/ISW16SH.jpg,0,0
-K013,4,1.33,Intel Atom Z3745,800.0,7.0,1280.0,as,ASUS,1024.0,16384.0,ASUS MeMO Pad 7,android,4.4.2,/static/images/icons/K013.jpg,/static/images/phones/K013.jpg,0,0
-KC-01,4,1.2,Qualcomm Snapdragon 400 MSM8926,960.0,4.5,540.0,k,KYOCERA,1536.0,8192.0,KC-01,android,4.4,/static/images/icons/KC-01.jpg,/static/images/phones/KC-01.jpg,0,0
-KFTHWI,4,2.2,Qualcomm Snapdragon 800,1200.0,7.0,1920.0,,Amazon,2048.0,16384.0,Kindle Fire HDX 7,android,4.2.2,/static/images/icons/KFTHWI.jpg,/static/images/phones/KFTHWI.jpg,1,1
-KYL21,2,1.5,Qualcomm Snapdragon MSM8960,1280.0,4.7,720.0,k,KYOCERA,1024.0,16384.0,DIGNO S,android,4,/static/images/icons/KYL21.jpg,/static/images/phones/KYL21.jpg,0,0
-KYL22,4,2.2,Qualcomm Snapdragon 800 MSM8974,1920.0,5.0,1080.0,k,KYOCERA,2048.0,32768.0,DIGNO M ,android,4.2,/static/images/icons/KYL22.jpg,/static/images/phones/KYL22.jpg,1,1
-KYL23,4,1.2,Qualcomm Snapdragon 400 MSM8926,960.0,4.5,540.0,k,KYOCERA,1536.0,8192.0,miraie,android,4.4,/static/images/icons/KYL23.jpg,/static/images/phones/KYL23.jpg,0,0
-KYV31,4,2.3,Qualcomm、Snapdragon 801 MSM8974AB,1920.0,5.0,1080.0,k,KYOCERA,2048.0,16384.0,URBANO V01,android,4.4,/static/images/icons/KYV31.jpg,/static/images/phones/KYV31.jpg,1,1
-KYV32,4,2.3,Qualcomm Snapdragon 800 MSM8974AB,1920.0,5.0,1080.0,k,KYOCERA,2048.0,16384.0,BASIO,android,4.4,/static/images/icons/KYV32.jpg,/static/images/phones/KYV32.jpg,1,1
-KYV33,4,2.3,Qualcomm Snapdragon 800 MSM8974AB,1920.0,4.5,1080.0,k,KYOCERA,2048.0,16384.0,INFOBAR A03,android,4.4,/static/images/icons/KYV33.jpg,/static/images/phones/KYV33.jpg,0,0
-KYV35,4,1.4,Qualcomm Snapdragon 400 MSM8928,1280.0,4.7,720.0,k,KYOCERA,2048.0,16384.0,TORQUE G02,android,5.1,/static/images/icons/KYV35.jpg,/static/images/phones/KYV35.jpg,0,0
-KYV36,4,1.2,Qualcomm Snapdragon 410 MSM8916,1280.0,5.0,720.0,k,KYOCERA,2048.0,16384.0,DIGNO rafre,android,5.1,/static/images/icons/KYV36.jpg,/static/images/phones/KYV36.jpg,0,0
-KYY22,2,1.5,Qualcomm Snapdragon S4 Pro MSM8960,1280.0,4.7,720.0,k,KYOCERA,2048.0,16384.0,URBANO L02,android,4.2,/static/images/icons/KYY22.jpg,/static/images/phones/KYY22.jpg,0,0
-KYY23,4,2.3,Qualcomm Snapdragon 801 MSM8974AB,1920.0,5.0,1080.0,k,KYOCERA,2048.0,16384.0,URBANO,android,4.4,/static/images/icons/KYY23.jpg,/static/images/phones/KYY23.jpg,1,1
-KYY24,4,1.4,Qualcomm Snapdragon 400 MSM8928,1280.0,4.5,720.0,k,KYOCERA,2048.0,16384.0,TORQUE,android,4.4,/static/images/icons/KYY24.jpg,/static/images/phones/KYY24.jpg,0,0
-L-01D,2,1.5,Qualcomm Snapdragon APQ8060,1280.0,4.5,720.0,l,LG,1024.0,4096.0,Optimus LTE,android,4,/static/images/icons/L-01D.jpg,/static/images/phones/L-01D.jpg,0,0
-L-01E,4,1.5,Qualcomm Snapdragon APQ8064,1280.0,4.7,720.0,l,LG,2048.0,16384.0,Optimus G,android,4.1,/static/images/icons/L-01E.jpg,/static/images/phones/L-01E.jpg,0,0
-L-01F,4,2.3,Qualcomm Snapdragon 800 MSM8974,1920.0,5.2,1080.0,l,LG,2048.0,32768.0,G2,android,4.2,/static/images/icons/L-01F.jpg,/static/images/phones/L-01F.jpg,1,1
-L-02D,2,1.0,Texas Instruments OMAP4430,800.0,4.3,480.0,l,LG,1024.0,16384.0,PRADA phone,android,4,/static/images/icons/L-02D.jpg,/static/images/phones/L-02D.jpg,0,0
-L-02E,2,1.5,Qualcomm Snapdragon MSM8960,1280.0,4.5,720.0,l,LG,1024.0,8192.0,Optimus LIFE,android,4.1,/static/images/icons/L-02E.jpg,/static/images/phones/L-02E.jpg,0,0
-L-04E,4,1.7,Qualcomm Snapdragon S4 Pro APQ8064,1920.0,5.0,1080.0,l,LG,2048.0,32768.0,Optimus G pro,android,4.1,/static/images/icons/L-04E.jpg,/static/images/phones/L-04E.jpg,1,1
-L-05D,2,1.5,Qualcomm Snapdragon MSM8960,800.0,4.0,480.0,l,LG,1024.0,8192.0,Optimus it,android,4.1,/static/images/icons/L-05D.jpg,/static/images/phones/L-05D.jpg,0,0
-L-05E,4,1.7,Qualcomm Snapdragon 600 APQ8064T,1280.0,4.5,720.0,l,LG,2048.0,32768.0,Optimus it,android,4.2,/static/images/icons/L-05E.jpg,/static/images/phones/L-05E.jpg,0,0
-L-06D,2,1.5,Qualcomm Snapdragon APQ8060,1024.0,5.0,768.0,l,LG,1024.0,32768.0,Optimus Vu,android,4,/static/images/icons/L-06D.jpg,/static/images/phones/L-06D.jpg,0,0
-L-06D_JOJO,2,1.5,Qualcomm Snapdragon APQ8060,1024.0,5.0,768.0,l,LG,1024.0,32768.0,L-06D JOJO,android,4,/static/images/icons/L-06D_JOJO.jpg,/static/images/phones/L-06D_JOJO.jpg,0,0
-L-07C,1,1.0,Texas Instruments OMAP3630,800.0,4.0,480.0,l,LG,512.0,4096.0,Optimus bright,android,2.3,/static/images/icons/L-07C.jpg,/static/images/phones/L-07C.jpg,0,0
-L01,2,1.5,Qualcomm Snapdragon S4 Plus MSM8960,1280.0,4.7,720.0,k,KYOCERA,2048.0,16384.0,URBANO,android,4.2,/static/images/icons/L01.jpg,/static/images/phones/L01.jpg,0,0
-LG-F320K,4,2.26,Qualcomm MSM8974 Snapdragon 800,1920.0,5.2,1080.0,,LG,2048.0,8192.0,LG Optimus S G2 LTE-A,android,4.2.2,/static/images/icons/LG-F320K.jpg,/static/images/phones/LG-F320K.jpg,0,0
-LG-F400S,4,2.5,Krait 400,2560.0,5.5,1440.0,,LG,2048.0,16384.0,LG G3,android,4.4.2,/static/images/icons/LG-F400S.jpg,/static/images/phones/LG-F400S.jpg,1,1
-LGL21,4,1.5,Qualcomm Snapdragon APQ8064,1280.0,4.7,720.0,l,LG,2048.0,16384.0,Optimus G,android,4,/static/images/icons/LGL21.jpg,/static/images/phones/LGL21.jpg,0,0
-LGL22,4,2.3,Qualcomm Snapdragon 800 MSM8974,1920.0,5.2,1080.0,l,LG,2048.0,32768.0,isai,android,4.4,/static/images/icons/LGL22.jpg,/static/images/phones/LGL22.jpg,1,1
-LGL23,4,2.3,Qualcomm Snapdragon 800 MSM8974,1280.0,6.0,720.0,l,LG,2048.0,32768.0,G Flex,android,4.2,/static/images/icons/LGL23.jpg,/static/images/phones/LGL23.jpg,1,1
-LGL24,4,2.4,Qualcomm Snapdragon 801 MSM8974AC,2560.0,5.5,1440.0,l,LG,2048.0,32768.0,isai FL,android,5,/static/images/icons/LGL24.jpg,/static/images/phones/LGL24.jpg,1,1
-LGL25,4,1.2,Qualcomm Snapdragon 400 MSM8926,1280.0,4.7,720.0,l,LG,1536.0,16384.0,Fx0,,2,/static/images/icons/LGL25.jpg,/static/images/phones/LGL25.jpg,0,0
-LGV31,4,2.5,Qualcomm Snapdragon 801 MSM8974AC,2560.0,5.5,1440.0,l,LG,3072.0,32768.0,isai VL,android,5,/static/images/icons/LGV31.jpg,/static/images/phones/LGV31.jpg,1,1
-LGV32,6,1.8,Qualcomm Snapdragon 808 MSM8992,2560.0,5.5,1440.0,l,LG,3072.0,32768.0,isai vivid,android,5.1,/static/images/icons/LGV32.jpg,/static/images/phones/LGV32.jpg,1,1
-LG_G2_mini,4,1.2,Qualcomm Snapdragon 400 MSM8226,960.0,4.7,540.0,l,LG,1024.0,8192.0,LG G2 mini,android,4.4,/static/images/icons/LG_G2_mini.jpg,/static/images/phones/LG_G2_mini.jpg,0,0
-LG_G3_Beat,4,1.2,Qualcomm Snapdragon 400 MSM8926,1280.0,5.0,720.0,l,LG,1024.0,8192.0,LG G3 Beat,android,4.4,/static/images/icons/LG_G3_Beat.jpg,/static/images/phones/LG_G3_Beat.jpg,0,0
-LINEAGE,4,1.3,ARM Cortex-A7,960.0,5.0,540.0,po,Polaroid,1024.0,4096.0,LINEAGE,android,4.2,/static/images/icons/LINEAGE.jpg,/static/images/phones/LINEAGE.jpg,0,0
-Liquid_Z200,2,1.0,MediaTek MT6572M,800.0,4.0,480.0,ac,Acer,512.0,4096.0,Liquid Z200,android,4.4,/static/images/icons/Liquid_Z200.jpg,/static/images/phones/Liquid_Z200.jpg,0,0
-Liquid_Z330,4,1.1,Qualcomm Snapdragon 210 MSM8909,854.0,4.5,480.0,ac,Acer,1024.0,8192.0,Liquid Z330,android,5.1,/static/images/icons/Liquid_Z330.jpg,/static/images/phones/Liquid_Z330.jpg,0,0
-Liquid_Z530,4,1.3,Mediatek MT6735,1280.0,5.0,720.0,ac,Acer,2048.0,16384.0,Liquid Z530,android,5.1,/static/images/icons/Liquid_Z530.jpg,/static/images/phones/Liquid_Z530.jpg,0,0
-MI_3W,4,2.3,Qualcomm MSM8274AB Snapdragon 801,1080.0,5.0,1920.0,,Xiaomi,2048.0,16384.0,Xiaomi Mi 3,android,4.4.2,/static/images/icons/MI_3W.jpg,/static/images/phones/MI_3W.jpg,1,1
-MI_4W,4,2.5,Qualcomm Snapdragon 801,1920.0,5.0,1080.0,,Xiaomi,3072.0,16384.0,Xiaomi Mi 4,android,4.4.4,/static/images/icons/MI_4W.jpg,/static/images/phones/MI_4W.jpg,1,1
-Mate_S,8,2.2,Hisilicon Kirin935,1920.0,5.5,1080.0,hw,Huawei,3072.0,131072.0,Mate S,android,5.1,/static/images/icons/Mate_S.jpg,/static/images/phones/Mate_S.jpg,1,1
-N-01D,1,1.4,Qualcomm Snapdragon MSM8255,800.0,4.0,480.0,n,NEC,512.0,2048.0,MEDIAS PP,android,2.3,/static/images/icons/N-01D.jpg,/static/images/phones/N-01D.jpg,0,0
-N-02E,2,1.5,Qualcomm Snapdragon MSM8960,800.0,4.0,480.0,n,NEC,1024.0,8192.0,MEDIAS U,android,4.1,/static/images/icons/N-02E.jpg,/static/images/phones/N-02E.jpg,0,0
-N-02E_ONE_PIECE,2,1.5,Qualcomm Snapdragon MSM8960,800.0,4.0,480.0,n,NEC,1024.0,8192.0,N-02E,android,4.1,/static/images/icons/N-02E_ONE_PIECE.jpg,/static/images/phones/N-02E_ONE_PIECE.jpg,0,0
-N-03E,4,1.5,Qualcomm Snapdragon APQ8064,1280.0,4.7,720.0,n,NEC,2048.0,32768.0,Disney Mobile on docomo,android,4.1,/static/images/icons/N-03E.jpg,/static/images/phones/N-03E.jpg,0,0
-N-04D,2,1.2,Qualcomm Snapdragon APQ8060,1280.0,4.3,720.0,n,NEC,1024.0,16384.0,MEDIAS LTE,android,4,/static/images/icons/N-04D.jpg,/static/images/phones/N-04D.jpg,0,0
-N-04E,4,1.5,Qualcomm Snapdragon S4 Pro APQ8064,1280.0,4.7,720.0,n,NEC,2048.0,32768.0,MEDIAS X,android,4.1,/static/images/icons/N-04E.jpg,/static/images/phones/N-04E.jpg,0,0
-N-05D,2,1.5,Qualcomm Snapdragon MSM8260,1280.0,4.3,720.0,n,NEC,1024.0,4096.0,MEDIAS ES,android,4,/static/images/icons/N-05D.jpg,/static/images/phones/N-05D.jpg,0,0
-N-05E,2,1.5,Qualcomm Snapdragon S4 MSM8960,960.0,4.3,540.0,n,NEC,1024.0,16384.0,MEDIAS W,android,4.1,/static/images/icons/N-05E.jpg,/static/images/phones/N-05E.jpg,0,0
-N-06C,1,1.0,Qualcomm Snapdragon MSM8255,854.0,4.0,480.0,n,NEC,512.0,1024.0,MEDIAS WP,android,2.3,/static/images/icons/N-06C.jpg,/static/images/phones/N-06C.jpg,0,0
-N-06E,4,1.7,Qualcomm Snapdragon 600 APQ8064T,1280.0,4.7,720.0,n,NEC,2048.0,32768.0,MEDIAS X,android,4.2,/static/images/icons/N-06E.jpg,/static/images/phones/N-06E.jpg,0,0
-N-07D,2,1.5,Qualcomm Snapdragon MSM8960,1280.0,4.3,720.0,n,NEC,1024.0,8192.0,MEDIAS X,android,4.1,/static/images/icons/N-07D.jpg,/static/images/phones/N-07D.jpg,0,0
-NE-202,2,1.5,Qualcomm Snapdragon MSM8960,1280.0,4.3,720.0,n,NEC,1024.0,8192.0,MEDIAS for BIGLOBE LTE,android,4,/static/images/icons/NE-202.jpg,/static/images/phones/NE-202.jpg,0,0
-Nexus7,4,1.2,NVIDIA Tegra 3 Cortex-A9,1920.0,7.02,1200.0,as,ASUS,1024.0,32768.0,Nexus 7,android,4.3,/static/images/icons/Nexus7.jpg,/static/images/phones/Nexus7.jpg,0,0
-Nexus_5,4,2.26,Qualcomm Snapdragon 800 MSM8974,1920.0,5.0,1080.0,l,LG,2048.0,32768.0,Nexus 5,android,6,/static/images/icons/Nexus_5.jpg,/static/images/phones/Nexus_5.jpg,1,1
-Nexus_5X,6,1.8,Qualcomm Snapdragon 808 MSM8992,1920.0,5.2,1080.0,l,LG,2048.0,32768.0,Nexus 5X,android,6,/static/images/icons/Nexus_5X.jpg,/static/images/phones/Nexus_5X.jpg,1,1
-Nexus_5X_,6,1.8,Qualcomm Snapdragon 808 MSM8992,1920.0,5.2,1080.0,l,LG,2048.0,32768.0,Nexus 5X,android,6,/static/images/icons/Nexus_5X_.jpg,/static/images/phones/Nexus_5X_.jpg,1,1
-Nexus_6,4,2.7,Qualcomm Snapdragon 805 APQ8084,2560.0,5.96,1440.0,m,Motorola,3072.0,65536.0,Nexus 6,android,6,/static/images/icons/Nexus_6.jpg,/static/images/phones/Nexus_6.jpg,1,1
-Nexus_6P,8,2.0,Qualcomm Snapdragon 810 MSM8994,2560.0,5.7,1440.0,hw,Huawei,3072.0,65536.0,Nexus 6P,android,6,/static/images/icons/Nexus_6P.jpg,/static/images/phones/Nexus_6P.jpg,1,1
-Nexus_7_2012,4,1.2,Qualcomm Snapdragon 400 MSM8926,1280.0,7.0,800.0,as,ASUS,1024.0,8192.0,Nexus 7 (2012),android,4.3,/static/images/icons/Nexus_7_2012.jpg,/static/images/phones/Nexus_7_2012.jpg,0,0
-Nexus_7_2013,4,1.51,Krait 300,1920.0,7.02,1200.0,as,ASUS,2048.0,16384.0,Nexus 7 (2013),android,4.3,/static/images/icons/Nexus_7_2013.jpg,/static/images/phones/Nexus_7_2013.jpg,1,1
-Nexus_9,2,2.3,Nvidia Tegra K1 64 bits,2048.0,8.9,1536.0,,HTC,2048.0,16384.0,Nexus 9,android,5,/static/images/icons/Nexus_9.jpg,/static/images/phones/Nexus_9.jpg,1,0
-P-02D,2,1.0,Texas Instruments OMAP4430,960.0,4.0,540.0,p,Panasonic,1024.0,2048.0,LUMIX Phone,android,4,/static/images/icons/P-02D.jpg,/static/images/phones/P-02D.jpg,0,0
-P-02E,4,1.5,Qualcomm Snapdragon S4 Pro APQ8064,1920.0,5.0,1080.0,p,Panasonic,2048.0,32768.0,ELUGA X,android,4.1,/static/images/icons/P-02E.jpg,/static/images/phones/P-02E.jpg,1,0
-P-03E,4,1.7,Qualcomm Snapdragon 600 APQ8064T,1920.0,4.7,1080.0,p,Panasonic,2048.0,32768.0,ELUGA P,android,4.2,/static/images/icons/P-03E.jpg,/static/images/phones/P-03E.jpg,0,0
-P-04D,2,1.0,Texas Instruments OMAP4430,960.0,4.3,540.0,p,Panasonic,1024.0,16384.0,P-04D,android,4,/static/images/icons/P-04D.jpg,/static/images/phones/P-04D.jpg,0,0
-P-05D,2,1.0,Texas Instruments OMAP4430,960.0,4.3,540.0,p,Panasonic,1024.0,16384.0,Disney Mobile on docomo,android,4,/static/images/icons/P-05D.jpg,/static/images/phones/P-05D.jpg,0,0
-P-06D,2,1.5,Texas Instruments OMAP4460,1280.0,4.6,720.0,p,Panasonic,1024.0,8192.0,ELUGA V,android,4,/static/images/icons/P-06D.jpg,/static/images/phones/P-06D.jpg,0,0
-P-07C,1,1.0,Texas Instruments OMAP3630,854.0,4.3,480.0,p,Panasonic,512.0,1024.0,P-07C,android,2.3,/static/images/icons/P-07C.jpg,/static/images/phones/P-07C.jpg,0,0
-P-07D,2,1.5,Qualcomm Snapdragon MSM8960,1280.0,5.0,720.0,p,Panasonic,1024.0,8192.0,ELUGA power,android,4,/static/images/icons/P-07D.jpg,/static/images/phones/P-07D.jpg,0,0
-P8lite,8,1.2,Hisilicon Kirin620,1280.0,5.0,720.0,hw,Huawei,2048.0,16384.0,P8lite,android,5,/static/images/icons/P8lite.jpg,/static/images/phones/P8lite.jpg,0,0
-P8max,8,2.2,Hisilicon Kirin935,1920.0,6.8,1080.0,hw,Huawei,3072.0,32768.0,P8max,android,5.1,/static/images/icons/P8max.jpg,/static/images/phones/P8max.jpg,1,1
-PTL21,2,1.5,Qualcomm Snapdragon MSM8960,1280.0,4.3,720.0,pt,Pantech,1024.0,16384.0,VEGA,android,4.1,/static/images/icons/PTL21.jpg,/static/images/phones/PTL21.jpg,0,0
-PolaSma,4,1.3,Cortex-A7,960.0,5.0,540.0,po,Polaroid,1024.0,4096.0,PolaSma,android,4.2,/static/images/icons/PolaSma.jpg,/static/images/phones/PolaSma.jpg,0,0
-S301,4,1.2,Qualcomm Snapdragon 410 MSM8916,960.0,5.0,540.0,k,KYOCERA,1024.0,8192.0,S301,android,4.4,/static/images/icons/S301.jpg,/static/images/phones/S301.jpg,0,0
-SC-01F,4,2.3,Qualcomm Snapdragon 800 MSM8974,1920.0,5.7,1080.0,sc,SAMSUNG,3072.0,32768.0,GALAXY Note 3,android,5,/static/images/icons/SC-01F.jpg,/static/images/phones/SC-01F.jpg,1,1
-SC-01G,4,2.7,Qualcomm Snapdragon 805 APQ8084,2560.0,5.6,1600.0,sc,SAMSUNG,3072.0,32768.0,GALAXY Note Edge,android,5,/static/images/icons/SC-01G.jpg,/static/images/phones/SC-01G.jpg,1,1
-SC-01H,4,1.2,Qualcomm Snapdragon 410 MSM8916,800.0,4.5,480.0,sc,SAMSUNG,2048.0,16384.0,Galaxy Active neo ,android,5.1,/static/images/icons/SC-01H.jpg,/static/images/phones/SC-01H.jpg,0,0
-SC-02B,1,1.0,Samsung S5PC110,800.0,4.0,480.0,sc,SAMSUNG,512.0,16896.0,GALAXY S,android,2.3,/static/images/icons/SC-02B.jpg,/static/images/phones/SC-02B.jpg,0,0
-SC-02C,2,1.2,Samsung S5PC210,800.0,4.3,480.0,sc,SAMSUNG,1024.0,16384.0,GALAXY S II,android,4,/static/images/icons/SC-02C.jpg,/static/images/phones/SC-02C.jpg,0,0
-SC-02E,4,1.6,Samsung Exynos4412,1280.0,5.5,720.0,sc,SAMSUNG,2048.0,32768.0,GALAXY Note II,android,4.3,/static/images/icons/SC-02E.jpg,/static/images/phones/SC-02E.jpg,1,1
-SC-02F,4,2.3,Qualcomm Snapdragon 800 MSM8974,1920.0,5.0,1080.0,sc,SAMSUNG,3072.0,32768.0,GALAXY J,android,5,/static/images/icons/SC-02F.jpg,/static/images/phones/SC-02F.jpg,1,1
-SC-02G,4,2.5,Qualcomm Snapdragon 801 MSM8974AC,1920.0,5.1,1080.0,sc,SAMSUNG,2048.0,16384.0,GALAXY S5 ACTIVE,android,5,/static/images/icons/SC-02G.jpg,/static/images/phones/SC-02G.jpg,1,1
-SC-03D,2,1.5,Qualcomm Snapdragon APQ8060,800.0,4.5,480.0,sc,SAMSUNG,1024.0,16384.0,GALAXY S II LTE,android,4,/static/images/icons/SC-03D.jpg,/static/images/phones/SC-03D.jpg,0,0
-SC-03E,4,1.6,Samsung Exynos4412,1280.0,4.8,720.0,sc,SAMSUNG,2048.0,32768.0,GALAXY S III α,android,4.3,/static/images/icons/SC-03E.jpg,/static/images/phones/SC-03E.jpg,0,0
-SC-03G,4,2.3,Krait 400,2560.0,8.4,1600.0,,Samsung,3072.0,16384.0,GALAXY Tab S 8.4,android,4.4.2,/static/images/icons/SC-03G.jpg,/static/images/phones/SC-03G.jpg,1,1
-SC-04D,2,1.2,Texas Instruments OMAP4460,1280.0,4.7,720.0,sc,SAMSUNG,1024.0,16384.0,GALAXY NEXUS,android,4.2,/static/images/icons/SC-04D.jpg,/static/images/phones/SC-04D.jpg,0,0
-SC-04E,4,1.9,Qualcomm Snapdragon 600 APQ8064T,1920.0,5.0,1080.0,sc,SAMSUNG,2048.0,32768.0,GALAXY S4,android,5,/static/images/icons/SC-04E.jpg,/static/images/phones/SC-04E.jpg,1,1
-SC-04F,4,2.5,Qualcomm Snapdragon 801 MSM8974AC,1920.0,5.1,1080.0,sc,SAMSUNG,2048.0,32768.0,GALAXY S5,android,5,/static/images/icons/SC-04F.jpg,/static/images/phones/SC-04F.jpg,1,1
-SC-04G,8,2.1,Exynos7420,2560.0,5.1,1440.0,sc,SAMSUNG,3072.0,65536.0,Galaxy S6 edge,android,5,/static/images/icons/SC-04G.jpg,/static/images/phones/SC-04G.jpg,1,1
-SC-05D,2,1.5,Qualcomm Snapdragon APQ8060,1280.0,5.3,800.0,sc,SAMSUNG,1024.0,16384.0,GALAXY Note,android,4.1,/static/images/icons/SC-05D.jpg,/static/images/phones/SC-05D.jpg,0,0
-SC-05G,8,2.1,Exynos7420,2560.0,5.1,1440.0,sc,SAMSUNG,3072.0,32768.0,Galaxy S6,android,5,/static/images/icons/SC-05G.jpg,/static/images/phones/SC-05G.jpg,1,1
-SC-06D,2,1.5,Qualcomm Snapdragon MSM8960,1280.0,4.8,720.0,sc,SAMSUNG,2048.0,32768.0,Galaxy S III,android,4.1,/static/images/icons/SC-06D.jpg,/static/images/phones/SC-06D.jpg,0,0
-SCL21,2,1.5,Qualcomm Snapdragon MSM8960,1280.0,4.8,720.0,sc,SAMSUNG,2048.0,32768.0,GALAXY S III Progre,android,4.1,/static/images/icons/SCL21.jpg,/static/images/phones/SCL21.jpg,0,0
-SCL22,4,2.3,Qualcomm Snapdragon 800 MSM8974,1920.0,5.7,1080.0,sc,SAMSUNG,3072.0,32768.0,GALAXY Note 3,android,5,/static/images/icons/SCL22.jpg,/static/images/phones/SCL22.jpg,1,1
-SCL23,4,2.5,Qualcomm Snapdragon 801 MSM8974AC,1920.0,5.1,1080.0,sc,SAMSUNG,2048.0,32768.0,GALAXY S5,android,5,/static/images/icons/SCL23.jpg,/static/images/phones/SCL23.jpg,1,1
-SCL24,4,2.7,Qualcomm Snapdragon 805 APQ8084,2560.0,5.6,1600.0,sc,SAMSUNG,3072.0,32768.0,GALAXY Note Edge,android,4.4,/static/images/icons/SCL24.jpg,/static/images/phones/SCL24.jpg,1,1
-SCV31,8,2.1,Exynos7420,2560.0,5.1,1440.0,sc,SAMSUNG,3072.0,65536.0,Galaxy S6 edge,android,5,/static/images/icons/SCV31.jpg,/static/images/phones/SCV31.jpg,1,1
-SCV32,8,1.9,Exynos5433,1920.0,5.7,1080.0,sc,SAMSUNG,2048.0,32768.0,Galaxy A8,android,5.1,/static/images/icons/SCV32.jpg,/static/images/phones/SCV32.jpg,1,1
-SD4930UR,4,2.26,Krait 400,1280.0,4.7,720.0,,Amazon,2048.0,32768.0,Fire Phone,android,4.2.2,/static/images/icons/SD4930UR.jpg,/static/images/phones/SD4930UR.jpg,0,0
-SGP511,4,2.3,Snapdragon 801,1200.0,10.1,1920.0,,SONY,3072.0,16384.0,Xperia Z2 Tablet,android,4.4.2,/static/images/icons/SGP511.jpg,/static/images/phones/SGP511.jpg,1,1
-SH-01D,2,1.0,Texas Instruments OMAP4430,1280.0,4.5,720.0,sh,SHARP,1024.0,2048.0,AQUOS Phone,android,4,/static/images/icons/SH-01D.jpg,/static/images/phones/SH-01D.jpg,0,0
-SH-01E,2,1.5,Qualcomm Snapdragon MSM8960,960.0,4.1,540.0,sh,SHARP,1024.0,16384.0,AQUOS PHONE si,android,4.1,/static/images/icons/SH-01E.jpg,/static/images/phones/SH-01E.jpg,0,0
-SH-01E_Vivienne_Westwood,2,1.5,Qualcomm Snapdragon MSM8960,960.0,4.1,540.0,sh,SHARP,1024.0,16384.0,SH-01E,android,4.1,/static/images/icons/SH-01E_Vivienne_Westwood.jpg,/static/images/phones/SH-01E_Vivienne_Westwood.jpg,0,0
-SH-01F,4,2.2,Qualcomm Snapdragon 800 MSM8974,1920.0,5.0,1080.0,sh,SHARP,2048.0,32768.0,AQUOS PHONE ZETA,android,4.4,/static/images/icons/SH-01F.jpg,/static/images/phones/SH-01F.jpg,1,1
-SH-01F_DRAGON_QUEST,4,2.2,Qualcomm Snapdragon 800 MSM8974,1920.0,5.0,1080.0,sh,SHARP,2048.0,32768.0,SH-01F,android,4.2,/static/images/icons/SH-01F_DRAGON_QUEST.jpg,/static/images/phones/SH-01F_DRAGON_QUEST.jpg,1,1
-SH-01G,4,2.3,Qualcomm、Snapdragon 801 MSM8974AB,1920.0,5.5,1080.0,sh,SHARP,2048.0,32768.0,AQUOS ZETA,android,5,/static/images/icons/SH-01G.jpg,/static/images/phones/SH-01G.jpg,1,1
-SH-01H,6,1.8,Qualcomm Snapdragon 808 MSM8992,1920.0,5.3,1080.0,sh,SHARP,3072.0,32768.0,AQUOS ZETA,android,5.1,/static/images/icons/SH-01H.jpg,/static/images/phones/SH-01H.jpg,1,1
-SH-02E,4,1.5,Qualcomm Snapdragon APQ8064,1280.0,4.9,720.0,sh,SHARP,2048.0,32768.0,AQUOS PHONE ZETA,android,4.1,/static/images/icons/SH-02E.jpg,/static/images/phones/SH-02E.jpg,0,0
-SH-02F,4,2.2,Qualcomm Snapdragon 800 MSM8974,1920.0,4.5,1080.0,sh,SHARP,2048.0,16384.0,AQUOS PHONE EX,android,4.2,/static/images/icons/SH-02F.jpg,/static/images/phones/SH-02F.jpg,0,0
-SH-02G,4,2.3,Qualcomm、Snapdragon 801 MSM8974AB,1920.0,5.5,1080.0,sh,SHARP,2048.0,32768.0,Disney Mobile on docomo,android,4.4,/static/images/icons/SH-02G.jpg,/static/images/phones/SH-02G.jpg,1,1
-SH-02H,6,1.8,Qualcomm Snapdragon 808 MSM8992,1920.0,4.7,1080.0,sh,SHARP,3072.0,16384.0,AQUOS Compact,android,5.1,/static/images/icons/SH-02H.jpg,/static/images/phones/SH-02H.jpg,0,0
-SH-03G,8,2.0,Qualcomm Snapdragon 810 MSM8994,1920.0,5.5,1080.0,sh,SHARP,3072.0,32768.0,AQUOS ZETA,android,5,/static/images/icons/SH-03G.jpg,/static/images/phones/SH-03G.jpg,1,1
-SH-04E,4,1.5,Qualcomm Snapdragon S4 Pro APQ8064,1280.0,4.5,720.0,sh,SHARP,2048.0,16384.0,AQUOS PHONE EX,android,4.1,/static/images/icons/SH-04E.jpg,/static/images/phones/SH-04E.jpg,0,0
-SH-04F,4,2.3,Qualcomm Snapdragon 801 MSM8974AB,1920.0,5.4,1080.0,sh,SHARP,2048.0,32768.0,AQUOS ZETA,android,5,/static/images/icons/SH-04F.jpg,/static/images/phones/SH-04F.jpg,1,1
-SH-04G,4,1.2,Qualcomm Snapdragon 400 MSM8926,1280.0,5.0,720.0,sh,SHARP,2048.0,16384.0,AQUOS EVER,android,5,/static/images/icons/SH-04G.jpg,/static/images/phones/SH-04G.jpg,0,0
-SH-05F,4,2.2,Qualcomm Snapdragon 800 MSM8974,1920.0,5.0,1080.0,sh,SHARP,2048.0,32768.0,Disney Mobile on docomo,android,4.2,/static/images/icons/SH-05F.jpg,/static/images/phones/SH-05F.jpg,1,1
-SH-05G,8,1.5,Qualcomm MSM8994,1200.0,7.0,1920.0,,SHARP,2048.0,32768.0,AQUOS PAD,android,5.0.2,/static/images/icons/SH-05G.jpg,/static/images/phones/SH-05G.jpg,1,0
-SH-06D,2,1.2,Texas Instruments OMAP4460,1280.0,4.5,720.0,sh,SHARP,1024.0,8192.0,AQUOS PHONE,android,4,/static/images/icons/SH-06D.jpg,/static/images/phones/SH-06D.jpg,0,0
-SH-06DNERV,2,1.2,Texas Instruments OMAP4460,1280.0,4.5,720.0,sh,SHARP,1024.0,8192.0,SH-06D NERV,android,4,/static/images/icons/SH-06DNERV.jpg,/static/images/phones/SH-06DNERV.jpg,0,0
-SH-06E,4,1.7,Qualcomm Snapdragon 600 APQ8064T,1920.0,4.8,1080.0,sh,SHARP,2048.0,32768.0,AQUOS PHONE ZETA,android,4.2,/static/images/icons/SH-06E.jpg,/static/images/phones/SH-06E.jpg,0,0
-SH-07E,4,1.7,Qualcomm Snapdragon 600 APQ8064T,1280.0,4.3,720.0,sh,SHARP,2048.0,32768.0,AQUOS PHONE si,android,4.2,/static/images/icons/SH-07E.jpg,/static/images/phones/SH-07E.jpg,0,0
-SH-09D,2,1.5,Qualcomm Snapdragon MSM8960,1280.0,4.7,720.0,sh,SHARP,1024.0,16384.0,AQUOS PHONE ZETA,android,4.1,/static/images/icons/SH-09D.jpg,/static/images/phones/SH-09D.jpg,0,0
-SH-10D,2,1.5,Qualcomm Snapdragon MSM8960,1280.0,4.5,720.0,sh,SHARP,1024.0,8192.0,AQUOS PHONE sv,android,4.1,/static/images/icons/SH-10D.jpg,/static/images/phones/SH-10D.jpg,0,0
-SH-12C,1,1.4,Qualcomm Snapdragon MSM8255T,960.0,4.2,540.0,sh,SHARP,512.0,2048.0,AQUOS PHONE,android,2.3,/static/images/icons/SH-12C.jpg,/static/images/phones/SH-12C.jpg,0,0
-SH-M01,4,2.2,Qualcomm Snapdragon 800 MSM8974,1920.0,4.5,1080.0,sh,SHARP,2048.0,16384.0,AQUOS SH-M01,android,4.4,/static/images/icons/SH-M01.jpg,/static/images/phones/SH-M01.jpg,0,0
-SH-M02,4,1.2,Qualcomm Snapdragon 400 MSM8926,1280.0,5.0,720.0,sh,SHARP,2048.0,16384.0,AQUOS SH-M02,android,5,/static/images/icons/SH-M02.jpg,/static/images/phones/SH-M02.jpg,0,0
-SHIELD_Tablet,4,2.2,Cortex-A15,1200.0,8.0,1920.0,,Nvidia,2048.0,16384.0,SHIELD Tablet,android,4.4.2,/static/images/icons/SHIELD_Tablet.jpg,/static/images/phones/SHIELD_Tablet.jpg,1,1
-SHL21,2,1.5,Qualcomm Snapdragon MSM8960,1280.0,4.7,720.0,sh,SHARP,1024.0,16384.0,AQUOS PHONE SERIE,android,4.1,/static/images/icons/SHL21.jpg,/static/images/phones/SHL21.jpg,0,0
-SHL22,4,1.7,Qualcomm Snapdragon 600 APQ8064T,1280.0,4.9,720.0,sh,SHARP,2048.0,16384.0,AQUOS PHONE SERIE,android,4.2,/static/images/icons/SHL22.jpg,/static/images/phones/SHL22.jpg,0,0
-SHL23,4,2.2,Qualcomm Snapdragon 800 MSM8974,1920.0,4.8,1080.0,sh,SHARP,2048.0,16384.0,AQUOS PHONE SERIE,android,4.2,/static/images/icons/SHL23.jpg,/static/images/phones/SHL23.jpg,0,0
-SHL24,4,2.2,Qualcomm Snapdragon 800 MSM8974,1920.0,4.5,1080.0,sh,SHARP,2048.0,16384.0,AQUOS PHONE SERIE mini,android,4.2,/static/images/icons/SHL24.jpg,/static/images/phones/SHL24.jpg,0,0
-SHL25,4,2.3,Qualcomm Snapdragon 801 MSM8974AB,1920.0,5.2,1080.0,sh,SHARP,2048.0,32768.0,AQUOS SERIE,android,5,/static/images/icons/SHL25.jpg,/static/images/phones/SHL25.jpg,1,1
-SHV31,4,2.3,Qualcomm Snapdragon 800 MSM8974AB,1920.0,4.5,1080.0,sh,SHARP,2048.0,16384.0,AQUOS SERIE mini,android,4.4,/static/images/icons/SHV31.jpg,/static/images/phones/SHV31.jpg,0,0
-SHV32,8,2.0,Qualcomm Snapdragon 810 MSM8994,1920.0,5.0,1080.0,sh,SHARP,3072.0,32768.0,AQUOS SERIE,android,5,/static/images/icons/SHV32.jpg,/static/images/phones/SHV32.jpg,1,1
-SKT01,2,1.2,Qualcomm Snapdragon S4 MSM8960,800.0,4.0,480.0,k,KYOCERA,1536.0,8192.0,TORQUE,android,4.2,/static/images/icons/SKT01.jpg,/static/images/phones/SKT01.jpg,0,0
-SM-P905,4,2.3,Qualcomm Snapdragon 800,1600.0,12.2,2560.0,,Samsung,3072.0,32768.0,Galaxy Note Pro 12.2 LTE,android,4.4.2,/static/images/icons/SM-P905.jpg,/static/images/phones/SM-P905.jpg,1,1
-SO-01C,1,1.0,Qualcomm Snapdragon MSM8255,854.0,4.2,480.0,so,Sony mobile,512.0,1024.0,Xperia arc,android,2.3,/static/images/icons/SO-01C.jpg,/static/images/phones/SO-01C.jpg,0,0
-SO-01D,1,1.0,Qualcomm Snapdragon MSM8655,854.0,4.0,480.0,so,Sony mobile,512.0,16384.0,Xperia PLAY,android,2.3,/static/images/icons/SO-01D.jpg,/static/images/phones/SO-01D.jpg,0,0
-SO-01E,2,1.5,Qualcomm Snapdragon MSM8960,1280.0,4.3,720.0,so,Sony mobile,1024.0,16384.0,Xperia AX,android,4.1,/static/images/icons/SO-01E.jpg,/static/images/phones/SO-01E.jpg,0,0
-SO-01F,4,2.2,Qualcomm Snapdragon 800 MSM8974,1920.0,5.0,1080.0,so,Sony mobile,2048.0,32768.0,Xperia Z1,android,4.4,/static/images/icons/SO-01F.jpg,/static/images/phones/SO-01F.jpg,1,1
-SO-01G,4,2.5,Qualcomm Snapdragon 801 MSM8974AC,1920.0,5.2,1080.0,so,Sony mobile,3072.0,32768.0,Xperia Z3,android,5,/static/images/icons/SO-01G.jpg,/static/images/phones/SO-01G.jpg,1,1
-SO-01H,8,2.0,Qualcomm Snapdragon 810 MSM8994,1920.0,5.2,1080.0,so,Sony mobile,3072.0,32768.0,Xperia Z5,android,5.1,/static/images/icons/SO-01H.jpg,/static/images/phones/SO-01H.jpg,1,1
-SO-02C,1,1.0,Qualcomm Snapdragon MSM8255,854.0,4.2,480.0,so,Sony mobile,512.0,1024.0,Xperia acro,android,2.3,/static/images/icons/SO-02C.jpg,/static/images/phones/SO-02C.jpg,0,0
-SO-02D,2,1.5,Qualcomm Snapdragon MSM8260,1280.0,4.3,720.0,so,Sony mobile,1024.0,32768.0,Xperia NX,android,4,/static/images/icons/SO-02D.jpg,/static/images/phones/SO-02D.jpg,0,0
-SO-02E,4,1.5,Qualcomm Snapdragon S4 Pro APQ8064,1920.0,5.0,1080.0,so,Sony mobile,2048.0,16384.0,Xperia Z,android,4.4,/static/images/icons/SO-02E.jpg,/static/images/phones/SO-02E.jpg,1,0
-SO-02F,4,2.2,Qualcomm Snapdragon 800 MSM8974,1280.0,4.3,720.0,so,Sony mobile,2048.0,16384.0,Xperia Z1 f,android,4.4,/static/images/icons/SO-02F.jpg,/static/images/phones/SO-02F.jpg,0,0
-SO-02G,4,2.5,Qualcomm Snapdragon 801 MSM8974AC,1280.0,4.6,720.0,so,Sony mobile,2048.0,16384.0,Xperia Z3 Compact,android,5,/static/images/icons/SO-02G.jpg,/static/images/phones/SO-02G.jpg,0,0
-SO-02H,8,2.0,Qualcomm Snapdragon 810 MSM8994,1280.0,4.6,720.0,so,Sony mobile,2048.0,32768.0,Xperia Z5 Compact,android,5.1,/static/images/icons/SO-02H.jpg,/static/images/phones/SO-02H.jpg,0,0
-SO-03D,2,1.5,Qualcomm Snapdragon MSM8260,1280.0,4.3,720.0,so,Sony mobile,1024.0,16384.0,Xperia acro HD,android,4,/static/images/icons/SO-03D.jpg,/static/images/phones/SO-03D.jpg,0,0
-SO-03F,4,2.3,Qualcomm Snapdragon 801 MSM8974AB,1920.0,5.2,1080.0,so,Sony mobile,3072.0,32768.0,Xperia Z2,android,5,/static/images/icons/SO-03F.jpg,/static/images/phones/SO-03F.jpg,1,1
-SO-03G,8,2.0,Qualcomm Snapdragon 810 MSM8994,1920.0,5.2,1080.0,so,Sony mobile,3072.0,32768.0,Xperia Z4,android,5,/static/images/icons/SO-03G.jpg,/static/images/phones/SO-03G.jpg,1,1
-SO-03H,8,2.0,Qualcomm Snapdragon 810 MSM8994,3840.0,5.5,2160.0,so,Sony mobile,3072.0,32768.0,Xperia Z5 Premium,android,5.1,/static/images/icons/SO-03H.jpg,/static/images/phones/SO-03H.jpg,1,1
-SO-04D,2,1.5,Qualcomm Snapdragon MSM8960,1280.0,4.6,720.0,so,Sony mobile,1024.0,16384.0,Xperia GX,android,4.1,/static/images/icons/SO-04D.jpg,/static/images/phones/SO-04D.jpg,0,0
-SO-04E,4,1.5,Qualcomm Snapdragon S4 Pro APQ8064,1280.0,4.6,720.0,so,Sony mobile,2048.0,32768.0,Xperia A,android,4.2,/static/images/icons/SO-04E.jpg,/static/images/phones/SO-04E.jpg,0,0
-SO-04E_MIKU,4,1.5,Qualcomm Snapdragon S4 Pro APQ8064,1280.0,4.6,720.0,so,Sony mobile,2048.0,32768.0,Xperia feat. HATSUNE MIKU,android,4.2,/static/images/icons/SO-04E_MIKU.jpg,/static/images/phones/SO-04E_MIKU.jpg,0,0
-SO-04F,4,2.2,Qualcomm Snapdragon 800 MSM8974,1280.0,4.3,720.0,so,Sony mobile,2048.0,16384.0,Xperia A2,android,4.4,/static/images/icons/SO-04F.jpg,/static/images/phones/SO-04F.jpg,0,0
-SO-04G,4,2.5,Qualcomm Snapdragon 801 MSM8974AC,1280.0,4.6,720.0,so,Sony mobile,2048.0,16384.0,Xperia A4,android,5,/static/images/icons/SO-04G.jpg,/static/images/phones/SO-04G.jpg,0,0
-SO-05G,8,1.5,Qualcomm MSM8994,1600.0,10.1,2560.0,,SONY,3072.0,32768.0,Xperia Z4 Tablet,android,5.0.2,/static/images/icons/SO-05G.jpg,/static/images/phones/SO-05G.jpg,1,0
-SOL21,2,1.5,Qualcomm Snapdragon MSM8960,1280.0,4.3,720.0,so,Sony mobile,1024.0,16384.0,Xperia VL,android,4.1,/static/images/icons/SOL21.jpg,/static/images/phones/SOL21.jpg,0,0
-SOL22,4,1.5,Qualcomm Snapdragon S4 Pro APQ8064,1920.0,5.0,1080.0,so,Sony mobile,2048.0,16384.0,Xperia UL,android,4.2,/static/images/icons/SOL22.jpg,/static/images/phones/SOL22.jpg,1,0
-SOL23,4,2.2,Qualcomm Snapdragon 800 MSM8974,1920.0,5.0,1080.0,so,Sony mobile,2048.0,32768.0,Xperia Z1,android,4.4,/static/images/icons/SOL23.jpg,/static/images/phones/SOL23.jpg,1,1
-SOL24,4,2.2,Qualcomm Snapdragon 800 MSM8974,1920.0,6.4,1080.0,so,Sony mobile,2048.0,32768.0,Xperia Z Ultra,android,4.4,/static/images/icons/SOL24.jpg,/static/images/phones/SOL24.jpg,1,1
-SOL25,4,2.3,Qualcomm Snapdragon 801 MSM8974AB,1920.0,5.0,1080.0,so,Sony mobile,3072.0,32768.0,Xperia ZL2,android,5,/static/images/icons/SOL25.jpg,/static/images/phones/SOL25.jpg,1,1
-SOL26,4,2.5,Qualcomm Snapdragon 801 MSM8974AC,1920.0,5.2,1080.0,so,Sony mobile,3072.0,32768.0,Xperia Z3,android,5,/static/images/icons/SOL26.jpg,/static/images/phones/SOL26.jpg,1,1
-SOV31,8,2.0,Qualcomm Snapdragon 810 MSM8994,1920.0,5.2,1080.0,so,Sony mobile,3072.0,32768.0,Xperia Z4,android,5,/static/images/icons/SOV31.jpg,/static/images/phones/SOV31.jpg,1,1
-SOV32,8,2.0,Qualcomm Snapdragon 810 MSM8994,1920.0,5.2,1080.0,so,Sony mobile,3072.0,32768.0,Xperia Z5,android,5.1,/static/images/icons/SOV32.jpg,/static/images/phones/SOV32.jpg,1,1
-Spray_402LG,4,1.2,Qualcomm Snapdragon 400 MSM8926,1280.0,4.5,720.0,l,LG,1536.0,8192.0,Spray 402LG,android,4.4,/static/images/icons/Spray_402LG.jpg,/static/images/phones/Spray_402LG.jpg,0,0
-T-01C,1,1.0,Qualcomm Snapdragon QSD8250,854.0,4.0,480.0,t,Fujitsu Toshiba,512.0,1024.0,REGZA Phone,android,2.2,/static/images/icons/T-01C.jpg,/static/images/phones/T-01C.jpg,0,0
-T-01D,2,1.2,Texas Instruments OMAP4430,1280.0,4.3,720.0,t,Fujitsu Toshiba,1024.0,4096.0,REGZA Phone,android,4,/static/images/icons/T-01D.jpg,/static/images/phones/T-01D.jpg,0,0
-T-02D,2,1.5,Qualcomm Snapdragon MSM8960,960.0,4.3,540.0,t,Fujitsu Toshiba,1024.0,8192.0,REGZA Phone,android,4.1,/static/images/icons/T-02D.jpg,/static/images/phones/T-02D.jpg,0,0
-URBANO_PROGRESSO,1,1.4,Qualcomm Snapdragon MSM8655,800.0,4.0,480.0,k,KYOCERA,1024.0,4096.0,URBANO PROGRESSO,android,4,/static/images/icons/URBANO_PROGRESSO.jpg,/static/images/phones/URBANO_PROGRESSO.jpg,0,0
-V02,4,1.4,Qualcomm Snapdragon 400 MSM8928,1280.0,5.0,720.0,k,KYOCERA,2048.0,16384.0,URBANO,android,5.1,/static/images/icons/V02.jpg,/static/images/phones/V02.jpg,1,0
-VAIO_Phone,4,1.2,Qualcomm Snapdragon 410 MSM8916,1280.0,5.0,720.0,v,VAIO,2048.0,16384.0,VAIO Phone,android,5,/static/images/icons/VAIO_Phone.jpg,/static/images/phones/VAIO_Phone.jpg,0,0
-WX04K,2,1.2,ルネサス R-Mobile APE5R,800.0,4.0,480.0,k,KYOCERA,1024.0,2048.0,DIGNO DUAL,android,4.1,/static/images/icons/WX04K.jpg,/static/images/phones/WX04K.jpg,0,0
-WX04SH,2,1.5,Qualcomm Snapdragon S4 Plus MSM8260A,854.0,4.0,480.0,sh,SHARP,1024.0,8192.0,AQUOS PHONE es,android,4.1,/static/images/icons/WX04SH.jpg,/static/images/phones/WX04SH.jpg,0,0
-WX05SH,2,1.5,Qualcomm Snapdragon S4 Plus MSM8260A,854.0,4.0,480.0,sh,SHARP,1024.0,8192.0,AQUOS PHONE ef,android,4.1,/static/images/icons/WX05SH.jpg,/static/images/phones/WX05SH.jpg,0,0
-WX10K,2,1.5,Qualcomm Snapdragon MSM8960,1280.0,4.7,720.0,k,KYOCERA,1536.0,16384.0,DIGNO DUAL 2,android,4.2,/static/images/icons/WX10K.jpg,/static/images/phones/WX10K.jpg,0,0
-X9077,4,2.5,Qualcomm MSM8974AC Snapdragon 801,2560.0,5.5,1440.0,,Oppo,3072.0,32768.0,Oppo Find 7,android,4.3,/static/images/icons/X9077.jpg,/static/images/phones/X9077.jpg,1,1
-XT1053,2,1.7,Qualcomm Snapdragon S4 MSM8960DT,1280.0,4.7,720.0,,Motorola,2048.0,16384.0,Moto X (1st gen.),android,4.4.4,/static/images/icons/XT1053.jpg,/static/images/phones/XT1053.jpg,0,0
-XT1092,4,2.5,Qualcomm Snapdragon 801,1920.0,5.2,1080.0,,Motorola,2048.0,16384.0,Moto X (2nd gen.),android,4.4.4,/static/images/icons/XT1092.jpg,/static/images/phones/XT1092.jpg,1,1
-Xperia_J1_Compact,4,2.2,Qualcomm Snapdragon 800 MSM8974,1280.0,4.3,720.0,so,Sony mobile,2048.0,16384.0,Xperia J1 Compact,android,4.4,/static/images/icons/Xperia_J1_Compact.jpg,/static/images/phones/Xperia_J1_Compact.jpg,0,0
-Xperia_Z5,8,2.0,Qualcomm Snapdragon 810 MSM8994,1920.0,5.2,1080.0,so,Sony mobile,3072.0,32768.0,Xperia Z5,android,5.1,/static/images/icons/Xperia_Z5.jpg,/static/images/phones/Xperia_Z5.jpg,1,1
-ZenFone_2_Laser,4,1.2,Qualcomm Snapdragon 410 MSM8916,1280.0,5.0,720.0,as,ASUS,2048.0,16384.0,ZenFone 2 Laser,android,5,/static/images/icons/ZenFone_2_Laser.jpg,/static/images/phones/ZenFone_2_Laser.jpg,0,0
-ZenFone_2_ZE551ML,4,2.3,Intel Atom Quad Core Z3580,1920.0,5.5,1080.0,as,ASUS,4096.0,65536.0,ZenFone 2,android,5,/static/images/icons/ZenFone_2_ZE551ML.jpg,/static/images/phones/ZenFone_2_ZE551ML.jpg,1,1
-ZenFone_5_A500KL,4,1.2,Qualcomm Snapdragon 400 MSM8926,1280.0,5.0,720.0,as,ASUS,2048.0,32768.0,ZenFone 5,android,4.4,/static/images/icons/ZenFone_5_A500KL.jpg,/static/images/phones/ZenFone_5_A500KL.jpg,0,0
-ZenFone_Selfie,8,1.7,Qualcomm Snapdragon 615 MSM8939,1920.0,5.5,1080.0,as,ASUS,3072.0,16364.0,ZenFone Selfie,android,5,/static/images/icons/ZenFone_Selfie.jpg,/static/images/phones/ZenFone_Selfie.jpg,0,0
-_B6000-F,4,1.2,MediaTek MT8125,1600.0,8.0,1280.0,,Lenovo,1024.0,16384.0,Yoga Tablet 8,android,4.2,/static/images/icons/_B6000-F.jpg,/static/images/phones/_B6000-F.jpg,0,0
-_G750-U10,8,1.7,Mediatek MT6592,1280.0,5.5,720.0,,Huawei,2048.0,8192.0,Honor 3X,android,4.2.2,/static/images/icons/_G750-U10.jpg,/static/images/phones/_G750-U10.jpg,0,0
-_M8x,4,2.5,Qualcomm Snapdragon 801 MSM8974AC,1920.0,5.0,1080.0,,HTC,2048.0,16384.0,HTC One M8x LTE,android,4.4.2,/static/images/icons/_M8x.jpg,/static/images/phones/_M8x.jpg,1,1
-arrows_M02,4,1.2,Qualcomm Snapdragon 410 MSM8916,1280.0,5.0,720.0,f,Fujitsu,2048.0,16384.0,arrows M02,android,5.1,/static/images/icons/arrows_M02.jpg,/static/images/phones/arrows_M02.jpg,0,0
-freetel_XM,4,1.2,Qualcomm Snapdragon 400 MSM8926,1280.0,5.0,720.0,z,ZTE,1024.0,16384.0,freetel XM,android,4.4,/static/images/icons/freetel_XM.jpg,/static/images/phones/freetel_XM.jpg,0,0
-g01,4,1.3,MediaTek MT6582M,854.0,5.0,480.0,z,ZTE,1024.0,8192.0,g01,android,5,/static/images/icons/g01.jpg,/static/images/phones/g01.jpg,0,0
-g02,4,1.2,Qualcomm Snapdragon 410 MSM8916,1280.0,5.0,720.0,z,ZTE,1024.0,8192.0,g02,android,5,/static/images/icons/g02.jpg,/static/images/phones/g02.jpg,0,0
-g03,8,1.5,Qualcomm Snapdragon 615 MSM8939,1280.0,5.0,720.0,z,ZTE,2048.0,16384.0,g03,android,5,/static/images/icons/g03.jpg,/static/images/phones/g03.jpg,1,0
-g04,4,1.2,Qualcomm Snapdragon 400 MSM8926,1280.0,5.0,720.0,sh,SHARP,2048.0,16384.0,g04,android,5,/static/images/icons/g04.jpg,/static/images/phones/g04.jpg,0,0
-g05,8,1.5,Qualcomm Snapdragon 615 MSM8939,1920.0,5.0,1080.0,z,ZTE,3072.0,32768.0,g05,android,5.1,/static/images/icons/g05.jpg,/static/images/phones/g05.jpg,1,0
-honor6_Plus,8,1.8,Hisilicon Kirin925,1920.0,5.5,1080.0,hw,Huawei,3072.0,32768.0,honor6 Plus,android,5.1,/static/images/icons/honor6_Plus.jpg,/static/images/phones/honor6_Plus.jpg,1,1
-iPhone_3GS,1,0.6,Samsung S5PC100,480.0,3.5,320.0,a,Apple,256.0,32768.0,iPhone 3GS,ios,6.1.6,/static/images/icons/iPhone_3GS.jpg,/static/images/phones/iPhone_3GS.jpg,0,0
-iPhone_4,1,1.0,Apple A4,960.0,3.5,640.0,a,Apple,512.0,32768.0,iPhone 4,ios,7.1,/static/images/icons/iPhone_4.jpg,/static/images/phones/iPhone_4.jpg,0,0
-iPhone_4S,2,1.0,Apple A5,960.0,3.5,640.0,a,Apple,512.0,65536.0,iPhone 4S,ios,8.4,/static/images/icons/iPhone_4S.jpg,/static/images/phones/iPhone_4S.jpg,0,0
-iPhone_4S_,2,1.0,Apple A5,960.0,3.5,640.0,a,Apple,512.0,65536.0,iPhone 4S,ios,8.4,/static/images/icons/iPhone_4S_.jpg,/static/images/phones/iPhone_4S_.jpg,0,0
-iPhone_4S__,2,1.0,Apple A5,960.0,3.5,640.0,a,Apple,512.0,16384.0,iPhone 4S,ios,8.4,/static/images/icons/iPhone_4S__.jpg,/static/images/phones/iPhone_4S__.jpg,0,0
-iPhone_5,2,1.3,Apple A6,1136.0,4.0,640.0,a,Apple,1024.0,65536.0,iPhone 5,ios,8.4,/static/images/icons/iPhone_5.jpg,/static/images/phones/iPhone_5.jpg,0,0
-iPhone_5C,2,1.25,Apple A6,1136.0,4.0,640.0,a,Apple,1024.0,32768.0,iPhone 5c,ios,8.4,/static/images/icons/iPhone_5C.jpg,/static/images/phones/iPhone_5C.jpg,0,0
-iPhone_5C_,2,1.25,Apple A6,1136.0,4.0,640.0,a,Apple,1024.0,32768.0,iPhone 5c,ios,8.4,/static/images/icons/iPhone_5C_.jpg,/static/images/phones/iPhone_5C_.jpg,0,0
-iPhone_5C___,2,1.25,Apple A6,1136.0,4.0,640.0,a,Apple,1024.0,32768.0,iPhone 5c,ios,8.4,/static/images/icons/iPhone_5C___.jpg,/static/images/phones/iPhone_5C___.jpg,0,0
-iPhone_5S,2,1.3,Apple A7,1136.0,4.0,640.0,a,Apple,1024.0,65536.0,iPhone 5s,ios,8.4,/static/images/icons/iPhone_5S.jpg,/static/images/phones/iPhone_5S.jpg,0,0
-iPhone_5S_,2,1.3,Apple A7,1136.0,4.0,640.0,a,Apple,1024.0,65536.0,iPhone 5s,ios,8.4,/static/images/icons/iPhone_5S_.jpg,/static/images/phones/iPhone_5S_.jpg,0,0
-iPhone_5S___,2,1.3,Apple A7,1136.0,4.0,640.0,a,Apple,1024.0,65536.0,iPhone 5s,ios,8.4,/static/images/icons/iPhone_5S___.jpg,/static/images/phones/iPhone_5S___.jpg,0,0
-iPhone_5_,2,1.3,Apple A6,1136.0,4.0,640.0,a,Apple,1024.0,65536.0,iPhone 5,ios,8.4,/static/images/icons/iPhone_5_.jpg,/static/images/phones/iPhone_5_.jpg,0,0
-iPhone_6,2,1.4,Apple A8,1334.0,4.7,750.0,a,Apple,1024.0,131072.0,iPhone 6,ios,8.4,/static/images/icons/iPhone_6.jpg,/static/images/phones/iPhone_6.jpg,0,0
-iPhone_6_,2,1.4,Apple A8,1334.0,4.7,750.0,a,Apple,1024.0,131072.0,iPhone 6,ios,8.4,/static/images/icons/iPhone_6_.jpg,/static/images/phones/iPhone_6_.jpg,0,0
-iPhone_6_Plus,2,1.4,Apple A8,1920.0,5.5,1080.0,a,Apple,1024.0,131072.0,iPhone 6 Plus,ios,8.4,/static/images/icons/iPhone_6_Plus.jpg,/static/images/phones/iPhone_6_Plus.jpg,0,0
-iPhone_6_Plus_,2,1.4,Apple A8,1920.0,5.5,1080.0,a,Apple,1024.0,131072.0,iPhone 6 Plus,ios,8.4,/static/images/icons/iPhone_6_Plus_.jpg,/static/images/phones/iPhone_6_Plus_.jpg,0,0
-iPhone_6_Plus__,2,1.4,Apple A8,1920.0,5.5,1080.0,a,Apple,1024.0,131072.0,iPhone 6 Plus,ios,8.4,/static/images/icons/iPhone_6_Plus__.jpg,/static/images/phones/iPhone_6_Plus__.jpg,0,0
-iPhone_6__,2,1.4,Apple A8,1334.0,4.7,750.0,a,Apple,1024.0,131072.0,iPhone 6,ios,8.4,/static/images/icons/iPhone_6__.jpg,/static/images/phones/iPhone_6__.jpg,0,0
-iPhone_6s,2,1.8,Apple A9,1334.0,4.7,750.0,a,Apple,2048.0,131072.0,iPhone 6s,ios,9,/static/images/icons/iPhone_6s.jpg,/static/images/phones/iPhone_6s.jpg,0,0
-iPhone_6s,2,1.8,Apple A9,1334.0,4.7,750.0,a,Apple,2048.0,131072.0,iPhone 6s,ios,9,/static/images/icons/iPhone_6s.jpg,/static/images/phones/iPhone_6s.jpg,0,0
-iPhone_6s_Plus,2,1.8,Apple A9,1920.0,5.5,1080.0,a,Apple,2048.0,131072.0,iPhone 6s Plus,ios,9,/static/images/icons/iPhone_6s_Plus.jpg,/static/images/phones/iPhone_6s_Plus.jpg,1,0
-iPhone_6s_Plus_,2,1.8,Apple A9,1920.0,5.5,1080.0,a,Apple,2048.0,131072.0,iPhone 6s Plus,ios,9,/static/images/icons/iPhone_6s_Plus_.jpg,/static/images/phones/iPhone_6s_Plus_.jpg,1,0
-iPhone_6s_Plus__,2,1.8,Apple A9,1920.0,5.5,1080.0,a,Apple,2048.0,131072.0,iPhone 6s Plus,ios,9,/static/images/icons/iPhone_6s_Plus__.jpg,/static/images/phones/iPhone_6s_Plus__.jpg,1,0
-iPhone_6s__,2,1.8,Apple A9,1334.0,4.7,750.0,a,Apple,2048.0,131072.0,iPhone 6s,ios,9,/static/images/icons/iPhone_6s__.jpg,/static/images/phones/iPhone_6s__.jpg,0,0
+product_code,cpu_cores,cpu_freq,cpu_name,height,screen,width,maker_code,maker_name,memory_ram,memory_rom,name_ID,os_type,os_version,price,url_icon,url_photo,study_work,entertainment
+001DL,1,1,Qualcomm Snapdragon QSD8250,800,5,480,dl,DELL,512,2560,DELL Streak,android,2.2,372,/static/images/icons/001DL.jpg,/static/images/phones/001DL.jpg,0,0
+001HT,1,1,Qualcomm Snapdragon MSM8255,800,4.3,480,ht,HTC,768,1536,HTC Desire HD,android,2.3,141,/static/images/icons/001HT.jpg,/static/images/phones/001HT.jpg,0,0
+003P,1,1,Texas Instruments OMAP3630,854,4.3,480,p,Panasonic,512,1024,Sweety,android,2.3,158,/static/images/icons/003P.jpg,/static/images/phones/003P.jpg,0,0
+006SH,1,1.4,Qualcomm Snapdragon MSM8255T,960,4.2,540,sh,SHARP,512,1536,AQUOS PHONE,android,2.3,383,/static/images/icons/006SH.jpg,/static/images/phones/006SH.jpg,0,0
+009SH,1,1,Qualcomm Snapdragon MSM8255,960,4,540,sh,SHARP,512,2048,AQUOS PHONE THE PREMIUM,android,2.3,131,/static/images/icons/009SH.jpg,/static/images/phones/009SH.jpg,0,0
+009SH_Y,1,1,Qualcomm Snapdragon MSM8255,960,4,540,sh,SHARP,512,2048,Yahoo! Phone,android,2.3,249,/static/images/icons/009SH_Y.jpg,/static/images/phones/009SH_Y.jpg,0,0
+101DL,2,1.5,Qualcomm Snapdragon MSM8260,960,4.3,540,dl,DELL,1024,8192,DELL Streak Pro,android,2.3,387,/static/images/icons/101DL.jpg,/static/images/phones/101DL.jpg,0,0
+101F,2,1.5,Qualcomm Snapdragon MSM8960,960,4.3,540,f,Fujitsu,1024,8192,ARROWS A,android,4.1,377,/static/images/icons/101F.jpg,/static/images/phones/101F.jpg,0,0
+101N,1,1.4,Qualcomm Snapdragon MSM8255,800,4,480,n,NEC,512,2048,MEDIAS CH,android,2.3,262,/static/images/icons/101N.jpg,/static/images/phones/101N.jpg,0,0
+101P,2,1,Texas Instruments OMAP4430,960,4,540,p,Panasonic,1024,2048,LUMIX Phone,android,2.3,349,/static/images/icons/101P.jpg,/static/images/phones/101P.jpg,0,0
+102SH,2,1,Texas Instruments OMAP4430,1280,4.5,720,sh,SHARP,1024,4096,AQUOS PHONE,android,4,308,/static/images/icons/102SH.jpg,/static/images/phones/102SH.jpg,0,0
+102SHII,2,1,Texas Instruments OMAP4430,1280,4.5,720,sh,SHARP,1024,4096,AQUOS PHONE,android,4,369,/static/images/icons/102SHII.jpg,/static/images/phones/102SHII.jpg,0,0
+103SH,1,1.4,Qualcomm Snapdragon MSM8255,960,4,540,sh,SHARP,512,2253,AQUOS PHONE,android,2.3,397,/static/images/icons/103SH.jpg,/static/images/phones/103SH.jpg,0,0
+104SH,2,1.5,Texas Instruments OMAP4460,1280,4.5,720,sh,SHARP,1024,16384,AQUOS PHONE,android,4,351,/static/images/icons/104SH.jpg,/static/images/phones/104SH.jpg,0,0
+106SH,2,1.5,Qualcomm Snapdragon MSM8260A,1280,4.7,720,sh,SHARP,1024,32768,AQUOS PHONE Xx,android,4,349,/static/images/icons/106SH.jpg,/static/images/phones/106SH.jpg,0,0
+200SH,2,1.5,Qualcomm Snapdragon MSM8960,1280,4.5,720,sh,SHARP,1024,8192,PANTONE® 6,android,4.1,391,/static/images/icons/200SH.jpg,/static/images/phones/200SH.jpg,0,0
+201F,4,1.5,Qualcomm Snapdragon APQ8064,1280,4.7,720,f,Fujitsu,2048,32768,ARROWS A,android,4.1,265,/static/images/icons/201F.jpg,/static/images/phones/201F.jpg,0,0
+201HW,2,1.5,Qualcomm Snapdragon MSM8960,960,4.3,540,hw,Huawei,1024,4096,STREAM,android,4,380,/static/images/icons/201HW.jpg,/static/images/phones/201HW.jpg,0,0
+201HW_,2,1.5,Qualcomm Snapdragon MSM8960,960,4.3,540,hw,Huawei,1024,4096,STREAM,android,4,400,/static/images/icons/201HW_.jpg,/static/images/phones/201HW_.jpg,0,0
+201M,2,1.5,Qualcomm Snapdragon MSM8960,960,4.3,540,m,Motorola,1024,8192,RAZR M,android,4.1,366,/static/images/icons/201M.jpg,/static/images/phones/201M.jpg,0,0
+202F,4,1.7,Qualcomm Snapdragon 600 APQ8064T,1920,5,1080,f,Fujitsu,2048,65536,ARROWS A,android,4.2,357,/static/images/icons/202F.jpg,/static/images/phones/202F.jpg,1,1
+202K,2,1.5,Qualcomm Snapdragon MSM8960,1280,4.3,720,k,KYOCERA,1536,16384,DIGNO R,android,4.2,323,/static/images/icons/202K.jpg,/static/images/phones/202K.jpg,0,0
+203SH,4,1.5,Qualcomm Snapdragon APQ8064,1280,4.9,720,sh,SHARP,2048,32768,AQUOS PHONE Xx,android,4.1,379,/static/images/icons/203SH.jpg,/static/images/phones/203SH.jpg,0,0
+205SH,2,1.5,Qualcomm Snapdragon MSM8960,854,4,480,sh,SHARP,1024,8192,AQUOS PHONE ss,android,4.1,366,/static/images/icons/205SH.jpg,/static/images/phones/205SH.jpg,0,0
+206SH,4,1.7,Qualcomm Snapdragon 600 APQ8064T,1920,5,1080,sh,SHARP,2048,32768,AQUOS PHONE Xx,android,4.2,320,/static/images/icons/206SH.jpg,/static/images/phones/206SH.jpg,1,1
+301F,4,2.2,Qualcomm Snapdragon 800 MSM8974,1920,5,1080,f,Fujitsu,2048,65536,ARROWS A,android,4.2,292,/static/images/icons/301F.jpg,/static/images/phones/301F.jpg,1,1
+302HW,4,1.6,KIRIN910,1280,4.7,720,hw,Huawei,2048,8192,STREAM S,android,4.4,367,/static/images/icons/302HW.jpg,/static/images/phones/302HW.jpg,0,0
+302KC,4,1.2,Qualcomm Snapdragon 400 MSM8926,960,4.5,540,k,KYOCERA,1536,8192,DIGNO T,android,4.4,307,/static/images/icons/302KC.jpg,/static/images/phones/302KC.jpg,0,0
+302SH,4,2.2,Qualcomm Snapdragon 800 MSM8974,1920,5.2,1080,sh,SHARP,2048,32768,AQUOS PHONE Xx,android,4.2,291,/static/images/icons/302SH.jpg,/static/images/phones/302SH.jpg,1,1
+303SH,4,2.2,Qualcomm Snapdragon 800 MSM8974,1920,4.5,1080,sh,SHARP,2048,16384,AQUOS PHONE Xx mini,android,4.2,355,/static/images/icons/303SH.jpg,/static/images/phones/303SH.jpg,0,0
+304SH,4,2.3,Qualcomm Snapdragon 801 MSM8974AB,1920,5.2,1080,sh,SHARP,2048,32768,AQUOS Xx,android,4.4,321,/static/images/icons/304SH.jpg,/static/images/phones/304SH.jpg,1,1
+305SH,4,1.2,Qualcomm、Snapdragon 400 MSM8926,1280,5,720,sh,SHARP,1536,8192,AQUOS CRYSTAL,android,4.4,286,/static/images/icons/305SH.jpg,/static/images/phones/305SH.jpg,0,0
+401SO,4,2.5,Qualcomm Snapdragon 801 MSM8974AC,1920,5.2,1080,so,Sony mobile,3072,32768,Xperia Z3,android,5,302,/static/images/icons/401SO.jpg,/static/images/phones/401SO.jpg,1,1
+402SH,4,2.3,Qualcomm、Snapdragon 801 MSM8974AB,1920,5.5,1080,sh,SHARP,2048,16384,AQUOS CRYSTAL X,android,4.4,318,/static/images/icons/402SH.jpg,/static/images/phones/402SH.jpg,1,1
+402SO,8,2,Qualcomm Snapdragon 810 MSM8994,1920,5.2,1080,so,Sony mobile,3072,32768,Xperia Z4,android,5,323,/static/images/icons/402SO.jpg,/static/images/phones/402SO.jpg,1,1
+403SC,4,2.3,Cortex-A7,1280,7,800,,Samsung,1536,8192,GALAXY Tab 4 7.0,android,4.4.2,319,/static/images/icons/403SC.jpg,/static/images/phones/403SC.jpg,0,0
+403SH,4,1.2,Qualcomm Snapdragon 400 MSM8926,1280,5.2,720,sh,SHARP,2048,16384,AQUOS CRYSTAL 2,android,5,400,/static/images/icons/403SH.jpg,/static/images/phones/403SH.jpg,0,0
+404SC,8,2.1,Exynos7420,2560,5.1,1440,sc,SAMSUNG,3072,65536,Galaxy S6 edge,android,5,382,/static/images/icons/404SC.jpg,/static/images/phones/404SC.jpg,1,1
+404SH,8,2,Qualcomm Snapdragon 810 MSM8994,1920,5.7,1080,sh,SHARP,3072,32768,AQUOS Xx,android,5,400,/static/images/icons/404SH.jpg,/static/images/phones/404SH.jpg,1,1
+503hw,8,1.2,HiSilicon Kirin620,1280,5,720,hw,Huawei,2048,16384,LUMIERE,android,5,338,/static/images/icons/503hw.jpg,/static/images/phones/503hw.jpg,0,0
+A0001,4,2.5,Krait 400,1920,5.5,1080,,OnePlus,3072,16384,OnePlus One,android,4.4.4,265,/static/images/icons/A0001.jpg,/static/images/phones/A0001.jpg,1,1
+AQUOS_Xx2,6,1.8,Qualcomm Snapdragon 808 MSM8992,1920,5.3,1080,sh,SHARP,3072,32768,AQUOS Xx2,android,5.1,326,/static/images/icons/AQUOS_Xx2.jpg,/static/images/phones/AQUOS_Xx2.jpg,1,1
+AQUOS_Xx2_mini,6,1.8,Qualcomm Snapdragon 808 MSM8992,1920,4.7,1080,sh,SHARP,3072,16384,AQUOS Xx2 mini,android,5.1,358,/static/images/icons/AQUOS_Xx2_mini.jpg,/static/images/phones/AQUOS_Xx2_mini.jpg,0,0
+ARROWS_M01,4,1.2,Qualcomm Snapdragon 400 MSM8926,1280,4.5,720,f,Fujitsu,1024,8192,ARROWS M01,android,4.4,286,/static/images/icons/ARROWS_M01.jpg,/static/images/phones/ARROWS_M01.jpg,0,0
+AST21,4,2.3,Intel Atom Z3580,1200,8,1920,as,ASUS,2048,16384,ASUS MeMO Pad 8,android,4.4.2,265,/static/images/icons/AST21.jpg,/static/images/phones/AST21.jpg,1,1
+ASUS_T00J,2,1.6,Intel Atom Z2560,1280,5,720,as,ASUS,1024,8192,ASUS Zenfone 5,android,4.3,359,/static/images/icons/ASUS_T00J.jpg,/static/images/phones/ASUS_T00J.jpg,0,0
+AXON_mini,8,1.7,Qualcomm Snapdragon 616 MSM8939,1920,5.2,1080,z,ZTE,3072,32768,AXON mini,android,5.1,315,/static/images/icons/AXON_mini.jpg,/static/images/phones/AXON_mini.jpg,1,1
+Ascend_G6,4,1.2,Qualcomm Snapdragon 400 MSM8926,960,4.5,540,hw,Huawei,1024,8192,Ascend G6,android,4.3,262,/static/images/icons/Ascend_G6.jpg,/static/images/phones/Ascend_G6.jpg,0,0
+Ascend_G620S,4,1.2,Qualcomm Snapdragon 410 MSM8916,1280,5,720,hw,Huawei,1024,8192,Ascend G620S,android,4.4,378,/static/images/icons/Ascend_G620S.jpg,/static/images/phones/Ascend_G620S.jpg,0,0
+Ascend_Mate7,8,1.8,Hisilicon Kirin925,1920,6,1080,hw,Huawei,2048,16384,Ascend Mate7,android,4.4,272,/static/images/icons/Ascend_Mate7.jpg,/static/images/phones/Ascend_Mate7.jpg,1,1
+Ascend_P7,4,1.8,Hisilicon Krin910T,1920,5,1080,hw,Huawei,2048,16384,Ascend P7,android,4.4,394,/static/images/icons/Ascend_P7.jpg,/static/images/phones/Ascend_P7.jpg,1,1
+BLADE_Q_PLUS,4,1.2,Qualcomm Snapdragon 410 MSM8916,854,4.5,480,z,ZTE,1024,8192,BLADE Q+,android,4.4,348,/static/images/icons/BLADE_Q_PLUS.jpg,/static/images/phones/BLADE_Q_PLUS.jpg,0,0
+Blade_V6,4,1.3,Mediatek MT6735,1280,5,720,z,ZTE,2048,16384,Blade V6,android,5,263,/static/images/icons/Blade_V6.jpg,/static/images/phones/Blade_V6.jpg,0,0
+Blade_Vec_4G,4,1.2,Qualcomm Snapdragon 400 MSM8926,1280,5,720,z,ZTE,1024,16384,Blade Vec 4G,android,4.4,305,/static/images/icons/Blade_Vec_4G.jpg,/static/images/phones/Blade_Vec_4G.jpg,0,0
+CAL21,2,1.5,Qualcomm Snapdragon MSM8960,800,4,480,ca,CASIO,1024,8192,G'zOne TYPE-L,android,4,312,/static/images/icons/CAL21.jpg,/static/images/phones/CAL21.jpg,0,0
+DIGNO_C_404KC,4,1.2,Qualcomm Snapdragon 410 MSM8916,960,5,540,k,KYOCERA,1024,8192,DIGNO C,android,4.4,337,/static/images/icons/DIGNO_C_404KC.jpg,/static/images/phones/DIGNO_C_404KC.jpg,0,0
+DIGNO_U,4,1.2,Qualcomm Snapdragon 410 MSM8916,960,5,540,k,KYOCERA,1024,8192,DIGNO U,android,4.4,352,/static/images/icons/DIGNO_U.jpg,/static/images/phones/DIGNO_U.jpg,0,0
+DM-01G,4,2.5,Qualcomm Snapdragon 801 MSM8974AC,1920,5.2,1080,l,LG,2048,16384,Disney Mobile on docomo,android,5,277,/static/images/icons/DM-01G.jpg,/static/images/phones/DM-01G.jpg,1,1
+DM-01H,6,1.8,Qualcomm Snapdragon 808 MSM8992,1920,4.7,1080,sh,SHARP,3072,16384,Disney Mobile on docomo ,android,5.1,347,/static/images/icons/DM-01H.jpg,/static/images/phones/DM-01H.jpg,0,0
+DM010SH,1,1,Qualcomm Snapdragon MSM8255,960,4,540,sh,SHARP,512,2048,DM010SH,android,2.3,207,/static/images/icons/DM010SH.jpg,/static/images/phones/DM010SH.jpg,0,0
+DM012SH,1,1.4,Qualcomm Snapdragon MSM8255,960,4,540,sh,SHARP,512,4096,DM012SH,android,2.3,331,/static/images/icons/DM012SH.jpg,/static/images/phones/DM012SH.jpg,0,0
+DM014SH,2,1.5,Qualcomm Snapdragon MSM8960,1280,4.5,720,sh,SHARP,1024,8192,DM014SH,android,4.1,275,/static/images/icons/DM014SH.jpg,/static/images/phones/DM014SH.jpg,0,0
+DM015K,2,1.5,Qualcomm MSM8960,1280,4.3,720,k,KYOCERA,1536,16384,DM015K,android,4.2,364,/static/images/icons/DM015K.jpg,/static/images/phones/DM015K.jpg,0,0
+DM016SH,4,2.2,Qualcomm Snapdragon 800 MSM8974,1920,5.2,1080,sh,SHARP,2048,32768,DM016SH,android,4.2,304,/static/images/icons/DM016SH.jpg,/static/images/phones/DM016SH.jpg,1,1
+EM01F,4,1.5,Qualcomm Snapdragon S4 Pro APQ8064,1280,4.7,720,f,Fujitsu,2048,32768,ARROWS S,android,4.1,270,/static/images/icons/EM01F.jpg,/static/images/phones/EM01F.jpg,0,0
+F-01F,4,2.2,Qualcomm Snapdragon 800 MSM8974,1920,5,1080,f,Fujitsu,2048,32768,ARROWS NX,android,4.4,325,/static/images/icons/F-01F.jpg,/static/images/phones/F-01F.jpg,1,1
+F-01H,4,1.2,Qualcomm Snapdragon 410 MSM8916,1280,5,720,f,Fujitsu,2048,16384,arrows Fit,android,5.1,356,/static/images/icons/F-01H.jpg,/static/images/phones/F-01H.jpg,0,0
+F-02E,4,1.7,NVIDIA Tegra3,1920,5,1080,f,Fujitsu,2048,32768,ARROWS X,android,4.1,296,/static/images/icons/F-02E.jpg,/static/images/phones/F-02E.jpg,1,1
+F-02G,4,2.3,Qualcomm、Snapdragon 801 MSM8974AB,2560,5.2,1440,f,Fujitsu,3072,32768,ARROWS NX,android,5,287,/static/images/icons/F-02G.jpg,/static/images/phones/F-02G.jpg,1,1
+F-02H,6,1.8,Qualcomm Snapdragon 808 MSM8992,2560,5.4,1440,f,Fujitsu,3072,32768,arrows NX ,android,5.1,303,/static/images/icons/F-02H.jpg,/static/images/phones/F-02H.jpg,1,1
+F-03E,2,1.5,Qualcomm Snapdragon MSM8960,960,4,540,f,Fujitsu,1024,8192,ARROWS Kiss,android,4.1,386,/static/images/icons/F-03E.jpg,/static/images/phones/F-03E.jpg,0,0
+F-03F,4,2.2,Qualcomm Snapdragon 800 MSM8974,1280,4.7,720,f,Fujitsu,2048,32768,Disney Mobile on docomo,android,4.2,377,/static/images/icons/F-03F.jpg,/static/images/phones/F-03F.jpg,0,0
+F-03G,4,2.3,MSM8974AB,1600,10.5,2560,,Fujitsu,2048,16384,ARROWS Tab F-03G,android,4.4.4,277,/static/images/icons/F-03G.jpg,/static/images/phones/F-03G.jpg,1,1
+F-04E,4,1.5,NVIDIA Tegra3,1280,4.7,720,f,Fujitsu,2048,65536,ARROWS V,android,4.2,326,/static/images/icons/F-04E.jpg,/static/images/phones/F-04E.jpg,0,0
+F-04G,8,2,Qualcomm Snapdragon 810 MSM8994,2560,5.2,1440,f,Fujitsu,3072,32768,ARROWS NX,android,5,280,/static/images/icons/F-04G.jpg,/static/images/phones/F-04G.jpg,1,1
+F-05D,2,1.2,Texas Instruments OMAP4430,1280,4.3,720,f,Fujitsu,1024,8192,ARROWS X LTE,android,4,266,/static/images/icons/F-05D.jpg,/static/images/phones/F-05D.jpg,0,0
+F-05F,4,2.3,Qualcomm Snapdragon 801 MSM8974AB,1920,5,1080,f,Fujitsu,2048,32768,ARROWS NX,android,4.4,324,/static/images/icons/F-05F.jpg,/static/images/phones/F-05F.jpg,1,1
+F-06E,4,1.7,Qualcomm Snapdragon 600 APQ8064T,1920,5.2,1080,f,Fujitsu,2048,65536,ARROWS NX,android,4.2,288,/static/images/icons/F-06E.jpg,/static/images/phones/F-06E.jpg,1,1
+F-07D,1,1.4,Qualcomm Snapdragon MSM8255,800,4,480,f,Fujitsu,512,1024,ARROWS μ,android,2.3,290,/static/images/icons/F-07D.jpg,/static/images/phones/F-07D.jpg,0,0
+F-07E,4,1.7,Qualcomm Snapdragon 600 APQ8064T,1280,4.7,720,f,Fujitsu,2048,65536,Disney Mobile on docomo,android,4.2,281,/static/images/icons/F-07E.jpg,/static/images/phones/F-07E.jpg,0,0
+F-08D,2,1.2,Texas Instruments OMAP4430,1280,4.3,720,f,Fujitsu,1024,4096,Disney Mobile on docomo,android,4,269,/static/images/icons/F-08D.jpg,/static/images/phones/F-08D.jpg,0,0
+F-10D,4,1.5,NVIDIA Tegra 3 AP33,1280,4.6,720,f,Fujitsu,1024,16384,ARROWS X,android,4.2,300,/static/images/icons/F-10D.jpg,/static/images/phones/F-10D.jpg,0,0
+FJL21,2,1.5,Qualcomm Snapdragon MSM8960,1280,4.3,720,f,Fujitsu,1024,8192,ARROWS ef,android,4.1,296,/static/images/icons/FJL21.jpg,/static/images/phones/FJL21.jpg,0,0
+FJL22,4,2.2,Qualcomm Snapdragon 800 MSM8974,1920,5,1080,f,Fujitsu,2048,32768,ARROWS Z,android,4.2,312,/static/images/icons/FJL22.jpg,/static/images/phones/FJL22.jpg,1,1
+GL07S,4,1.5,HiSilicon K3V2,1280,4.7,720,hw,Huawei,1024,32768,STREAM X,android,4.1,344,/static/images/icons/GL07S.jpg,/static/images/phones/GL07S.jpg,0,0
+GS01,2,1.5,Qualcomm Snapdragon MSM8260,960,4.3,540,dl,DELL,1024,8192,Dell Streak Pro,android,2.3,346,/static/images/icons/GS01.jpg,/static/images/phones/GS01.jpg,0,0
+GS02,1,1.4,Qualcomm Snapdragon MSM8255T,854,4,480,hw,Huawei,512,4096,GS02,android,2.3,359,/static/images/icons/GS02.jpg,/static/images/phones/GS02.jpg,0,0
+GS03,2,1.5,Texas Instruments OMAP4460,960,4.3,540,hw,Huawei,1024,4096,GS03,android,4,308,/static/images/icons/GS03.jpg,/static/images/phones/GS03.jpg,0,0
+HM_1S,4,1.6,Qualcomm MSM8228 Snapdragon,1280,4.7,720,,Xiaomi,1024,8192,Xiaomi Hongmi 1S,android,4.3,395,/static/images/icons/HM_1S.jpg,/static/images/phones/HM_1S.jpg,0,0
+HM_NOTE_1W,8,1.4,Mediatek MT6592,1280,5.5,720,,Xiaomi,1024,16384,Redmi Note 1W,android,4.2.2,304,/static/images/icons/HM_NOTE_1W.jpg,/static/images/phones/HM_NOTE_1W.jpg,0,0
+HTC_Desire_626,4,1.2,Qualcomm Snapdragon 410 MSM8916,1280,5,720,ht,HTC,2048,16384,HTC Desire 626,android,5.1,329,/static/images/icons/HTC_Desire_626.jpg,/static/images/phones/HTC_Desire_626.jpg,0,0
+HTC_Desire_EYE,4,2.3,Qualcomm Snapdragon 800 MSM8974,1920,5.2,1080,ht,HTC,2048,16384,HTC Desire EYE,android,5.1,264,/static/images/icons/HTC_Desire_EYE.jpg,/static/images/phones/HTC_Desire_EYE.jpg,1,1
+HTL21,4,1.5,Qualcomm Snapdragon APQ8064,1920,5,1080,ht,HTC,2048,16384,HTC J butterfly,android,4.1,347,/static/images/icons/HTL21.jpg,/static/images/phones/HTL21.jpg,1,0
+HTL22,4,1.7,Qualcomm Snapdragon 600 APQ8064T,1920,4.7,1080,ht,HTC,2048,32768,HTC J One,android,4.4,373,/static/images/icons/HTL22.jpg,/static/images/phones/HTL22.jpg,0,0
+HTL23,4,2.5,Qualcomm Snapdragon 801 MSM8974AC,1920,5,1080,ht,HTC,2048,32768,HTC J butterfly,android,4.4,284,/static/images/icons/HTL23.jpg,/static/images/phones/HTL23.jpg,1,1
+HTV31,8,2,Qualcomm Snapdragon 810 MSM8994,2560,5.2,1440,ht,HTC,3072,32768,HTC J butterfly,android,5,362,/static/images/icons/HTV31.jpg,/static/images/phones/HTV31.jpg,1,1
+HW-01E,2,1.5,Qualcomm Snapdragon MSM8960,1280,4.5,720,hw,Huawei,1024,8192,Ascend,android,4,271,/static/images/icons/HW-01E.jpg,/static/images/phones/HW-01E.jpg,0,0
+HW-03E,4,1.5,Hisilicom K3V2,1280,4.7,720,hw,Huawei,2048,32768,Ascend D2,android,4.1,335,/static/images/icons/HW-03E.jpg,/static/images/phones/HW-03E.jpg,0,0
+INFOBAR_A02,4,1.5,Qualcomm Snapdragon S4 Pro APQ8064,1280,4.7,720,ht,HTC,1024,16384,INFOBAR A02,android,4.1,316,/static/images/icons/INFOBAR_A02.jpg,/static/images/phones/INFOBAR_A02.jpg,0,0
+IS04,1,1,Qualcomm Snapdragon QSD8650,854,4,480,t,Fujitsu Toshiba,512,1024,REGZA Phone,android,2.1,137,/static/images/icons/IS04.jpg,/static/images/phones/IS04.jpg,0,0
+IS11LG,2,1.2,NVIDIA Tegra 2 AP25H,800,4,480,l,LG,1024,4096,optimus X,android,4,308,/static/images/icons/IS11LG.jpg,/static/images/phones/IS11LG.jpg,0,0
+IS11S,1,1,Qualcomm Snapdragon MSM8655,854,4.2,480,so,Sony mobile,512,1024,Xperia acro,android,2.3,131,/static/images/icons/IS11S.jpg,/static/images/phones/IS11S.jpg,0,0
+IS11T,1,1.4,Qualcomm Snapdragon MSM8655T,854,4,480,t,Fujitsu Toshiba,512,1024,REGZA Phone,android,2.3,368,/static/images/icons/IS11T.jpg,/static/images/phones/IS11T.jpg,0,0
+IS12F,1,1.4,Qualcomm Snapdragon MSM8655,800,4,480,t,Fujitsu Toshiba,512,1024,ARROWS ES,android,2.3,331,/static/images/icons/IS12F.jpg,/static/images/phones/IS12F.jpg,0,0
+IS12M,2,1.2,Texas Instruments OMAP4430,960,4.3,540,m,Motorola,1024,16384,MOTOROLA RAZR,android,4,319,/static/images/icons/IS12M.jpg,/static/images/phones/IS12M.jpg,0,0
+IS12S,2,1.5,Qualcomm Snapdragon MSM8660,1280,4.3,720,so,Sony mobile,1024,16384,Xperia acro HD,android,4,367,/static/images/icons/IS12S.jpg,/static/images/phones/IS12S.jpg,0,0
+IS12SH,1,1.4,Qualcomm Snapdragon MSM8655T,960,4.2,540,sh,SHARP,512,2048,AQUOS PHONE,android,2.3,334,/static/images/icons/IS12SH.jpg,/static/images/phones/IS12SH.jpg,0,0
+IS13SH,1,1.4,Qualcomm Snapdragon MSM8655,960,4.2,540,sh,SHARP,512,4096,AQUOS PHONE,android,2.3,352,/static/images/icons/IS13SH.jpg,/static/images/phones/IS13SH.jpg,0,0
+IS17SH,1,1.4,Qualcomm Snapdragon MSM8655,960,4.2,540,sh,SHARP,1024,8192,AQUOS PHONE CL,android,4,307,/static/images/icons/IS17SH.jpg,/static/images/phones/IS17SH.jpg,0,0
+ISW11F,2,1.2,Texas Instruments OMAP4430,1280,4.3,720,t,Fujitsu Toshiba,1024,8192,ARROWS Z,android,4,388,/static/images/icons/ISW11F.jpg,/static/images/phones/ISW11F.jpg,0,0
+ISW11HT,1,1,Qualcomm Snapdragon QSD8650,800,4.3,480,ht,HTC,512,1024,htc EVO WiMAX,android,2.3,151,/static/images/icons/ISW11HT.jpg,/static/images/phones/ISW11HT.jpg,0,0
+ISW11K,1,1.4,Qualcomm Snapdragon MSM8655,800,4,480,k,KYOCERA,1024,4096,DIGNO,android,2.3,308,/static/images/icons/ISW11K.jpg,/static/images/phones/ISW11K.jpg,0,0
+ISW11M,2,1,Nvidia Tegra 2 T250,960,4.3,540,m,Motorola,1024,16384,MOTOROLA PHOTON,android,2.3,296,/static/images/icons/ISW11M.jpg,/static/images/phones/ISW11M.jpg,0,0
+ISW11SC,2,1.4,Samsung Exynos4210,1280,4.7,720,sc,SAMSUNG,1024,16384,GALAXY S II WiMAX,android,4,303,/static/images/icons/ISW11SC.jpg,/static/images/phones/ISW11SC.jpg,0,0
+ISW12HT,2,1.2,Qualcomm Snapdragon MSM8660,960,4.3,540,ht,HTC,1024,4096,htc EVO 3D,android,4,298,/static/images/icons/ISW12HT.jpg,/static/images/phones/ISW12HT.jpg,0,0
+ISW13F,4,1.5,NVIDIA Tegra 3 AP33,1280,4.6,720,f,Fujitsu,1024,16384,ARROWS Z,android,4,341,/static/images/icons/ISW13F.jpg,/static/images/phones/ISW13F.jpg,0,0
+ISW13HT,2,1.5,Qualcomm Snapdragon MSM8660A,960,4.3,540,ht,HTC,1024,16384,HTC J,android,4,314,/static/images/icons/ISW13HT.jpg,/static/images/phones/ISW13HT.jpg,0,0
+ISW16SH,2,1.5,Qualcomm Snapdragon MSM8660A,1280,4.6,720,sh,SHARP,1024,16384,AQUOS PHONE SERIE,android,4,330,/static/images/icons/ISW16SH.jpg,/static/images/phones/ISW16SH.jpg,0,0
+K013,4,1.33,Intel Atom Z3745,800,7,1280,as,ASUS,1024,16384,ASUS MeMO Pad 7,android,4.4.2,317,/static/images/icons/K013.jpg,/static/images/phones/K013.jpg,0,0
+KC-01,4,1.2,Qualcomm Snapdragon 400 MSM8926,960,4.5,540,k,KYOCERA,1536,8192,KC-01,android,4.4,318,/static/images/icons/KC-01.jpg,/static/images/phones/KC-01.jpg,0,0
+KFTHWI,4,2.2,Qualcomm Snapdragon 800,1200,7,1920,,Amazon,2048,16384,Kindle Fire HDX 7,android,4.2.2,298,/static/images/icons/KFTHWI.jpg,/static/images/phones/KFTHWI.jpg,1,1
+KYL21,2,1.5,Qualcomm Snapdragon MSM8960,1280,4.7,720,k,KYOCERA,1024,16384,DIGNO S,android,4,349,/static/images/icons/KYL21.jpg,/static/images/phones/KYL21.jpg,0,0
+KYL22,4,2.2,Qualcomm Snapdragon 800 MSM8974,1920,5,1080,k,KYOCERA,2048,32768,DIGNO M ,android,4.2,284,/static/images/icons/KYL22.jpg,/static/images/phones/KYL22.jpg,1,1
+KYL23,4,1.2,Qualcomm Snapdragon 400 MSM8926,960,4.5,540,k,KYOCERA,1536,8192,miraie,android,4.4,293,/static/images/icons/KYL23.jpg,/static/images/phones/KYL23.jpg,0,0
+KYV31,4,2.3,Qualcomm、Snapdragon 801 MSM8974AB,1920,5,1080,k,KYOCERA,2048,16384,URBANO V01,android,4.4,368,/static/images/icons/KYV31.jpg,/static/images/phones/KYV31.jpg,1,1
+KYV32,4,2.3,Qualcomm Snapdragon 800 MSM8974AB,1920,5,1080,k,KYOCERA,2048,16384,BASIO,android,4.4,305,/static/images/icons/KYV32.jpg,/static/images/phones/KYV32.jpg,1,1
+KYV33,4,2.3,Qualcomm Snapdragon 800 MSM8974AB,1920,4.5,1080,k,KYOCERA,2048,16384,INFOBAR A03,android,4.4,351,/static/images/icons/KYV33.jpg,/static/images/phones/KYV33.jpg,0,0
+KYV35,4,1.4,Qualcomm Snapdragon 400 MSM8928,1280,4.7,720,k,KYOCERA,2048,16384,TORQUE G02,android,5.1,372,/static/images/icons/KYV35.jpg,/static/images/phones/KYV35.jpg,0,0
+KYV36,4,1.2,Qualcomm Snapdragon 410 MSM8916,1280,5,720,k,KYOCERA,2048,16384,DIGNO rafre,android,5.1,351,/static/images/icons/KYV36.jpg,/static/images/phones/KYV36.jpg,0,0
+KYY22,2,1.5,Qualcomm Snapdragon S4 Pro MSM8960,1280,4.7,720,k,KYOCERA,2048,16384,URBANO L02,android,4.2,374,/static/images/icons/KYY22.jpg,/static/images/phones/KYY22.jpg,0,0
+KYY23,4,2.3,Qualcomm Snapdragon 801 MSM8974AB,1920,5,1080,k,KYOCERA,2048,16384,URBANO,android,4.4,379,/static/images/icons/KYY23.jpg,/static/images/phones/KYY23.jpg,1,1
+KYY24,4,1.4,Qualcomm Snapdragon 400 MSM8928,1280,4.5,720,k,KYOCERA,2048,16384,TORQUE,android,4.4,349,/static/images/icons/KYY24.jpg,/static/images/phones/KYY24.jpg,0,0
+L-01D,2,1.5,Qualcomm Snapdragon APQ8060,1280,4.5,720,l,LG,1024,4096,Optimus LTE,android,4,378,/static/images/icons/L-01D.jpg,/static/images/phones/L-01D.jpg,0,0
+L-01E,4,1.5,Qualcomm Snapdragon APQ8064,1280,4.7,720,l,LG,2048,16384,Optimus G,android,4.1,295,/static/images/icons/L-01E.jpg,/static/images/phones/L-01E.jpg,0,0
+L-01F,4,2.3,Qualcomm Snapdragon 800 MSM8974,1920,5.2,1080,l,LG,2048,32768,G2,android,4.2,334,/static/images/icons/L-01F.jpg,/static/images/phones/L-01F.jpg,1,1
+L-02D,2,1,Texas Instruments OMAP4430,800,4.3,480,l,LG,1024,16384,PRADA phone,android,4,396,/static/images/icons/L-02D.jpg,/static/images/phones/L-02D.jpg,0,0
+L-02E,2,1.5,Qualcomm Snapdragon MSM8960,1280,4.5,720,l,LG,1024,8192,Optimus LIFE,android,4.1,292,/static/images/icons/L-02E.jpg,/static/images/phones/L-02E.jpg,0,0
+L-04E,4,1.7,Qualcomm Snapdragon S4 Pro APQ8064,1920,5,1080,l,LG,2048,32768,Optimus G pro,android,4.1,394,/static/images/icons/L-04E.jpg,/static/images/phones/L-04E.jpg,1,1
+L-05D,2,1.5,Qualcomm Snapdragon MSM8960,800,4,480,l,LG,1024,8192,Optimus it,android,4.1,289,/static/images/icons/L-05D.jpg,/static/images/phones/L-05D.jpg,0,0
+L-05E,4,1.7,Qualcomm Snapdragon 600 APQ8064T,1280,4.5,720,l,LG,2048,32768,Optimus it,android,4.2,330,/static/images/icons/L-05E.jpg,/static/images/phones/L-05E.jpg,0,0
+L-06D,2,1.5,Qualcomm Snapdragon APQ8060,1024,5,768,l,LG,1024,32768,Optimus Vu,android,4,400,/static/images/icons/L-06D.jpg,/static/images/phones/L-06D.jpg,0,0
+L-06D_JOJO,2,1.5,Qualcomm Snapdragon APQ8060,1024,5,768,l,LG,1024,32768,L-06D JOJO,android,4,310,/static/images/icons/L-06D_JOJO.jpg,/static/images/phones/L-06D_JOJO.jpg,0,0
+L-07C,1,1,Texas Instruments OMAP3630,800,4,480,l,LG,512,4096,Optimus bright,android,2.3,138,/static/images/icons/L-07C.jpg,/static/images/phones/L-07C.jpg,0,0
+L01,2,1.5,Qualcomm Snapdragon S4 Plus MSM8960,1280,4.7,720,k,KYOCERA,2048,16384,URBANO,android,4.2,386,/static/images/icons/L01.jpg,/static/images/phones/L01.jpg,0,0
+LG-F320K,4,2.26,Qualcomm MSM8974 Snapdragon 800,1920,5.2,1080,,LG,2048,8192,LG Optimus S G2 LTE-A,android,4.2.2,330,/static/images/icons/LG-F320K.jpg,/static/images/phones/LG-F320K.jpg,0,0
+LG-F400S,4,2.5,Krait 400,2560,5.5,1440,,LG,2048,16384,LG G3,android,4.4.2,357,/static/images/icons/LG-F400S.jpg,/static/images/phones/LG-F400S.jpg,1,1
+LGL21,4,1.5,Qualcomm Snapdragon APQ8064,1280,4.7,720,l,LG,2048,16384,Optimus G,android,4,395,/static/images/icons/LGL21.jpg,/static/images/phones/LGL21.jpg,0,0
+LGL22,4,2.3,Qualcomm Snapdragon 800 MSM8974,1920,5.2,1080,l,LG,2048,32768,isai,android,4.4,324,/static/images/icons/LGL22.jpg,/static/images/phones/LGL22.jpg,1,1
+LGL23,4,2.3,Qualcomm Snapdragon 800 MSM8974,1280,6,720,l,LG,2048,32768,G Flex,android,4.2,349,/static/images/icons/LGL23.jpg,/static/images/phones/LGL23.jpg,1,1
+LGL24,4,2.4,Qualcomm Snapdragon 801 MSM8974AC,2560,5.5,1440,l,LG,2048,32768,isai FL,android,5,291,/static/images/icons/LGL24.jpg,/static/images/phones/LGL24.jpg,1,1
+LGL25,4,1.2,Qualcomm Snapdragon 400 MSM8926,1280,4.7,720,l,LG,1536,16384,Fx0,,2,280,/static/images/icons/LGL25.jpg,/static/images/phones/LGL25.jpg,0,0
+LGV31,4,2.5,Qualcomm Snapdragon 801 MSM8974AC,2560,5.5,1440,l,LG,3072,32768,isai VL,android,5,336,/static/images/icons/LGV31.jpg,/static/images/phones/LGV31.jpg,1,1
+LGV32,6,1.8,Qualcomm Snapdragon 808 MSM8992,2560,5.5,1440,l,LG,3072,32768,isai vivid,android,5.1,297,/static/images/icons/LGV32.jpg,/static/images/phones/LGV32.jpg,1,1
+LG_G2_mini,4,1.2,Qualcomm Snapdragon 400 MSM8226,960,4.7,540,l,LG,1024,8192,LG G2 mini,android,4.4,330,/static/images/icons/LG_G2_mini.jpg,/static/images/phones/LG_G2_mini.jpg,0,0
+LG_G3_Beat,4,1.2,Qualcomm Snapdragon 400 MSM8926,1280,5,720,l,LG,1024,8192,LG G3 Beat,android,4.4,264,/static/images/icons/LG_G3_Beat.jpg,/static/images/phones/LG_G3_Beat.jpg,0,0
+LINEAGE,4,1.3,ARM Cortex-A7,960,5,540,po,Polaroid,1024,4096,LINEAGE,android,4.2,321,/static/images/icons/LINEAGE.jpg,/static/images/phones/LINEAGE.jpg,0,0
+Liquid_Z200,2,1,MediaTek MT6572M,800,4,480,ac,Acer,512,4096,Liquid Z200,android,4.4,218,/static/images/icons/Liquid_Z200.jpg,/static/images/phones/Liquid_Z200.jpg,0,0
+Liquid_Z330,4,1.1,Qualcomm Snapdragon 210 MSM8909,854,4.5,480,ac,Acer,1024,8192,Liquid Z330,android,5.1,369,/static/images/icons/Liquid_Z330.jpg,/static/images/phones/Liquid_Z330.jpg,0,0
+Liquid_Z530,4,1.3,Mediatek MT6735,1280,5,720,ac,Acer,2048,16384,Liquid Z530,android,5.1,295,/static/images/icons/Liquid_Z530.jpg,/static/images/phones/Liquid_Z530.jpg,0,0
+MI_3W,4,2.3,Qualcomm MSM8274AB Snapdragon 801,1080,5,1920,,Xiaomi,2048,16384,Xiaomi Mi 3,android,4.4.2,301,/static/images/icons/MI_3W.jpg,/static/images/phones/MI_3W.jpg,1,1
+MI_4W,4,2.5,Qualcomm Snapdragon 801,1920,5,1080,,Xiaomi,3072,16384,Xiaomi Mi 4,android,4.4.4,300,/static/images/icons/MI_4W.jpg,/static/images/phones/MI_4W.jpg,1,1
+Mate_S,8,2.2,Hisilicon Kirin935,1920,5.5,1080,hw,Huawei,3072,131072,Mate S,android,5.1,328,/static/images/icons/Mate_S.jpg,/static/images/phones/Mate_S.jpg,1,1
+N-01D,1,1.4,Qualcomm Snapdragon MSM8255,800,4,480,n,NEC,512,2048,MEDIAS PP,android,2.3,354,/static/images/icons/N-01D.jpg,/static/images/phones/N-01D.jpg,0,0
+N-02E,2,1.5,Qualcomm Snapdragon MSM8960,800,4,480,n,NEC,1024,8192,MEDIAS U,android,4.1,301,/static/images/icons/N-02E.jpg,/static/images/phones/N-02E.jpg,0,0
+N-02E_ONE_PIECE,2,1.5,Qualcomm Snapdragon MSM8960,800,4,480,n,NEC,1024,8192,N-02E,android,4.1,331,/static/images/icons/N-02E_ONE_PIECE.jpg,/static/images/phones/N-02E_ONE_PIECE.jpg,0,0
+N-03E,4,1.5,Qualcomm Snapdragon APQ8064,1280,4.7,720,n,NEC,2048,32768,Disney Mobile on docomo,android,4.1,318,/static/images/icons/N-03E.jpg,/static/images/phones/N-03E.jpg,0,0
+N-04D,2,1.2,Qualcomm Snapdragon APQ8060,1280,4.3,720,n,NEC,1024,16384,MEDIAS LTE,android,4,287,/static/images/icons/N-04D.jpg,/static/images/phones/N-04D.jpg,0,0
+N-04E,4,1.5,Qualcomm Snapdragon S4 Pro APQ8064,1280,4.7,720,n,NEC,2048,32768,MEDIAS X,android,4.1,299,/static/images/icons/N-04E.jpg,/static/images/phones/N-04E.jpg,0,0
+N-05D,2,1.5,Qualcomm Snapdragon MSM8260,1280,4.3,720,n,NEC,1024,4096,MEDIAS ES,android,4,307,/static/images/icons/N-05D.jpg,/static/images/phones/N-05D.jpg,0,0
+N-05E,2,1.5,Qualcomm Snapdragon S4 MSM8960,960,4.3,540,n,NEC,1024,16384,MEDIAS W,android,4.1,341,/static/images/icons/N-05E.jpg,/static/images/phones/N-05E.jpg,0,0
+N-06C,1,1,Qualcomm Snapdragon MSM8255,854,4,480,n,NEC,512,1024,MEDIAS WP,android,2.3,198,/static/images/icons/N-06C.jpg,/static/images/phones/N-06C.jpg,0,0
+N-06E,4,1.7,Qualcomm Snapdragon 600 APQ8064T,1280,4.7,720,n,NEC,2048,32768,MEDIAS X,android,4.2,394,/static/images/icons/N-06E.jpg,/static/images/phones/N-06E.jpg,0,0
+N-07D,2,1.5,Qualcomm Snapdragon MSM8960,1280,4.3,720,n,NEC,1024,8192,MEDIAS X,android,4.1,378,/static/images/icons/N-07D.jpg,/static/images/phones/N-07D.jpg,0,0
+NE-202,2,1.5,Qualcomm Snapdragon MSM8960,1280,4.3,720,n,NEC,1024,8192,MEDIAS for BIGLOBE LTE,android,4,341,/static/images/icons/NE-202.jpg,/static/images/phones/NE-202.jpg,0,0
+Nexus7,4,1.2,NVIDIA Tegra 3 Cortex-A9,1920,7.02,1200,as,ASUS,1024,32768,Nexus 7,android,4.3,397,/static/images/icons/Nexus7.jpg,/static/images/phones/Nexus7.jpg,0,0
+Nexus_5,4,2.26,Qualcomm Snapdragon 800 MSM8974,1920,5,1080,l,LG,2048,32768,Nexus 5,android,6,320,/static/images/icons/Nexus_5.jpg,/static/images/phones/Nexus_5.jpg,1,1
+Nexus_5X,6,1.8,Qualcomm Snapdragon 808 MSM8992,1920,5.2,1080,l,LG,2048,32768,Nexus 5X,android,6,308,/static/images/icons/Nexus_5X.jpg,/static/images/phones/Nexus_5X.jpg,1,1
+Nexus_5X_,6,1.8,Qualcomm Snapdragon 808 MSM8992,1920,5.2,1080,l,LG,2048,32768,Nexus 5X,android,6,381,/static/images/icons/Nexus_5X_.jpg,/static/images/phones/Nexus_5X_.jpg,1,1
+Nexus_6,4,2.7,Qualcomm Snapdragon 805 APQ8084,2560,5.96,1440,m,Motorola,3072,65536,Nexus 6,android,6,311,/static/images/icons/Nexus_6.jpg,/static/images/phones/Nexus_6.jpg,1,1
+Nexus_6P,8,2,Qualcomm Snapdragon 810 MSM8994,2560,5.7,1440,hw,Huawei,3072,65536,Nexus 6P,android,6,354,/static/images/icons/Nexus_6P.jpg,/static/images/phones/Nexus_6P.jpg,1,1
+Nexus_7_2012,4,1.2,Qualcomm Snapdragon 400 MSM8926,1280,7,800,as,ASUS,1024,8192,Nexus 7 (2012),android,4.3,400,/static/images/icons/Nexus_7_2012.jpg,/static/images/phones/Nexus_7_2012.jpg,0,0
+Nexus_7_2013,4,1.51,Krait 300,1920,7.02,1200,as,ASUS,2048,16384,Nexus 7 (2013),android,4.3,319,/static/images/icons/Nexus_7_2013.jpg,/static/images/phones/Nexus_7_2013.jpg,1,1
+Nexus_9,2,2.3,Nvidia Tegra K1 64 bits,2048,8.9,1536,,HTC,2048,16384,Nexus 9,android,5,337,/static/images/icons/Nexus_9.jpg,/static/images/phones/Nexus_9.jpg,1,0
+P-02D,2,1,Texas Instruments OMAP4430,960,4,540,p,Panasonic,1024,2048,LUMIX Phone,android,4,301,/static/images/icons/P-02D.jpg,/static/images/phones/P-02D.jpg,0,0
+P-02E,4,1.5,Qualcomm Snapdragon S4 Pro APQ8064,1920,5,1080,p,Panasonic,2048,32768,ELUGA X,android,4.1,279,/static/images/icons/P-02E.jpg,/static/images/phones/P-02E.jpg,1,0
+P-03E,4,1.7,Qualcomm Snapdragon 600 APQ8064T,1920,4.7,1080,p,Panasonic,2048,32768,ELUGA P,android,4.2,369,/static/images/icons/P-03E.jpg,/static/images/phones/P-03E.jpg,0,0
+P-04D,2,1,Texas Instruments OMAP4430,960,4.3,540,p,Panasonic,1024,16384,P-04D,android,4,384,/static/images/icons/P-04D.jpg,/static/images/phones/P-04D.jpg,0,0
+P-05D,2,1,Texas Instruments OMAP4430,960,4.3,540,p,Panasonic,1024,16384,Disney Mobile on docomo,android,4,323,/static/images/icons/P-05D.jpg,/static/images/phones/P-05D.jpg,0,0
+P-06D,2,1.5,Texas Instruments OMAP4460,1280,4.6,720,p,Panasonic,1024,8192,ELUGA V,android,4,329,/static/images/icons/P-06D.jpg,/static/images/phones/P-06D.jpg,0,0
+P-07C,1,1,Texas Instruments OMAP3630,854,4.3,480,p,Panasonic,512,1024,P-07C,android,2.3,204,/static/images/icons/P-07C.jpg,/static/images/phones/P-07C.jpg,0,0
+P-07D,2,1.5,Qualcomm Snapdragon MSM8960,1280,5,720,p,Panasonic,1024,8192,ELUGA power,android,4,386,/static/images/icons/P-07D.jpg,/static/images/phones/P-07D.jpg,0,0
+P8lite,8,1.2,Hisilicon Kirin620,1280,5,720,hw,Huawei,2048,16384,P8lite,android,5,294,/static/images/icons/P8lite.jpg,/static/images/phones/P8lite.jpg,0,0
+P8max,8,2.2,Hisilicon Kirin935,1920,6.8,1080,hw,Huawei,3072,32768,P8max,android,5.1,376,/static/images/icons/P8max.jpg,/static/images/phones/P8max.jpg,1,1
+PTL21,2,1.5,Qualcomm Snapdragon MSM8960,1280,4.3,720,pt,Pantech,1024,16384,VEGA,android,4.1,346,/static/images/icons/PTL21.jpg,/static/images/phones/PTL21.jpg,0,0
+PolaSma,4,1.3,Cortex-A7,960,5,540,po,Polaroid,1024,4096,PolaSma,android,4.2,370,/static/images/icons/PolaSma.jpg,/static/images/phones/PolaSma.jpg,0,0
+S301,4,1.2,Qualcomm Snapdragon 410 MSM8916,960,5,540,k,KYOCERA,1024,8192,S301,android,4.4,384,/static/images/icons/S301.jpg,/static/images/phones/S301.jpg,0,0
+SC-01F,4,2.3,Qualcomm Snapdragon 800 MSM8974,1920,5.7,1080,sc,SAMSUNG,3072,32768,GALAXY Note 3,android,5,388,/static/images/icons/SC-01F.jpg,/static/images/phones/SC-01F.jpg,1,1
+SC-01G,4,2.7,Qualcomm Snapdragon 805 APQ8084,2560,5.6,1600,sc,SAMSUNG,3072,32768,GALAXY Note Edge,android,5,361,/static/images/icons/SC-01G.jpg,/static/images/phones/SC-01G.jpg,1,1
+SC-01H,4,1.2,Qualcomm Snapdragon 410 MSM8916,800,4.5,480,sc,SAMSUNG,2048,16384,Galaxy Active neo ,android,5.1,309,/static/images/icons/SC-01H.jpg,/static/images/phones/SC-01H.jpg,0,0
+SC-02B,1,1,Samsung S5PC110,800,4,480,sc,SAMSUNG,512,16896,GALAXY S,android,2.3,300,/static/images/icons/SC-02B.jpg,/static/images/phones/SC-02B.jpg,0,0
+SC-02C,2,1.2,Samsung S5PC210,800,4.3,480,sc,SAMSUNG,1024,16384,GALAXY S II,android,4,400,/static/images/icons/SC-02C.jpg,/static/images/phones/SC-02C.jpg,0,0
+SC-02E,4,1.6,Samsung Exynos4412,1280,5.5,720,sc,SAMSUNG,2048,32768,GALAXY Note II,android,4.3,276,/static/images/icons/SC-02E.jpg,/static/images/phones/SC-02E.jpg,1,1
+SC-02F,4,2.3,Qualcomm Snapdragon 800 MSM8974,1920,5,1080,sc,SAMSUNG,3072,32768,GALAXY J,android,5,346,/static/images/icons/SC-02F.jpg,/static/images/phones/SC-02F.jpg,1,1
+SC-02G,4,2.5,Qualcomm Snapdragon 801 MSM8974AC,1920,5.1,1080,sc,SAMSUNG,2048,16384,GALAXY S5 ACTIVE,android,5,341,/static/images/icons/SC-02G.jpg,/static/images/phones/SC-02G.jpg,1,1
+SC-03D,2,1.5,Qualcomm Snapdragon APQ8060,800,4.5,480,sc,SAMSUNG,1024,16384,GALAXY S II LTE,android,4,337,/static/images/icons/SC-03D.jpg,/static/images/phones/SC-03D.jpg,0,0
+SC-03E,4,1.6,Samsung Exynos4412,1280,4.8,720,sc,SAMSUNG,2048,32768,GALAXY S III α,android,4.3,329,/static/images/icons/SC-03E.jpg,/static/images/phones/SC-03E.jpg,0,0
+SC-03G,4,2.3,Krait 400,2560,8.4,1600,,Samsung,3072,16384,GALAXY Tab S 8.4,android,4.4.2,368,/static/images/icons/SC-03G.jpg,/static/images/phones/SC-03G.jpg,1,1
+SC-04D,2,1.2,Texas Instruments OMAP4460,1280,4.7,720,sc,SAMSUNG,1024,16384,GALAXY NEXUS,android,4.2,339,/static/images/icons/SC-04D.jpg,/static/images/phones/SC-04D.jpg,0,0
+SC-04E,4,1.9,Qualcomm Snapdragon 600 APQ8064T,1920,5,1080,sc,SAMSUNG,2048,32768,GALAXY S4,android,5,317,/static/images/icons/SC-04E.jpg,/static/images/phones/SC-04E.jpg,1,1
+SC-04F,4,2.5,Qualcomm Snapdragon 801 MSM8974AC,1920,5.1,1080,sc,SAMSUNG,2048,32768,GALAXY S5,android,5,341,/static/images/icons/SC-04F.jpg,/static/images/phones/SC-04F.jpg,1,1
+SC-04G,8,2.1,Exynos7420,2560,5.1,1440,sc,SAMSUNG,3072,65536,Galaxy S6 edge,android,5,263,/static/images/icons/SC-04G.jpg,/static/images/phones/SC-04G.jpg,1,1
+SC-05D,2,1.5,Qualcomm Snapdragon APQ8060,1280,5.3,800,sc,SAMSUNG,1024,16384,GALAXY Note,android,4.1,400,/static/images/icons/SC-05D.jpg,/static/images/phones/SC-05D.jpg,0,0
+SC-05G,8,2.1,Exynos7420,2560,5.1,1440,sc,SAMSUNG,3072,32768,Galaxy S6,android,5,325,/static/images/icons/SC-05G.jpg,/static/images/phones/SC-05G.jpg,1,1
+SC-06D,2,1.5,Qualcomm Snapdragon MSM8960,1280,4.8,720,sc,SAMSUNG,2048,32768,Galaxy S III,android,4.1,386,/static/images/icons/SC-06D.jpg,/static/images/phones/SC-06D.jpg,0,0
+SCL21,2,1.5,Qualcomm Snapdragon MSM8960,1280,4.8,720,sc,SAMSUNG,2048,32768,GALAXY S III Progre,android,4.1,271,/static/images/icons/SCL21.jpg,/static/images/phones/SCL21.jpg,0,0
+SCL22,4,2.3,Qualcomm Snapdragon 800 MSM8974,1920,5.7,1080,sc,SAMSUNG,3072,32768,GALAXY Note 3,android,5,319,/static/images/icons/SCL22.jpg,/static/images/phones/SCL22.jpg,1,1
+SCL23,4,2.5,Qualcomm Snapdragon 801 MSM8974AC,1920,5.1,1080,sc,SAMSUNG,2048,32768,GALAXY S5,android,5,376,/static/images/icons/SCL23.jpg,/static/images/phones/SCL23.jpg,1,1
+SCL24,4,2.7,Qualcomm Snapdragon 805 APQ8084,2560,5.6,1600,sc,SAMSUNG,3072,32768,GALAXY Note Edge,android,4.4,379,/static/images/icons/SCL24.jpg,/static/images/phones/SCL24.jpg,1,1
+SCV31,8,2.1,Exynos7420,2560,5.1,1440,sc,SAMSUNG,3072,65536,Galaxy S6 edge,android,5,325,/static/images/icons/SCV31.jpg,/static/images/phones/SCV31.jpg,1,1
+SCV32,8,1.9,Exynos5433,1920,5.7,1080,sc,SAMSUNG,2048,32768,Galaxy A8,android,5.1,365,/static/images/icons/SCV32.jpg,/static/images/phones/SCV32.jpg,1,1
+SD4930UR,4,2.26,Krait 400,1280,4.7,720,,Amazon,2048,32768,Fire Phone,android,4.2.2,360,/static/images/icons/SD4930UR.jpg,/static/images/phones/SD4930UR.jpg,0,0
+SGP511,4,2.3,Snapdragon 801,1200,10.1,1920,,SONY,3072,16384,Xperia Z2 Tablet,android,4.4.2,362,/static/images/icons/SGP511.jpg,/static/images/phones/SGP511.jpg,1,1
+SH-01D,2,1,Texas Instruments OMAP4430,1280,4.5,720,sh,SHARP,1024,2048,AQUOS Phone,android,4,315,/static/images/icons/SH-01D.jpg,/static/images/phones/SH-01D.jpg,0,0
+SH-01E,2,1.5,Qualcomm Snapdragon MSM8960,960,4.1,540,sh,SHARP,1024,16384,AQUOS PHONE si,android,4.1,360,/static/images/icons/SH-01E.jpg,/static/images/phones/SH-01E.jpg,0,0
+SH-01E_Vivienne_Westwood,2,1.5,Qualcomm Snapdragon MSM8960,960,4.1,540,sh,SHARP,1024,16384,SH-01E,android,4.1,369,/static/images/icons/SH-01E_Vivienne_Westwood.jpg,/static/images/phones/SH-01E_Vivienne_Westwood.jpg,0,0
+SH-01F,4,2.2,Qualcomm Snapdragon 800 MSM8974,1920,5,1080,sh,SHARP,2048,32768,AQUOS PHONE ZETA,android,4.4,310,/static/images/icons/SH-01F.jpg,/static/images/phones/SH-01F.jpg,1,1
+SH-01F_DRAGON_QUEST,4,2.2,Qualcomm Snapdragon 800 MSM8974,1920,5,1080,sh,SHARP,2048,32768,SH-01F,android,4.2,358,/static/images/icons/SH-01F_DRAGON_QUEST.jpg,/static/images/phones/SH-01F_DRAGON_QUEST.jpg,1,1
+SH-01G,4,2.3,Qualcomm、Snapdragon 801 MSM8974AB,1920,5.5,1080,sh,SHARP,2048,32768,AQUOS ZETA,android,5,320,/static/images/icons/SH-01G.jpg,/static/images/phones/SH-01G.jpg,1,1
+SH-01H,6,1.8,Qualcomm Snapdragon 808 MSM8992,1920,5.3,1080,sh,SHARP,3072,32768,AQUOS ZETA,android,5.1,342,/static/images/icons/SH-01H.jpg,/static/images/phones/SH-01H.jpg,1,1
+SH-02E,4,1.5,Qualcomm Snapdragon APQ8064,1280,4.9,720,sh,SHARP,2048,32768,AQUOS PHONE ZETA,android,4.1,342,/static/images/icons/SH-02E.jpg,/static/images/phones/SH-02E.jpg,0,0
+SH-02F,4,2.2,Qualcomm Snapdragon 800 MSM8974,1920,4.5,1080,sh,SHARP,2048,16384,AQUOS PHONE EX,android,4.2,281,/static/images/icons/SH-02F.jpg,/static/images/phones/SH-02F.jpg,0,0
+SH-02G,4,2.3,Qualcomm、Snapdragon 801 MSM8974AB,1920,5.5,1080,sh,SHARP,2048,32768,Disney Mobile on docomo,android,4.4,287,/static/images/icons/SH-02G.jpg,/static/images/phones/SH-02G.jpg,1,1
+SH-02H,6,1.8,Qualcomm Snapdragon 808 MSM8992,1920,4.7,1080,sh,SHARP,3072,16384,AQUOS Compact,android,5.1,305,/static/images/icons/SH-02H.jpg,/static/images/phones/SH-02H.jpg,0,0
+SH-03G,8,2,Qualcomm Snapdragon 810 MSM8994,1920,5.5,1080,sh,SHARP,3072,32768,AQUOS ZETA,android,5,290,/static/images/icons/SH-03G.jpg,/static/images/phones/SH-03G.jpg,1,1
+SH-04E,4,1.5,Qualcomm Snapdragon S4 Pro APQ8064,1280,4.5,720,sh,SHARP,2048,16384,AQUOS PHONE EX,android,4.1,321,/static/images/icons/SH-04E.jpg,/static/images/phones/SH-04E.jpg,0,0
+SH-04F,4,2.3,Qualcomm Snapdragon 801 MSM8974AB,1920,5.4,1080,sh,SHARP,2048,32768,AQUOS ZETA,android,5,319,/static/images/icons/SH-04F.jpg,/static/images/phones/SH-04F.jpg,1,1
+SH-04G,4,1.2,Qualcomm Snapdragon 400 MSM8926,1280,5,720,sh,SHARP,2048,16384,AQUOS EVER,android,5,287,/static/images/icons/SH-04G.jpg,/static/images/phones/SH-04G.jpg,0,0
+SH-05F,4,2.2,Qualcomm Snapdragon 800 MSM8974,1920,5,1080,sh,SHARP,2048,32768,Disney Mobile on docomo,android,4.2,281,/static/images/icons/SH-05F.jpg,/static/images/phones/SH-05F.jpg,1,1
+SH-05G,8,1.5,Qualcomm MSM8994,1200,7,1920,,SHARP,2048,32768,AQUOS PAD,android,5.0.2,299,/static/images/icons/SH-05G.jpg,/static/images/phones/SH-05G.jpg,1,0
+SH-06D,2,1.2,Texas Instruments OMAP4460,1280,4.5,720,sh,SHARP,1024,8192,AQUOS PHONE,android,4,290,/static/images/icons/SH-06D.jpg,/static/images/phones/SH-06D.jpg,0,0
+SH-06DNERV,2,1.2,Texas Instruments OMAP4460,1280,4.5,720,sh,SHARP,1024,8192,SH-06D NERV,android,4,328,/static/images/icons/SH-06DNERV.jpg,/static/images/phones/SH-06DNERV.jpg,0,0
+SH-06E,4,1.7,Qualcomm Snapdragon 600 APQ8064T,1920,4.8,1080,sh,SHARP,2048,32768,AQUOS PHONE ZETA,android,4.2,394,/static/images/icons/SH-06E.jpg,/static/images/phones/SH-06E.jpg,0,0
+SH-07E,4,1.7,Qualcomm Snapdragon 600 APQ8064T,1280,4.3,720,sh,SHARP,2048,32768,AQUOS PHONE si,android,4.2,321,/static/images/icons/SH-07E.jpg,/static/images/phones/SH-07E.jpg,0,0
+SH-09D,2,1.5,Qualcomm Snapdragon MSM8960,1280,4.7,720,sh,SHARP,1024,16384,AQUOS PHONE ZETA,android,4.1,360,/static/images/icons/SH-09D.jpg,/static/images/phones/SH-09D.jpg,0,0
+SH-10D,2,1.5,Qualcomm Snapdragon MSM8960,1280,4.5,720,sh,SHARP,1024,8192,AQUOS PHONE sv,android,4.1,308,/static/images/icons/SH-10D.jpg,/static/images/phones/SH-10D.jpg,0,0
+SH-12C,1,1.4,Qualcomm Snapdragon MSM8255T,960,4.2,540,sh,SHARP,512,2048,AQUOS PHONE,android,2.3,355,/static/images/icons/SH-12C.jpg,/static/images/phones/SH-12C.jpg,0,0
+SH-M01,4,2.2,Qualcomm Snapdragon 800 MSM8974,1920,4.5,1080,sh,SHARP,2048,16384,AQUOS SH-M01,android,4.4,366,/static/images/icons/SH-M01.jpg,/static/images/phones/SH-M01.jpg,0,0
+SH-M02,4,1.2,Qualcomm Snapdragon 400 MSM8926,1280,5,720,sh,SHARP,2048,16384,AQUOS SH-M02,android,5,304,/static/images/icons/SH-M02.jpg,/static/images/phones/SH-M02.jpg,0,0
+SHIELD_Tablet,4,2.2,Cortex-A15,1200,8,1920,,Nvidia,2048,16384,SHIELD Tablet,android,4.4.2,268,/static/images/icons/SHIELD_Tablet.jpg,/static/images/phones/SHIELD_Tablet.jpg,1,1
+SHL21,2,1.5,Qualcomm Snapdragon MSM8960,1280,4.7,720,sh,SHARP,1024,16384,AQUOS PHONE SERIE,android,4.1,291,/static/images/icons/SHL21.jpg,/static/images/phones/SHL21.jpg,0,0
+SHL22,4,1.7,Qualcomm Snapdragon 600 APQ8064T,1280,4.9,720,sh,SHARP,2048,16384,AQUOS PHONE SERIE,android,4.2,318,/static/images/icons/SHL22.jpg,/static/images/phones/SHL22.jpg,0,0
+SHL23,4,2.2,Qualcomm Snapdragon 800 MSM8974,1920,4.8,1080,sh,SHARP,2048,16384,AQUOS PHONE SERIE,android,4.2,341,/static/images/icons/SHL23.jpg,/static/images/phones/SHL23.jpg,0,0
+SHL24,4,2.2,Qualcomm Snapdragon 800 MSM8974,1920,4.5,1080,sh,SHARP,2048,16384,AQUOS PHONE SERIE mini,android,4.2,355,/static/images/icons/SHL24.jpg,/static/images/phones/SHL24.jpg,0,0
+SHL25,4,2.3,Qualcomm Snapdragon 801 MSM8974AB,1920,5.2,1080,sh,SHARP,2048,32768,AQUOS SERIE,android,5,263,/static/images/icons/SHL25.jpg,/static/images/phones/SHL25.jpg,1,1
+SHV31,4,2.3,Qualcomm Snapdragon 800 MSM8974AB,1920,4.5,1080,sh,SHARP,2048,16384,AQUOS SERIE mini,android,4.4,362,/static/images/icons/SHV31.jpg,/static/images/phones/SHV31.jpg,0,0
+SHV32,8,2,Qualcomm Snapdragon 810 MSM8994,1920,5,1080,sh,SHARP,3072,32768,AQUOS SERIE,android,5,322,/static/images/icons/SHV32.jpg,/static/images/phones/SHV32.jpg,1,1
+SKT01,2,1.2,Qualcomm Snapdragon S4 MSM8960,800,4,480,k,KYOCERA,1536,8192,TORQUE,android,4.2,318,/static/images/icons/SKT01.jpg,/static/images/phones/SKT01.jpg,0,0
+SM-P905,4,2.3,Qualcomm Snapdragon 800,1600,12.2,2560,,Samsung,3072,32768,Galaxy Note Pro 12.2 LTE,android,4.4.2,393,/static/images/icons/SM-P905.jpg,/static/images/phones/SM-P905.jpg,1,1
+SO-01C,1,1,Qualcomm Snapdragon MSM8255,854,4.2,480,so,Sony mobile,512,1024,Xperia arc,android,2.3,191,/static/images/icons/SO-01C.jpg,/static/images/phones/SO-01C.jpg,0,0
+SO-01D,1,1,Qualcomm Snapdragon MSM8655,854,4,480,so,Sony mobile,512,16384,Xperia PLAY,android,2.3,393,/static/images/icons/SO-01D.jpg,/static/images/phones/SO-01D.jpg,0,0
+SO-01E,2,1.5,Qualcomm Snapdragon MSM8960,1280,4.3,720,so,Sony mobile,1024,16384,Xperia AX,android,4.1,391,/static/images/icons/SO-01E.jpg,/static/images/phones/SO-01E.jpg,0,0
+SO-01F,4,2.2,Qualcomm Snapdragon 800 MSM8974,1920,5,1080,so,Sony mobile,2048,32768,Xperia Z1,android,4.4,341,/static/images/icons/SO-01F.jpg,/static/images/phones/SO-01F.jpg,1,1
+SO-01G,4,2.5,Qualcomm Snapdragon 801 MSM8974AC,1920,5.2,1080,so,Sony mobile,3072,32768,Xperia Z3,android,5,397,/static/images/icons/SO-01G.jpg,/static/images/phones/SO-01G.jpg,1,1
+SO-01H,8,2,Qualcomm Snapdragon 810 MSM8994,1920,5.2,1080,so,Sony mobile,3072,32768,Xperia Z5,android,5.1,366,/static/images/icons/SO-01H.jpg,/static/images/phones/SO-01H.jpg,1,1
+SO-02C,1,1,Qualcomm Snapdragon MSM8255,854,4.2,480,so,Sony mobile,512,1024,Xperia acro,android,2.3,185,/static/images/icons/SO-02C.jpg,/static/images/phones/SO-02C.jpg,0,0
+SO-02D,2,1.5,Qualcomm Snapdragon MSM8260,1280,4.3,720,so,Sony mobile,1024,32768,Xperia NX,android,4,371,/static/images/icons/SO-02D.jpg,/static/images/phones/SO-02D.jpg,0,0
+SO-02E,4,1.5,Qualcomm Snapdragon S4 Pro APQ8064,1920,5,1080,so,Sony mobile,2048,16384,Xperia Z,android,4.4,260,/static/images/icons/SO-02E.jpg,/static/images/phones/SO-02E.jpg,1,0
+SO-02F,4,2.2,Qualcomm Snapdragon 800 MSM8974,1280,4.3,720,so,Sony mobile,2048,16384,Xperia Z1 f,android,4.4,378,/static/images/icons/SO-02F.jpg,/static/images/phones/SO-02F.jpg,0,0
+SO-02G,4,2.5,Qualcomm Snapdragon 801 MSM8974AC,1280,4.6,720,so,Sony mobile,2048,16384,Xperia Z3 Compact,android,5,351,/static/images/icons/SO-02G.jpg,/static/images/phones/SO-02G.jpg,0,0
+SO-02H,8,2,Qualcomm Snapdragon 810 MSM8994,1280,4.6,720,so,Sony mobile,2048,32768,Xperia Z5 Compact,android,5.1,388,/static/images/icons/SO-02H.jpg,/static/images/phones/SO-02H.jpg,0,0
+SO-03D,2,1.5,Qualcomm Snapdragon MSM8260,1280,4.3,720,so,Sony mobile,1024,16384,Xperia acro HD,android,4,384,/static/images/icons/SO-03D.jpg,/static/images/phones/SO-03D.jpg,0,0
+SO-03F,4,2.3,Qualcomm Snapdragon 801 MSM8974AB,1920,5.2,1080,so,Sony mobile,3072,32768,Xperia Z2,android,5,281,/static/images/icons/SO-03F.jpg,/static/images/phones/SO-03F.jpg,1,1
+SO-03G,8,2,Qualcomm Snapdragon 810 MSM8994,1920,5.2,1080,so,Sony mobile,3072,32768,Xperia Z4,android,5,266,/static/images/icons/SO-03G.jpg,/static/images/phones/SO-03G.jpg,1,1
+SO-03H,8,2,Qualcomm Snapdragon 810 MSM8994,3840,5.5,2160,so,Sony mobile,3072,32768,Xperia Z5 Premium,android,5.1,307,/static/images/icons/SO-03H.jpg,/static/images/phones/SO-03H.jpg,1,1
+SO-04D,2,1.5,Qualcomm Snapdragon MSM8960,1280,4.6,720,so,Sony mobile,1024,16384,Xperia GX,android,4.1,363,/static/images/icons/SO-04D.jpg,/static/images/phones/SO-04D.jpg,0,0
+SO-04E,4,1.5,Qualcomm Snapdragon S4 Pro APQ8064,1280,4.6,720,so,Sony mobile,2048,32768,Xperia A,android,4.2,384,/static/images/icons/SO-04E.jpg,/static/images/phones/SO-04E.jpg,0,0
+SO-04E_MIKU,4,1.5,Qualcomm Snapdragon S4 Pro APQ8064,1280,4.6,720,so,Sony mobile,2048,32768,Xperia feat. HATSUNE MIKU,android,4.2,375,/static/images/icons/SO-04E_MIKU.jpg,/static/images/phones/SO-04E_MIKU.jpg,0,0
+SO-04F,4,2.2,Qualcomm Snapdragon 800 MSM8974,1280,4.3,720,so,Sony mobile,2048,16384,Xperia A2,android,4.4,358,/static/images/icons/SO-04F.jpg,/static/images/phones/SO-04F.jpg,0,0
+SO-04G,4,2.5,Qualcomm Snapdragon 801 MSM8974AC,1280,4.6,720,so,Sony mobile,2048,16384,Xperia A4,android,5,262,/static/images/icons/SO-04G.jpg,/static/images/phones/SO-04G.jpg,0,0
+SO-05G,8,1.5,Qualcomm MSM8994,1600,10.1,2560,,SONY,3072,32768,Xperia Z4 Tablet,android,5.0.2,332,/static/images/icons/SO-05G.jpg,/static/images/phones/SO-05G.jpg,1,0
+SOL21,2,1.5,Qualcomm Snapdragon MSM8960,1280,4.3,720,so,Sony mobile,1024,16384,Xperia VL,android,4.1,261,/static/images/icons/SOL21.jpg,/static/images/phones/SOL21.jpg,0,0
+SOL22,4,1.5,Qualcomm Snapdragon S4 Pro APQ8064,1920,5,1080,so,Sony mobile,2048,16384,Xperia UL,android,4.2,373,/static/images/icons/SOL22.jpg,/static/images/phones/SOL22.jpg,1,0
+SOL23,4,2.2,Qualcomm Snapdragon 800 MSM8974,1920,5,1080,so,Sony mobile,2048,32768,Xperia Z1,android,4.4,276,/static/images/icons/SOL23.jpg,/static/images/phones/SOL23.jpg,1,1
+SOL24,4,2.2,Qualcomm Snapdragon 800 MSM8974,1920,6.4,1080,so,Sony mobile,2048,32768,Xperia Z Ultra,android,4.4,354,/static/images/icons/SOL24.jpg,/static/images/phones/SOL24.jpg,1,1
+SOL25,4,2.3,Qualcomm Snapdragon 801 MSM8974AB,1920,5,1080,so,Sony mobile,3072,32768,Xperia ZL2,android,5,340,/static/images/icons/SOL25.jpg,/static/images/phones/SOL25.jpg,1,1
+SOL26,4,2.5,Qualcomm Snapdragon 801 MSM8974AC,1920,5.2,1080,so,Sony mobile,3072,32768,Xperia Z3,android,5,284,/static/images/icons/SOL26.jpg,/static/images/phones/SOL26.jpg,1,1
+SOV31,8,2,Qualcomm Snapdragon 810 MSM8994,1920,5.2,1080,so,Sony mobile,3072,32768,Xperia Z4,android,5,360,/static/images/icons/SOV31.jpg,/static/images/phones/SOV31.jpg,1,1
+SOV32,8,2,Qualcomm Snapdragon 810 MSM8994,1920,5.2,1080,so,Sony mobile,3072,32768,Xperia Z5,android,5.1,300,/static/images/icons/SOV32.jpg,/static/images/phones/SOV32.jpg,1,1
+Spray_402LG,4,1.2,Qualcomm Snapdragon 400 MSM8926,1280,4.5,720,l,LG,1536,8192,Spray 402LG,android,4.4,326,/static/images/icons/Spray_402LG.jpg,/static/images/phones/Spray_402LG.jpg,0,0
+T-01C,1,1,Qualcomm Snapdragon QSD8250,854,4,480,t,Fujitsu Toshiba,512,1024,REGZA Phone,android,2.2,159,/static/images/icons/T-01C.jpg,/static/images/phones/T-01C.jpg,0,0
+T-01D,2,1.2,Texas Instruments OMAP4430,1280,4.3,720,t,Fujitsu Toshiba,1024,4096,REGZA Phone,android,4,348,/static/images/icons/T-01D.jpg,/static/images/phones/T-01D.jpg,0,0
+T-02D,2,1.5,Qualcomm Snapdragon MSM8960,960,4.3,540,t,Fujitsu Toshiba,1024,8192,REGZA Phone,android,4.1,341,/static/images/icons/T-02D.jpg,/static/images/phones/T-02D.jpg,0,0
+URBANO_PROGRESSO,1,1.4,Qualcomm Snapdragon MSM8655,800,4,480,k,KYOCERA,1024,4096,URBANO PROGRESSO,android,4,270,/static/images/icons/URBANO_PROGRESSO.jpg,/static/images/phones/URBANO_PROGRESSO.jpg,0,0
+V02,4,1.4,Qualcomm Snapdragon 400 MSM8928,1280,5,720,k,KYOCERA,2048,16384,URBANO,android,5.1,262,/static/images/icons/V02.jpg,/static/images/phones/V02.jpg,1,0
+VAIO_Phone,4,1.2,Qualcomm Snapdragon 410 MSM8916,1280,5,720,v,VAIO,2048,16384,VAIO Phone,android,5,353,/static/images/icons/VAIO_Phone.jpg,/static/images/phones/VAIO_Phone.jpg,0,0
+WX04K,2,1.2,ルネサス R-Mobile APE5R,800,4,480,k,KYOCERA,1024,2048,DIGNO DUAL,android,4.1,390,/static/images/icons/WX04K.jpg,/static/images/phones/WX04K.jpg,0,0
+WX04SH,2,1.5,Qualcomm Snapdragon S4 Plus MSM8260A,854,4,480,sh,SHARP,1024,8192,AQUOS PHONE es,android,4.1,320,/static/images/icons/WX04SH.jpg,/static/images/phones/WX04SH.jpg,0,0
+WX05SH,2,1.5,Qualcomm Snapdragon S4 Plus MSM8260A,854,4,480,sh,SHARP,1024,8192,AQUOS PHONE ef,android,4.1,382,/static/images/icons/WX05SH.jpg,/static/images/phones/WX05SH.jpg,0,0
+WX10K,2,1.5,Qualcomm Snapdragon MSM8960,1280,4.7,720,k,KYOCERA,1536,16384,DIGNO DUAL 2,android,4.2,280,/static/images/icons/WX10K.jpg,/static/images/phones/WX10K.jpg,0,0
+X9077,4,2.5,Qualcomm MSM8974AC Snapdragon 801,2560,5.5,1440,,Oppo,3072,32768,Oppo Find 7,android,4.3,303,/static/images/icons/X9077.jpg,/static/images/phones/X9077.jpg,1,1
+XT1053,2,1.7,Qualcomm Snapdragon S4 MSM8960DT,1280,4.7,720,,Motorola,2048,16384,Moto X (1st gen.),android,4.4.4,361,/static/images/icons/XT1053.jpg,/static/images/phones/XT1053.jpg,0,0
+XT1092,4,2.5,Qualcomm Snapdragon 801,1920,5.2,1080,,Motorola,2048,16384,Moto X (2nd gen.),android,4.4.4,270,/static/images/icons/XT1092.jpg,/static/images/phones/XT1092.jpg,1,1
+Xperia_J1_Compact,4,2.2,Qualcomm Snapdragon 800 MSM8974,1280,4.3,720,so,Sony mobile,2048,16384,Xperia J1 Compact,android,4.4,294,/static/images/icons/Xperia_J1_Compact.jpg,/static/images/phones/Xperia_J1_Compact.jpg,0,0
+Xperia_Z5,8,2,Qualcomm Snapdragon 810 MSM8994,1920,5.2,1080,so,Sony mobile,3072,32768,Xperia Z5,android,5.1,388,/static/images/icons/Xperia_Z5.jpg,/static/images/phones/Xperia_Z5.jpg,1,1
+ZenFone_2_Laser,4,1.2,Qualcomm Snapdragon 410 MSM8916,1280,5,720,as,ASUS,2048,16384,ZenFone 2 Laser,android,5,326,/static/images/icons/ZenFone_2_Laser.jpg,/static/images/phones/ZenFone_2_Laser.jpg,0,0
+ZenFone_2_ZE551ML,4,2.3,Intel Atom Quad Core Z3580,1920,5.5,1080,as,ASUS,4096,65536,ZenFone 2,android,5,374,/static/images/icons/ZenFone_2_ZE551ML.jpg,/static/images/phones/ZenFone_2_ZE551ML.jpg,1,1
+ZenFone_5_A500KL,4,1.2,Qualcomm Snapdragon 400 MSM8926,1280,5,720,as,ASUS,2048,32768,ZenFone 5,android,4.4,329,/static/images/icons/ZenFone_5_A500KL.jpg,/static/images/phones/ZenFone_5_A500KL.jpg,0,0
+ZenFone_Selfie,8,1.7,Qualcomm Snapdragon 615 MSM8939,1920,5.5,1080,as,ASUS,3072,16364,ZenFone Selfie,android,5,276,/static/images/icons/ZenFone_Selfie.jpg,/static/images/phones/ZenFone_Selfie.jpg,0,0
+_B6000-F,4,1.2,MediaTek MT8125,1600,8,1280,,Lenovo,1024,16384,Yoga Tablet 8,android,4.2,288,/static/images/icons/_B6000-F.jpg,/static/images/phones/_B6000-F.jpg,0,0
+_G750-U10,8,1.7,Mediatek MT6592,1280,5.5,720,,Huawei,2048,8192,Honor 3X,android,4.2.2,392,/static/images/icons/_G750-U10.jpg,/static/images/phones/_G750-U10.jpg,0,0
+_M8x,4,2.5,Qualcomm Snapdragon 801 MSM8974AC,1920,5,1080,,HTC,2048,16384,HTC One M8x LTE,android,4.4.2,365,/static/images/icons/_M8x.jpg,/static/images/phones/_M8x.jpg,1,1
+arrows_M02,4,1.2,Qualcomm Snapdragon 410 MSM8916,1280,5,720,f,Fujitsu,2048,16384,arrows M02,android,5.1,344,/static/images/icons/arrows_M02.jpg,/static/images/phones/arrows_M02.jpg,0,0
+freetel_XM,4,1.2,Qualcomm Snapdragon 400 MSM8926,1280,5,720,z,ZTE,1024,16384,freetel XM,android,4.4,350,/static/images/icons/freetel_XM.jpg,/static/images/phones/freetel_XM.jpg,0,0
+g01,4,1.3,MediaTek MT6582M,854,5,480,z,ZTE,1024,8192,g01,android,5,310,/static/images/icons/g01.jpg,/static/images/phones/g01.jpg,0,0
+g02,4,1.2,Qualcomm Snapdragon 410 MSM8916,1280,5,720,z,ZTE,1024,8192,g02,android,5,311,/static/images/icons/g02.jpg,/static/images/phones/g02.jpg,0,0
+g03,8,1.5,Qualcomm Snapdragon 615 MSM8939,1280,5,720,z,ZTE,2048,16384,g03,android,5,273,/static/images/icons/g03.jpg,/static/images/phones/g03.jpg,1,0
+g04,4,1.2,Qualcomm Snapdragon 400 MSM8926,1280,5,720,sh,SHARP,2048,16384,g04,android,5,399,/static/images/icons/g04.jpg,/static/images/phones/g04.jpg,0,0
+g05,8,1.5,Qualcomm Snapdragon 615 MSM8939,1920,5,1080,z,ZTE,3072,32768,g05,android,5.1,312,/static/images/icons/g05.jpg,/static/images/phones/g05.jpg,1,0
+honor6_Plus,8,1.8,Hisilicon Kirin925,1920,5.5,1080,hw,Huawei,3072,32768,honor6 Plus,android,5.1,310,/static/images/icons/honor6_Plus.jpg,/static/images/phones/honor6_Plus.jpg,1,1
+iPhone_3GS,1,0.6,Samsung S5PC100,480,3.5,320,a,Apple,256,32768,iPhone 3GS,ios,6.1.6,271,/static/images/icons/iPhone_3GS.jpg,/static/images/phones/iPhone_3GS.jpg,0,0
+iPhone_4,1,1,Apple A4,960,3.5,640,a,Apple,512,32768,iPhone 4,ios,7.1,275,/static/images/icons/iPhone_4.jpg,/static/images/phones/iPhone_4.jpg,0,0
+iPhone_4S,2,1,Apple A5,960,3.5,640,a,Apple,512,65536,iPhone 4S,ios,8.4,324,/static/images/icons/iPhone_4S.jpg,/static/images/phones/iPhone_4S.jpg,0,0
+iPhone_4S_,2,1,Apple A5,960,3.5,640,a,Apple,512,65536,iPhone 4S,ios,8.4,342,/static/images/icons/iPhone_4S_.jpg,/static/images/phones/iPhone_4S_.jpg,0,0
+iPhone_4S__,2,1,Apple A5,960,3.5,640,a,Apple,512,16384,iPhone 4S,ios,8.4,381,/static/images/icons/iPhone_4S__.jpg,/static/images/phones/iPhone_4S__.jpg,0,0
+iPhone_5,2,1.3,Apple A6,1136,4,640,a,Apple,1024,65536,iPhone 5,ios,8.4,292,/static/images/icons/iPhone_5.jpg,/static/images/phones/iPhone_5.jpg,0,0
+iPhone_5C,2,1.25,Apple A6,1136,4,640,a,Apple,1024,32768,iPhone 5c,ios,8.4,294,/static/images/icons/iPhone_5C.jpg,/static/images/phones/iPhone_5C.jpg,0,0
+iPhone_5C_,2,1.25,Apple A6,1136,4,640,a,Apple,1024,32768,iPhone 5c,ios,8.4,366,/static/images/icons/iPhone_5C_.jpg,/static/images/phones/iPhone_5C_.jpg,0,0
+iPhone_5C___,2,1.25,Apple A6,1136,4,640,a,Apple,1024,32768,iPhone 5c,ios,8.4,329,/static/images/icons/iPhone_5C___.jpg,/static/images/phones/iPhone_5C___.jpg,0,0
+iPhone_5S,2,1.3,Apple A7,1136,4,640,a,Apple,1024,65536,iPhone 5s,ios,8.4,364,/static/images/icons/iPhone_5S.jpg,/static/images/phones/iPhone_5S.jpg,0,0
+iPhone_5S_,2,1.3,Apple A7,1136,4,640,a,Apple,1024,65536,iPhone 5s,ios,8.4,314,/static/images/icons/iPhone_5S_.jpg,/static/images/phones/iPhone_5S_.jpg,0,0
+iPhone_5S___,2,1.3,Apple A7,1136,4,640,a,Apple,1024,65536,iPhone 5s,ios,8.4,395,/static/images/icons/iPhone_5S___.jpg,/static/images/phones/iPhone_5S___.jpg,0,0
+iPhone_5_,2,1.3,Apple A6,1136,4,640,a,Apple,1024,65536,iPhone 5,ios,8.4,396,/static/images/icons/iPhone_5_.jpg,/static/images/phones/iPhone_5_.jpg,0,0
+iPhone_6,2,1.4,Apple A8,1334,4.7,750,a,Apple,1024,131072,iPhone 6,ios,8.4,310,/static/images/icons/iPhone_6.jpg,/static/images/phones/iPhone_6.jpg,0,0
+iPhone_6_,2,1.4,Apple A8,1334,4.7,750,a,Apple,1024,131072,iPhone 6,ios,8.4,389,/static/images/icons/iPhone_6_.jpg,/static/images/phones/iPhone_6_.jpg,0,0
+iPhone_6_Plus,2,1.4,Apple A8,1920,5.5,1080,a,Apple,1024,131072,iPhone 6 Plus,ios,8.4,368,/static/images/icons/iPhone_6_Plus.jpg,/static/images/phones/iPhone_6_Plus.jpg,0,0
+iPhone_6_Plus_,2,1.4,Apple A8,1920,5.5,1080,a,Apple,1024,131072,iPhone 6 Plus,ios,8.4,376,/static/images/icons/iPhone_6_Plus_.jpg,/static/images/phones/iPhone_6_Plus_.jpg,0,0
+iPhone_6_Plus__,2,1.4,Apple A8,1920,5.5,1080,a,Apple,1024,131072,iPhone 6 Plus,ios,8.4,290,/static/images/icons/iPhone_6_Plus__.jpg,/static/images/phones/iPhone_6_Plus__.jpg,0,0
+iPhone_6__,2,1.4,Apple A8,1334,4.7,750,a,Apple,1024,131072,iPhone 6,ios,8.4,359,/static/images/icons/iPhone_6__.jpg,/static/images/phones/iPhone_6__.jpg,0,0
+iPhone_6s,2,1.8,Apple A9,1334,4.7,750,a,Apple,2048,131072,iPhone 6s,ios,9,355,/static/images/icons/iPhone_6s.jpg,/static/images/phones/iPhone_6s.jpg,0,0
+iPhone_6s,2,1.8,Apple A9,1334,4.7,750,a,Apple,2048,131072,iPhone 6s,ios,9,293,/static/images/icons/iPhone_6s.jpg,/static/images/phones/iPhone_6s.jpg,0,0
+iPhone_6s_Plus,2,1.8,Apple A9,1920,5.5,1080,a,Apple,2048,131072,iPhone 6s Plus,ios,9,316,/static/images/icons/iPhone_6s_Plus.jpg,/static/images/phones/iPhone_6s_Plus.jpg,1,0
+iPhone_6s_Plus_,2,1.8,Apple A9,1920,5.5,1080,a,Apple,2048,131072,iPhone 6s Plus,ios,9,359,/static/images/icons/iPhone_6s_Plus_.jpg,/static/images/phones/iPhone_6s_Plus_.jpg,1,0
+iPhone_6s_Plus__,2,1.8,Apple A9,1920,5.5,1080,a,Apple,2048,131072,iPhone 6s Plus,ios,9,264,/static/images/icons/iPhone_6s_Plus__.jpg,/static/images/phones/iPhone_6s_Plus__.jpg,1,0
+iPhone_6s__,2,1.8,Apple A9,1334,4.7,750,a,Apple,2048,131072,iPhone 6s,ios,9,396,/static/images/icons/iPhone_6s__.jpg,/static/images/phones/iPhone_6s__.jpg,0,0

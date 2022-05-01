@@ -4,6 +4,7 @@ import { FaMemory } from "react-icons/fa";
 import { BiMemoryCard } from "react-icons/bi";
 import { AiOutlineCloseCircle } from "react-icons/ai";
 import { MdOutlineScreenshot } from "react-icons/md";
+import { priceFormat } from "./ProductItem";
 
 const ProductDetail = ({ onCloseForm, product }) => {
   const memoryRAM = product["memory_ram"] / 1024;
@@ -23,7 +24,7 @@ const ProductDetail = ({ onCloseForm, product }) => {
         <div className="flex justify-center">
           <img
             src={`http://127.0.0.1:5000${product["url_photo"]}`}
-            className="w-auto h-[320px]"
+            className="w-auto h-[320px] object-contain"
             alt={product["name_id"]}
           />
         </div>
@@ -49,10 +50,15 @@ const ProductDetail = ({ onCloseForm, product }) => {
             <div className="flex items-center mb-2 text-base">
               <h4>Bộ nhớ trong: {memoryROM} GB</h4>
             </div>
-            <div className="flex items-center text-base">
+            <div className="flex items-center mb-2 text-base">
               <h4>
                 Hệ điều hành: {product["os_type"]} - Phiên bản:{" "}
                 {product["os_version"]}
+              </h4>
+            </div>
+            <div className="flex items-center text-base text-[#D70018]">
+              <h4 className="text-[18px] font-bold">
+                Giá sản phẩm: {priceFormat.format(parseInt(product.price))}
               </h4>
             </div>
 

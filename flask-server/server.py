@@ -117,49 +117,49 @@ def post_filter():
   query = "SELECT * FROM smartphones WHERE 1=1"
   if (query_data["cpu_cores"]):
     if len(query_data["cpu_cores"]) == 1:
-      query_cpu_cores="({})".format(query_data["cpu_cores"][0])
+      query_cpu_cores="(\"{}\")".format(query_data["cpu_cores"][0])
     else:
       query_cpu_cores = tuple(query_data["cpu_cores"])
     query += " AND cpu_cores in {}".format(query_cpu_cores)
 
   if (query_data["cpu_freq"]):
     if len(query_data["cpu_freq"]) == 1:
-      cpu_freq="({})".format(query_data["cpu_freq"][0])
+      cpu_freq="(\"{}\")".format(query_data["cpu_freq"][0])
     else:
       cpu_freq = tuple(query_data["cpu_freq"])
     query += " AND cpu_freq in {}".format(cpu_freq)
 
   if (query_data["screen"]):
     if len(query_data["screen"]) == 1:
-      screen="({})".format(query_data["screen"][0])
+      screen="(\"{}\")".format(query_data["screen"][0])
     else:
       screen = tuple(query_data["screen"])
     query += " AND screen in {}".format(screen)
 
   if (query_data["memory_ram"]):
     if len(query_data["memory_ram"]) == 1:
-      memory_ram="({})".format(query_data["memory_ram"][0])
+      memory_ram="(\"{}\")".format(query_data["memory_ram"][0])
     else:
       memory_ram = tuple(query_data["memory_ram"])
     query += " AND memory_ram in {}".format(memory_ram)
 
   if (query_data["memory_rom"]):
     if len(query_data["memory_rom"]) == 1:
-      memory_rom="({})".format(query_data["memory_rom"][0])
+      memory_rom="(\"{}\")".format(query_data["memory_rom"][0])
     else:
       memory_rom = tuple(query_data["memory_rom"])
     query += " AND memory_rom in {}".format(memory_rom)
 
   if (query_data["study_work"]):
     if len(query_data["study_work"]) == 1:
-      study_work="({})".format(query_data["study_work"][0])
+      study_work="(\"{}\")".format(query_data["study_work"][0])
     else:
       study_work = tuple(query_data["study_work"])
     query += " AND study_work in {}".format(study_work)
 
   if (query_data["entertainment"]):
     if len(query_data["entertainment"]) == 1:
-      entertainment="({})".format(query_data["entertainment"][0])
+      entertainment="(\"{}\")".format(query_data["entertainment"][0])
     else:
       entertainment = tuple(query_data["entertainment"])
     query += " AND entertainment in {}".format(entertainment)
