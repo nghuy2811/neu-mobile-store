@@ -164,7 +164,7 @@ def post_filter():
       entertainment = tuple(query_data["entertainment"])
     query += " AND entertainment in {}".format(entertainment)
 
-  connection = sqlite3.connect(current_dir + "\smartphone.db")
+  connection = sqlite3.connect(current_dir + "/smartphone.db")
   cursor = connection.cursor()
   rows = cursor.execute(query).fetchall()
   columns = [desc[0] for desc in cursor.description]
