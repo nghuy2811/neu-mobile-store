@@ -5,6 +5,7 @@ import { BiMemoryCard } from "react-icons/bi";
 import { AiOutlineCloseCircle } from "react-icons/ai";
 import { MdOutlineScreenshot } from "react-icons/md";
 import { priceFormat } from "./ProductItem";
+// import { API_URL } from "@/constants.ts";
 
 const ProductDetail = ({ onCloseForm, product }) => {
   const memoryRAM = product["memory_ram"] / 1024;
@@ -23,7 +24,8 @@ const ProductDetail = ({ onCloseForm, product }) => {
       <div className="flex flex-col md:flex-row gap-x-[20px] gap-y-[30px]">
         <div className="flex justify-center">
           <img
-            src={`http://127.0.0.1:5000${product["url_photo"]}`}
+            src={process.env.API_URL + `${product["url_photo"]}`}
+            // src={`http://127.0.0.1:5000${product["url_photo"]}`}
             className="w-auto h-[320px] object-contain"
             alt={product["name_id"]}
           />
