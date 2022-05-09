@@ -12,7 +12,7 @@ On Windows:
 On MacOS:
 
 - If venv has not been installed, run "python3 -m venv venv"
-- Run 'venv\bin\activate'
+- Run 'source venv/bin/activate'
 - On the first run, run 'pip3 install -r requirements.txt' to install all packages
 - Run "python3 server.py"
 
