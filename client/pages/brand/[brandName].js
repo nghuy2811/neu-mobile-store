@@ -33,23 +33,9 @@ const AllProductsByBrand = ({ products }) => {
   );
 };
 
-export const getStaticPaths = async () => {
-  const req = await phoneService.getAllBrands();
-  const res = await req.data;
-  const paths = res["maker_name"].map((item) => ({
-    params: {
-      brand: item[0].toString(),
-    },
-  }));
-
-  return {
-    paths,
-    fallback: false,
-  };
-};
-
-export const getStaticProps = async ({ params }) => {
-  const req = await phoneService.getPhonesByBrand(params.brand);
+export async function getServerSideProps(context) {
+  const brandName = context.params.brandName;
+  const req = await phoneService.getPhonesByBrand(brandName);
   const products = await req.data;
 
   return {
@@ -57,6 +43,32 @@ export const getStaticProps = async ({ params }) => {
       products,
     },
   };
-};
+}
+
+// export const getStaticPaths = async () => {
+//   const req = await phoneService.getAllBrands();
+//   const res = await req.data;
+//   const paths = res["maker_name"].map((item) => ({
+//     params: {
+//       brand: item[0].toString(),
+//     },
+//   }));
+
+//   return {
+//     paths,
+//     fallback: false,
+//   };
+// };
+
+// export const getStaticProps = async ({ params }) => {
+//   const req = await phoneService.getPhonesByBrand(params.brand);
+//   const products = await req.data;
+
+//   return {
+//     props: {
+//       products,
+//     },
+//   };
+// };
 
 export default AllProductsByBrand;
