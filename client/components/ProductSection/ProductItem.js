@@ -8,6 +8,7 @@ import { GiPriceTag } from "react-icons/gi";
 import PopupModal from "../PopupModal";
 import ProductDetail from "./ProductDetail";
 import styles from "./style.module.scss";
+// import { API_URL } from "@/constants.ts";
 
 export const priceFormat = new Intl.NumberFormat("en-US", {
   style: "currency",
@@ -32,7 +33,8 @@ const ProductItem = ({ product }) => {
       <div className={styles["product-item"]} onClick={handleOpenDetail}>
         <div className="flex justify-center">
           <img
-            src={`http://127.0.0.1:5000${product["url_icon"]}`}
+            src={process.env.API_URL + `${product["url_icon"]}`}
+            // src={`http://127.0.0.1:5000${product["url_icon"]}`}
             className="object-contain"
             alt={product["name_id"]}
           />
