@@ -45,30 +45,4 @@ export async function getServerSideProps(context) {
   };
 }
 
-// export const getStaticPaths = async () => {
-//   const req = await phoneService.getAllBrands();
-//   const res = await req.data;
-//   const paths = res["maker_name"].map((item) => ({
-//     params: {
-//       brand: item[0].toString(),
-//     },
-//   }));
-
-//   return {
-//     paths,
-//     fallback: false,
-//   };
-// };
-
-// export const getStaticProps = async ({ params }) => {
-//   const req = await phoneService.getPhonesByBrand(params.brand);
-//   const products = await req.data;
-
-//   return {
-//     props: {
-//       products,
-//     },
-//   };
-// };
-
 export default AllProductsByBrand;
